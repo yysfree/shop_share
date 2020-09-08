@@ -1,0 +1,2115 @@
+,store_name,street_address,postal_code,cluster,lat,long
+0,Harry Rosen Inc.,218 Yonge Blvd,M5M 3H8,1,45.4752,-73.6961
+1,Despina Kirk Assets,113 Brock Street North,L1M 4H3,1,45.5057,-73.555
+2,Lady Ann Superstore African Boutique,1758 Eglinton Ave West,M6E 2H6,8,43.8769,-79.2686
+3,Precious Cuts,2900 Jane St,M3N 2J7,12,43.7124,-79.3644
+4,Extoggery Store,10 Brentcliffe Road,M4G 3Y2,15,43.7568,-79.521
+5,Elegant Wedding Bridal Show,200 de la Commune St W,H2Y 4B2,17,43.6889,-79.4507
+6,NBS Global Services Inc,8531 Chemin Delmeade #103,H4T 1M1,5,43.9566,-78.9779
+7,Facial Expressions by Giselle,144 Main Street North. Unit: 15,L3P 5T3,2,43.7335,-79.4177
+8,Top Fashion,1000 Gerrard St E,M4M 3G6,19,43.6561,-79.3406
+9,Addition-Elle,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+10,Lululemon Athletica,2558 Yonge St,M4P 2J2,12,43.7135,-79.3887
+11,Livestock,116 Spadina Ave,M5V 2K6,11,43.6404,-79.3995
+12,Fashion Accessories,439 Parliament St,M5A 3A1,0,43.6555,-79.3626
+13,Skirt,476 Bloor St W,M5S 1X8,16,43.6629,-79.3987
+14,Brooks Brothers,200 Bay UR1,M5J 2J8,11,43.62300000000001,-79.3936
+15,H&amp;M,1 Dundas St W,M5G 1Z3,0,43.6564,-79.38600000000002
+16,LIT,171 East Liberty St,M6K 3P6,11,43.6383,-79.4301
+17,La Boutiques,1257 St Clair Ave W,M6E 1B8,17,43.6889,-79.4507
+18,Gucci,130 Bloor St W,M5S 1N5,16,43.6629,-79.3987
+19,Maxwell's Men's Shop,900 Don Mills Rd,M3C 1V6,18,43.7334,-79.3329
+20,Cabaret,672 Queen St W,M6J 1E5,11,43.648,-79.4177
+21,First Canadian Place,130 King W,M5X 1K7,0,43.6492,-79.3823
+22,Bench,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+23,Bella Boutique,1197 St Clair Ave W,M6E 1B5,17,43.6889,-79.4507
+24,Fashion Whore,1301 Bloor St W,M6H 1P1,17,43.6655,-79.4378
+25,Sarah,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+26,Parasuco,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+27,Ralph Lauren,2 Queen St E,M5C 3G7,0,43.6513,-79.3756
+28,Benetton,102 Bloor St W,M5S 1M8,16,43.6629,-79.3987
+29,Finishing Touches,3281 Yonge St,M4N 2L8,12,43.7301,-79.3935
+30,Prestige Retail Inc,1396 Gerrard St E,M4L 1Z4,19,43.6693,-79.3155
+31,West 49 Inc,419 King St W,M5V 1K2,11,43.6404,-79.3995
+32,Forever Umbrella,717 Queen St W,M6J 1E6,11,43.648,-79.4177
+33,Chanel Boutique,131 Bloor W,M5G,0,43.6564,-79.38600000000002
+34,Wolford Boutique,126 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+35,Massimo Dutti,200 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+36,At Eaze,385 Yonge St,M5B 1S1,0,43.6572,-79.3783
+37,Paris Boutique,262 Parliament St,M5A 3A4,0,43.6555,-79.3626
+38,Brian Bailey,878 Queen St W,M6J 1G3,11,43.648,-79.4177
+39,Kind Exchange,439 Danforth Ave,M4K 1P1,19,43.6803,-79.3538
+40,Top Gear,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+41,Tilley Endurables Inc,77 Front St E,M5E 1B8,0,43.6456,-79.3754
+42,Hermes,130 Bloor St W,M5S 1N6,16,43.6629,-79.3987
+43,Hugo Boss Canada Inc,39 Hazelton Av,M5R 2E2,16,43.6736,-79.4035
+44,Victoire,129 Ossington Ave,M6J 2Z6,11,43.648,-79.4177
+45,Lipton,1678 Eglinton Ave W,M6E 2H5,17,43.6889,-79.4507
+46,Billabong,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+47,Old Navy Store,5464-260 Yonge Blvd,M5M 3J3,2,43.7335,-79.4177
+48,Show Room,278B Queen Street West,M5V 2A1,11,43.6404,-79.3995
+49,Due West Clothing Co,431 Queen St W,M5V 2A5,11,43.6404,-79.3995
+50,Fashion United,675 King St W,M5V 1M9,11,43.6404,-79.3995
+51,Hide,789 Dundas St W,M6J 1V2,11,43.648,-79.4177
+52,Accessorize Me,1273 Queen St W,M6K 1L6,11,43.6383,-79.4301
+53,Butterfly,2190 Yonge St,M4S 2B8,12,43.702,-79.3853
+54,SEGAL,894 Eglinton Ave W,M6C 2B6,17,43.6915,-79.4307
+55,Venture III Industries Inc,50 Wingold Av,M6B 1P5,2,43.7081,-79.4479
+56,Hedex Fashion Group International,50 Wingold,M6B 1P5,2,43.7081,-79.4479
+57,Necessities Fashion Accessories,25 King W,M5L 1E8,0,43.6492,-79.3823
+58,Dapper Dan,Scarborough Town Centre,M5G,0,43.6564,-79.38600000000002
+59,Decibel,200 Queen St W,M5V 1Z2,11,43.6404,-79.3995
+60,Renata,113 Dupont,M5G,0,43.6564,-79.38600000000002
+61,Elsa Fashion,222 Spadina Ave,M5T 3B3,0,43.6541,-79.3978
+62,African Store,432 Dundas St E,M5A 2A8,0,43.6555,-79.3626
+63,Fortuna Canada,179 Baldwin St,M5T 1L9,0,43.6541,-79.3978
+64,The Embellished Room,620 Yonge Street,M4Y 1Z8,0,43.6656,-79.383
+65,Urbn Canada Retail Inc,761 Queen St W,M6J 1G1,11,43.648,-79.4177
+66,John Ferrigamo Custom Designs,93 Cumberland Street,M5R 3N7,16,43.6736,-79.4035
+67,As You Like It,92,M5R 2H2,16,43.6736,-79.4035
+68,Snug,348 Danforth Ave,M4K 1N8,19,43.6803,-79.3538
+69,Fiveoseven Clothing,496 Danforth Ave,M4K 1P6,19,43.6803,-79.3538
+70,Zenobia Collections Inc,672 Dupont St,M6G 1Z6,16,43.6683,-79.4205
+71,All You Want Boutique,1088 Bloor St W,M6H 1M6,17,43.6655,-79.4378
+72,Frock,97 Roncesvalles Ave,M6R 2K9,17,43.6469,-79.4521
+73,Forum,968,M6E 1A1,17,43.6889,-79.4507
+74,Mister Tuxedo,1202 St Clair Avenue West,M6E 1B4,17,43.6889,-79.4507
+75,Wishlist Yyz,629 Mount Pleasant Rd,M4S 2M9,12,43.702,-79.3853
+76,Cheap Thrills,1811 Danforth Ave,M4C 1J2,14,43.6913,-79.3116
+77,Canon Blanc Corporation,2624 Yonge St,M4P 2J4,12,43.7135,-79.3887
+78,LDL,2323 Bloor St W,M6S 4W1,6,43.6512,-79.4828
+79,J'Adore Couture Boutique,1849,M5M 3Z4,2,43.7335,-79.4177
+80,Want,1694 Avenue Road,M5M 3Y4,2,43.7335,-79.4177
+81,Notion Style,3333 Yonge St,M4N 2L9,12,43.7301,-79.3935
+82,The Coop,3435 Yonge St,M4N 2L8,12,43.7301,-79.3935
+83,Spanner,35 Karl Fraser Rd,M3C 0E5,18,43.7334,-79.3329
+84,Stonehouse,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+85,The Levi's Store,3401 Dufferin Street,M6A 2T9,2,43.7223,-79.4504
+86,Tna Eaton Centre,Yonge,M5B 2H1,0,43.6572,-79.3783
+87,Saigon,120 Adelaide St W,M5H 1T1,0,43.6496,-79.3833
+88,Eddie Bauer Inc,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+89,Price Roman,162 John,M5G,0,43.6564,-79.38600000000002
+90,Melanie Lyne Fairview Mall Shopping Centre,218 Yonge Street,M5B 2H6,0,43.6572,-79.3783
+91,Red Star Enterprises Ltd,1 Dundas St W,M5G 1Z3,0,43.6564,-79.38600000000002
+92,Boutique Monique,1024 A St,M5G,0,43.6564,-79.38600000000002
+93,Anti-Hero,113 Yorkville,M5G,0,43.6564,-79.38600000000002
+94,Joshua's,66 Wellington W,M5G,0,43.6564,-79.38600000000002
+95,Jazz Casuals,200 Wellington St W,M5V 3C7,11,43.6404,-79.3995
+96,Heavens,129 Dundas St E,M5B 2N6,0,43.6572,-79.3783
+97,JCY House,357 Queen St W,M5V 2A4,11,43.6404,-79.3995
+98,The Gap Inc,375 Queen St W,M5V 2A5,11,43.6404,-79.3995
+99,On Point,433 Yonge St,M5B 1T3,0,43.6572,-79.3783
+100,G-Star Raw,328 Queen St W,M5V 2A2,11,43.6404,-79.3995
+101,Yasmin's Boutique,262 Parliament St,M5A 3A4,0,43.6555,-79.3626
+102,NYC,523 Yonge St,M4Y 1Y3,0,43.6656,-79.383
+103,C T,590 King St W,M5V 1M3,11,43.6404,-79.3995
+104,Ekocouture Custom Drapes,66 Portland St,M5V 2M6,11,43.6404,-79.3995
+105,Tom's Place,190 Baldwin St,M5T 1L8,0,43.6541,-79.3978
+106,Janor Imports,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+107,Freda's,86 Bathurst St,M5V 2P5,11,43.6404,-79.3995
+108,Gotstyle,60 Bathurst St,M5V 2P7,11,43.6404,-79.3995
+109,Tokyo Fashion Studio,690 Yonge St,M4Y 2A6,0,43.6656,-79.383
+110,Fresh Baked Goods,274 Av Augusta,M5T 2L9,0,43.6541,-79.3978
+111,Ellen Margaret Moody,701 King St W,M5V 1M5,11,43.6404,-79.3995
+112,Max Mara,151 Bloor St W,M5S 1S4,16,43.6629,-79.3987
+113,Prada Canada Corp,131 Bloor St W,M5S 1R1,16,43.6629,-79.3987
+114,Whitney Linen,138 Sussex Mews,M5S 2K1,16,43.6629,-79.3987
+115,Cole A,101 Stadium Rd,M5V 2Z6,11,43.6404,-79.3995
+116,L'Elegante Ltd,132 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+117,Ann Hung Boutique,829 Queen St W,M6J 1G1,11,43.648,-79.4177
+118,7 Camicie,Cumberland,M5R 1A6,16,43.6736,-79.4035
+119,Sita,24 Bellair St,M5R 2C7,16,43.6736,-79.4035
+120,Free People,79 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+121,Betsey Johnson,102 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+122,Preloved,881 Queen St W,M6J 1G5,11,43.648,-79.4177
+123,Tokyo Smoke,76 Stafford Street Suite 303,M6J 2S1,11,43.648,-79.4177
+124,Marina Rinaldi,87 Avenue rd,M5R 3R9,16,43.6736,-79.4035
+125,Rina's Boutique,Avenue,M5R 2G3,16,43.6736,-79.4035
+126,Boutique Cherie,609 Bloor St W,M6G 1K5,16,43.6683,-79.4205
+127,Nova Moda,1138 Dundas St W,M6J 1X2,11,43.648,-79.4177
+128,Moda Fashion,706 Bloor St W,M6G 1L4,16,43.6683,-79.4205
+129,Revolve Clothing Company,1 Atlantic Av,M6K,11,43.6383,-79.4301
+130,Islands-Nancy DaSilva,117A Pape Ave,M4M 2V7,19,43.6561,-79.3406
+131,Gussied Up Inc,1090 Bathurst St,M5R 3G9,16,43.6736,-79.4035
+132,Arcade Men's Shop,1325 Dundas St W,M6J 1X8,11,43.648,-79.4177
+133,Cloakroom,1177 Yonge St,M4T 2Y4,12,43.6899,-79.3853
+134,Ooh La La Divas,883 Bloor St W,M6G 1M4,16,43.6683,-79.4205
+135,Madam Vintage Nearly New,168 Gladstone Av,M6J 3L2,11,43.648,-79.4177
+136,De-Dals Clothing,676 Danforth Ave,M4J 1L1,19,43.6872,-79.3368
+137,Ephin,1178 Bloor St W,M6H 1N1,17,43.6655,-79.4378
+138,Dlr Toronto,52 Vaughan Rd,M6G 2N4,16,43.6683,-79.4205
+139,Maharani Fashion,1417 Gerrard St E,M4L 1Z7,19,43.6693,-79.3155
+140,Milan Saree Emporium,1460 Gerrard St E,M4L 2A3,19,43.6693,-79.3155
+141,Ellie's Closet,107 Glenayr Rd,M5P 3C1,16,43.6966,-79.41199999999998
+142,Board Sports,2008 Yonge St,M4S 1Z7,12,43.702,-79.3853
+143,Seychelles Swimwear,1747 Queen St E,M4L 3Y4,19,43.6693,-79.3155
+144,Oggi Jeans,1237 St Clair Ave W,M6E 1B5,17,43.6889,-79.4507
+145,Mirabelli Design,456 Eglinton Ave W,M5N 1A5,2,43.7113,-79.4195
+146,Obsession Boutique,482 Eglinton Ave W,M5N 1A5,2,43.7113,-79.4195
+147,American Apparel - Eglinton,2466 Yonge St,M4P 2H5,12,43.7135,-79.3887
+148,Global Star Company,2915 Dundas St W,M6P 1Z1,17,43.6605,-79.4633
+149,Dessa Ltd,2551 Yonge St,M4P 2H9,12,43.7135,-79.3887
+150,Studio 77,1321,M6E 1C2,17,43.6889,-79.4507
+151,Long Legs Fashions For Tall Women Ltd,2717 Yonge St,M4N 2H8,12,43.7301,-79.3935
+152,Wardrobe Designer The,50 Runnymede Rd,M6S 2Y2,6,43.6512,-79.4828
+153,Tee Shirt People,1920 Eglinton Ave W,M6E 2J6,17,43.6889,-79.4507
+154,Lavish +,2120 Eglinton Ave W,M6E 2K8,17,43.6889,-79.4507
+155,W10 Colours,2700 Dufferin St,M6B 4J3,2,43.7081,-79.4479
+156,Chadwicks,2700 Dufferin St,M6B 4K6,2,43.7081,-79.4479
+157,Showroom Clothes For You,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+158,Canada Goose Inc,1381 Castlefield Ave,M6B 1G7,2,43.7081,-79.4479
+159,Catherine MacKay Fashions,10 Wynford Dr,M2K 2J9,18,43.7797,-79.3813
+160,Tique,3281 Yonge St,M4N 2L8,12,43.7301,-79.3935
+161,Army Outfitters,1695 Avenue Rd,M5M 3Y3,2,43.7335,-79.4177
+162,Reflections 101 Fine Clothing,100 Sunrise Ave,M4A 1B3,18,43.7276,-79.3148
+163,Barbuti Men's Wear,19 Aggie Hogg Gardens,M3C 0G5,18,43.7334,-79.3329
+164,Authentic Classic Canada Inc,39 Orfus Rd,M6A 1L7,2,43.7223,-79.4504
+165,Euphorique Designs,124 Tisdale Ave,M4A 1Y7,18,43.7276,-79.3148
+166,Club Monaco - Yorkdale,3401 Dufferin Street,M6A 2T9,2,43.7223,-79.4504
+167,Winners,35-45 Front St E,M5E 1B3,0,43.6456,-79.3754
+168,Winners Merchants Intl,444 Yonge St,M4Y 1X9,0,43.6656,-79.383
+169,Holt Renfrew&amp;Co Ltd,50 Bloor W,M4W 1A1,12,43.6827,-79.373
+170,Winners Merchants Intl,110 Bloor St W,M5S 1M4,16,43.6629,-79.3987
+171,Addition -Elle,132 Yonge St,M5C 1X3,0,43.6513,-79.3756
+172,Addition-Elle,132 Yonge St,M5C 1X3,0,43.6513,-79.3756
+173,Winners Merchants Intl,40 King St W,M5H 3Y2,0,43.6496,-79.3833
+174,Bebe Joon Ladies Fashion,25 King St W,M5L 2A1,0,43.6492,-79.3823
+175,Lee Dai Trading Co,1 Richmond St W,M5H 3W4,0,43.6496,-79.3833
+176,Yummy Mummy Maternity Wear,90 Adelaide St W,M5H 3V9,0,43.6496,-79.3833
+177,Suzy Shier Ladies Apparel,419 King St W,L1H 2K5,5,43.9721,-78.8837
+178,Dynamite,419 King St W,L1H 2K5,5,43.9721,-78.8837
+179,GapBaby Stores,First Canadian Place,M5G,0,43.6564,-79.38600000000002
+180,Julz Urbanwear,31 Adelaide St E Unit 805,M5C 1J4,0,43.6513,-79.3756
+181,Smart Set,199 Bay,M1W 3H3,18,43.8016,-79.3216
+182,Maska,100 King W,M5X 1K7,0,43.6492,-79.3823
+183,Mayer Ross,100 King St W,M5X 2A1,0,43.6492,-79.3823
+184,Zara Canada,100 King W,M5X 1K7,0,43.6492,-79.3823
+185,Rw &amp; Co,100 King St W,M5X 2A1,0,43.6492,-79.3823
+186,Express,100 King St W,M5X 2A1,0,43.6492,-79.3823
+187,Atelier By Sandra Angelozzi,100 King St W,M5X 2A1,0,43.6492,-79.3823
+188,Windsmoore Group The,176 Yonge St,M5C 2L7,0,43.6513,-79.3756
+189,Bcbg Max Azria Canada Inc,176 Yonge St,M5C 2L7,0,43.6513,-79.3756
+190,Ralph Lauren,2 Queen St E,M5C 3G7,0,43.6513,-79.3756
+191,Canadian Depository For Securities Limited the,85 Richmond St W,M5H 2C9,0,43.6496,-79.3833
+192,Into Basic,65 Queen St W,M5H 2M5,0,43.6496,-79.3833
+193,Show Room,37 King St E,M5C 1E9,0,43.6513,-79.3756
+194,Elegant Expectations Toronto Inc,2 Toronto St,M5C 2B6,0,43.6513,-79.3756
+195,Benetton,1 First Canadian Place,M5G,0,43.6564,-79.38600000000002
+196,Roots #113 Bce Place,181 Bay St,M5J 2T3,11,43.62300000000001,-79.3936
+197,Addition-Elle,2 Queen St E,M5C 3G7,0,43.6513,-79.3756
+198,Mexx Toronto Eaton Centre,Yonge,M5B 2H1,0,43.6572,-79.3783
+199,Jacob Inc,Yonge,M5B 2H1,0,43.6572,-79.3783
+200,Zara Canada,Yonge,M5B 2H1,0,43.6572,-79.3783
+201,Juicy Couture Specialty,Yonge,M5B 2H1,0,43.6572,-79.3783
+202,Options For Her,66 Wellington W,M5K 1K2,0,43.6469,-79.3823
+203,Options For Her,66 Wellington W,M5K 1K2,0,43.6469,-79.3823
+204,Contemporary Fashion,0 200 Bay,M5J 2J1,11,43.62300000000001,-79.3936
+205,Calvin Klein,200 Bay St Unit #131,M5J 2J1,11,43.62300000000001,-79.3936
+206,Elizabeth Boutique,120 Adelaide St W,M5H 1T1,0,43.6496,-79.3833
+207,Zakaz,120 Adelaide St W,M5H 1T1,0,43.6496,-79.3833
+208,La Senza,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+209,Jacob,130 King St W,M5X 2A2,0,43.6492,-79.3823
+210,SOLE,100 King W,M5X 1K7,0,43.6492,-79.3823
+211,Gap Inc (Canada),100 King St W,M5X 2A1,0,43.6492,-79.3823
+212,Cassis,100 King St W,M5X 2A1,0,43.6492,-79.3823
+213,Valleverde,55 Queen St E,M5C 1R6,0,43.6513,-79.3756
+214,Harbourfront Fashions Limited,209 Yonge St,M5B 1M4,0,43.6572,-79.3783
+215,Hyba,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+216,Reitmans,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+217,Suzy Shier Inc,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+218,Kate Spade,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+219,Michael Kors,220 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+220,Express,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+221,Ted Baker London,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+222,Poa Studio,98 Church St,M5C 2G1,0,43.6513,-79.3756
+223,Mode Line,123 Queen St W,M5H 3M9,0,43.6496,-79.3833
+224,Foreign Exchange,123 Queen St W,M5H 3M9,0,43.6496,-79.3833
+225,RW&amp;Co,220 Yonge,M5B 2H1,0,43.6572,-79.3783
+226,Reitmans,218 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+227,American Eagle,218 Yonge Street,M5B 2H6,0,43.6572,-79.3783
+228,Esprit De Corp 1980 Limited,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+229,Bcbg Max Azria Canada Inc,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+230,True Religion Brand Jeans,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+231,Ann Taylor Loft,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+232,Abercrombie &amp;Fitch,220 Yonge St. Unit 2-105,M5B 2H1,0,43.6572,-79.3783
+233,Guess,220 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+234,Bleu Marine &amp; Co.,220 Yonge St.,M5B 2H1,0,43.6572,-79.3783
+235,The Garage Clothing Co,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+236,Aritzia,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+237,Abercrombie Kids,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+238,Club Monaco - Eaton Centre,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+239,Urban Planet,220 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+240,Jacob,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+241,Aéropostale,220 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+242,Zara,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+243,American Eagle,220 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+244,Bluenotes,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+245,Victoria's Secret,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+246,True Religion Brand Jeans,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+247,Lululemon Athletica,218 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+248,Strut,150 King St W,M5H 1J9,0,43.6496,-79.3833
+249,blaquexlotus,http://blaquexlotus.storenvy.com/,M5N 3R4,2,43.7113,-79.4195
+250,H&amp;M Hennes&amp;Mauritz,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+251,Forever 21,220 Yonge,M5G,0,43.6564,-79.38600000000002
+252,The Children's Place,220 Yonge,M5G,0,43.6564,-79.38600000000002
+253,Miori Boutique,200 Bay,M5G,0,43.6564,-79.38600000000002
+254,Rio Creation,145 King St W,M5H 1J8,0,43.6496,-79.3833
+255,Premiere ballroom,145 Richmond St W,M5H 2L2,0,43.6496,-79.3833
+256,Express,220 Yonge,M5G,0,43.6564,-79.38600000000002
+257,Style Faux Pas Inc,Church,M5B 1Y4,0,43.6572,-79.3783
+258,Banana Republic,The Eaton Centre,M5B 2H6,0,43.6572,-79.3783
+259,Roots Canada Ltd,220 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+260,GAP INC (CANADA),Yonge &amp; Dundas,M5G,0,43.6564,-79.38600000000002
+261,Gap Inc,260 Yonge St,M5B 2L9,0,43.6572,-79.3783
+262,Red Apple Corporation,10480 Islington,M5G,0,43.6564,-79.38600000000002
+263,Must Have By TK,100 Front St W,M5J 1E3,11,43.62300000000001,-79.3936
+264,1850,Eaton Ctr,N1H 3X8,13,43.5588,-80.3004
+265,Banana Mama`s Beach Club,113 Queen St E,M5C 1S1,0,43.6513,-79.3756
+266,Studio No Fashion Design,134 Adelaide St E,M5C 1K9,0,43.6513,-79.3756
+267,Randy River,271 Yonge St,M5B 1N8,0,43.6572,-79.3783
+268,Tabi International Corp,92 Queen St E,M5C 1S6,0,43.6513,-79.3756
+269,H&amp;M Hennes&amp;Mauritz,1 Dundas St W,M5G 1Z3,0,43.6564,-79.38600000000002
+270,H&amp;M Hennes&amp;Mauritz,1 Dundas St W,M5G 1Z3,0,43.6564,-79.38600000000002
+271,Fashion Design Council of Canada,75 Elizabeth St,M5G 1P4,0,43.6564,-79.38600000000002
+272,Hot Topic,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+273,Swaby Design House,157 Richmond St E,M5A 1N9,0,43.6555,-79.3626
+274,Nicholby's Sports &amp; Souvenirs,123 Front St W,M5J 2M2,11,43.62300000000001,-79.3936
+275,Club Franco Fairview,Fairview Mall,M5G,0,43.6564,-79.38600000000002
+276,H&amp;M Hennes &amp; Mauritz Inc,1 Dundas St W,M5G 1Z3,0,43.6564,-79.38600000000002
+277,Boutique,21 Nelson St,M5V 3H9,11,43.6404,-79.3995
+278,Maximum Woman -plus size clothing,3801 Dundas St W,M6B 2T4,2,43.7081,-79.4479
+279,Mehanna Fashion,20 Dundas St W,M5G 2C2,0,43.6564,-79.38600000000002
+280,Forever XXI,302 Yonge St,M5B 1R4,0,43.6572,-79.3783
+281,3F Fashions,126-10 Dundas St E,M5B 2G9,0,43.6572,-79.3783
+282,Madelinas Fashion,595 Bay St,M5G 2C2,0,43.6564,-79.38600000000002
+283,Madeira's Fashion Inc,0 595 Bay,M5G 2C2,0,43.6564,-79.38600000000002
+284,Into Basics,595 Bay St,M5G 2M6,0,43.6564,-79.38600000000002
+285,Amies Fashion Boutique,595 Bay Street,M5G 1M6,0,43.6564,-79.38600000000002
+286,Guess Canada Retail Inc,306 Yonge St,M5B 1R4,0,43.6572,-79.3783
+287,Long Tall Sally,595 Bay St,M5G 2C2,0,43.6564,-79.38600000000002
+288,Lavish &amp; Squalor,253 Queen Street West,M5V 1Z4,11,43.6404,-79.3995
+289,Alterego,253 Queen St W,M5V 1Z4,11,43.6404,-79.3995
+290,HAT BOX TORONTO,3385 BATHURST STREET,M5A 2B8,0,43.6555,-79.3626
+291,Fila Outlet,202 Queen St W,M5V 1Z2,11,43.6404,-79.3995
+292,GAP The,60 Bloor W,M5G,0,43.6564,-79.38600000000002
+293,Ports 1961,151 Bloor W,M5G,0,43.6564,-79.38600000000002
+294,U &amp; Me Import &amp; Export,346 Spadina,M5G,0,43.6564,-79.38600000000002
+295,Exile,20 Kensington,M5G,0,43.6564,-79.38600000000002
+296,Calista,200 St W C009 Front,M5G,0,43.6564,-79.38600000000002
+297,The Children's Place,66 Wellington W,M5G,0,43.6564,-79.38600000000002
+298,Brenda's,345 Bloor,M5G,0,43.6564,-79.38600000000002
+299,CADILLAC FAIRVIEW CORPORATION LIMITED THE,66 Wellington W,M5G,0,43.6564,-79.38600000000002
+300,Skyway Fashions Ltd,2 Bloor W,M5G,0,43.6564,-79.38600000000002
+301,At Ease,3453 Lawrence E,M5G,0,43.6564,-79.38600000000002
+302,GAP INC (CANADA),60 Bloor W,M5G,0,43.6564,-79.38600000000002
+303,Walfa Glamour 1,3515 Lawrence E,M5G,0,43.6564,-79.38600000000002
+304,Shan Enterprises,160 Baldwin,M5G,0,43.6564,-79.38600000000002
+305,Elizabeth Boutique,200 Wellington W,M5G,0,43.6564,-79.38600000000002
+306,Shingaar,3495 Lawrence E,M5G,0,43.6564,-79.38600000000002
+307,XTC Designs,3563 Lawrence E,M5G,0,43.6564,-79.38600000000002
+308,Amera Collection,276 King St W,M5V 1J2,11,43.6404,-79.3995
+309,Top Fashion Ltd,690 Progress,M5G,0,43.6564,-79.38600000000002
+310,Mera Fashion,3947 Jane,M5G,0,43.6564,-79.38600000000002
+311,Maoka Fashions,200 Wellington St W,M5V 3C7,11,43.6404,-79.3995
+312,Dynasty Gift Boutique,171 Dundas St W,M5G 1C7,0,43.6564,-79.38600000000002
+313,Price Roman Inc,267 Queen St W,M5V 1Z4,11,43.6404,-79.3995
+314,Modernity Boutique,203 Dundas St W,M5G 1C8,0,43.6564,-79.38600000000002
+315,Cadillac Fairview Corporation Limited The,200 Front St W,M5V 3K2,11,43.6404,-79.3995
+316,Zara Canada,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+317,Ann Taylor,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+318,Brock's Department Store,168 Queen St E,M5A 1S2,0,43.6555,-79.3626
+319,Pablo T-Shirts,226 Queen St W,M5V 1Z6,11,43.6404,-79.3995
+320,Images That Suit Limited,145 Front St E,M5A 1E3,0,43.6555,-79.3626
+321,Mia Fashions Limited,25 Henry Lane Terr,M5A 4B6,0,43.6555,-79.3626
+322,Hayworth Co Ltd,300 King St W,M5V 1J2,11,43.6404,-79.3995
+323,American Apparel,338 Yonge Street,M5B 1R8,0,43.6572,-79.3783
+324,Carter's OshKosh,181 North Queen,M5G,0,43.6564,-79.38600000000002
+325,Stitches,38 Elm St,M5G 2K5,0,43.6564,-79.38600000000002
+326,Bang-On,350 Yonge Street,M5B 1S5,0,43.6572,-79.3783
+327,Tribal Rhythm,248 Queen Street,M5V 1Z7,11,43.6404,-79.3995
+328,Numb Clothing,250 Queen St W,M5V 1Z7,11,43.6404,-79.3995
+329,Lounge Clothing,155 John St,M5T 1X3,0,43.6541,-79.3978
+330,Eight Inches Boutique,19 Milliken,M5G,0,43.6564,-79.38600000000002
+331,Toronto Sport Shoppe,356 Yonge St,M5B 1S5,0,43.6572,-79.3783
+332,Kallone,309 Queen St W,M5V 2A4,11,43.6404,-79.3995
+333,Ipswich Ipswich,313 Queen St W,M5V 2A4,11,43.6404,-79.3995
+334,Black Market Vintage Clothing Megawarehouse&amp;Office,256A Queen St W,M5V 1Z8,11,43.6404,-79.3995
+335,Linen Chest,261 Richmond St W,M5V 3M6,11,43.6404,-79.3995
+336,2087088 Ontario Ltd,2-230 King St E,M5A 1K5,0,43.6555,-79.3626
+337,Rudsak Collection,315 Queen St W,M5V 2A4,11,43.6404,-79.3995
+338,Nyc Clothing,375 Yonge St,M5B 1S1,0,43.6572,-79.3783
+339,Trove X Clothing,176 John St,M5T 1X5,0,43.6541,-79.3978
+340,Run The World Clothing Inc,321 Queen St W,M5V 2A4,11,43.6404,-79.3995
+341,Guess,327 Queen St W,M5V 2A4,11,43.6404,-79.3995
+342,Urban Planet,260 Queen St W,M5V 1Z8,11,43.6404,-79.3995
+343,Emy's,275 Dundas St W,M5T 3K1,0,43.6541,-79.3978
+344,Designer Look,275 Dundas St W,M5T 3K1,0,43.6541,-79.3978
+345,American Eagle Outfitters,333 Queen St W,M5V 2A4,11,43.6404,-79.3995
+346,Blue Fuel Corporation,337 Queen St W,M5V 2A4,11,43.6404,-79.3995
+347,Rk-Queen,276 Queen St W,M5V 2A1,11,43.6404,-79.3995
+348,Groove,23 Beverley St,M5T 1X8,0,43.6541,-79.3978
+349,Zara Canada Inc,341 Queen St W,M5V 2A4,11,43.6404,-79.3995
+350,Show Room,278B Queen St W,M5V 2A1,11,43.6404,-79.3995
+351,Fabio European Mens Clothing,250 Wellington St W /129,M5V 3P6,11,43.6404,-79.3995
+352,Aritzia,280 Queen St W,M5V 2A1,11,43.6404,-79.3995
+353,Ardene,200 Front St E,M5A 4T9,0,43.6555,-79.3626
+354,Titika Canada Inc,357 Queen St W,M5V 2A4,11,43.6404,-79.3995
+355,Clair's Boutique,286 Queen St W,M5V 2A1,11,43.6404,-79.3995
+356,Dynasty Gift Boutique,407 Yonge St,M5B 1S9,0,43.6572,-79.3783
+357,Northern Stores Inc,40 Gerrard St E,M5B 2E8,0,43.6572,-79.3783
+358,Cora Couture Fashion &amp; Shoe Boutique,2402 Valley Hts,M5G,0,43.6564,-79.38600000000002
+359,Fashion Wearhouse Of Parliament,411 1/2 Parliament,M5G,0,43.6564,-79.38600000000002
+360,Mendocino,294 Queen Street West,M5V 2A1,11,43.6404,-79.3995
+361,Her Boutique,384 Yonge,M5G,0,43.6564,-79.38600000000002
+362,Femme De Carriere,175 Elm St,M5T 2Z8,0,43.6541,-79.3978
+363,Escada Canada Inc,175 Elm St,M5T 2Z8,0,43.6541,-79.3978
+364,Bikini Bay,359 Queen St W,M5V 2A4,11,43.6404,-79.3995
+365,Revolver,53 Ontario St,M5A 2V1,0,43.6555,-79.3626
+366,Gap Inc (Canada),375 Queen St W,M5V 2A5,11,43.6404,-79.3995
+367,Best Beaded Jewellery,340 Dundas St W.,M5T 1G5,0,43.6541,-79.3978
+368,Nakano Style,387 Queen St W,M5V 2A5,11,43.6404,-79.3995
+369,Far Away Eyes,295 Queen Street East,M5A 1S7,0,43.6555,-79.3626
+370,Bedo,318 Queen St W,M5V 2A2,11,43.6404,-79.3995
+371,Pixie Girl,3580 Sheppard E,M5G,0,43.6564,-79.38600000000002
+372,Martens (On Queen),391 Queen St W,M5V 2A5,11,43.6404,-79.3995
+373,Esprit De Corp,Eatons C,M5G,0,43.6564,-79.38600000000002
+374,Bizou,393 Queen St W,M5V 2A5,11,43.6404,-79.3995
+375,Sankets Canada Inc,6 Rangelex Dr,M5G,0,43.6564,-79.38600000000002
+376,K Jamson,200 Wind Flowergate,M5G,0,43.6564,-79.38600000000002
+377,Brandy Melville,326 Queen St W,M5V 2A2,11,43.6404,-79.3995
+378,Club Monaco-Queen Street,403 Queen St W,M5V 2A5,11,43.6404,-79.3995
+379,Nifties Fashions,777 Bay St,M5G 2C8,0,43.6564,-79.38600000000002
+380,Into Ladies Fashion,777 Bay,M5G,0,43.6564,-79.38600000000002
+381,Winners Merchants Intl,444 Yonge St,M4Y 1X9,0,43.6656,-79.383
+382,Guess Store #5976,409 Queen St W,M5V 2A5,11,43.6404,-79.3995
+383,Guess Inc,409 Queen St W,M5V 2A5,11,43.6404,-79.3995
+384,Le Chateau,336 Queen St W,M5V 2A2,11,43.6404,-79.3995
+385,Fairweather,1237 Finch W,M5G,0,43.6564,-79.38600000000002
+386,Le Chateau,336- 340 Queen St West,M5V 2A2,11,43.6404,-79.3995
+387,Burberry Limited,146 Bloor W,M5G,0,43.6564,-79.38600000000002
+388,Femme De Carriere,131 3401 Dufferin,M5G,0,43.6564,-79.38600000000002
+389,Shep Gangbar Agencies Ltd,2770 Dufferin,M5G,0,43.6564,-79.38600000000002
+390,Costa Blanca,900 Dufferin,M5G,0,43.6564,-79.38600000000002
+391,Aglaia Dress,2770 Dufferin,M5G,0,43.6564,-79.38600000000002
+392,Tanya Lam Design,207 Queens Quay W,M5J 1A7,11,43.62300000000001,-79.3936
+393,Take A Walk On The Wildside Inc,161 Gerrard St E,M5A 2E4,0,43.6555,-79.3626
+394,Cornell Trading Ltd,346 Queen St W,M5V 2A2,11,43.6404,-79.3995
+395,Lululemon Athleticca,342 Queen St W,M5V 2A2,11,43.6404,-79.3995
+396,Fraiche,348 Queen St W,M5V 2A2,11,43.6404,-79.3995
+397,Spoof,350 Queen Street West,M5V 2A2,11,43.6404,-79.3995
+398,Borderline Plus,425 Queen St W,M5V 2A5,11,43.6404,-79.3995
+399,Castle Bridal,Suite 2306 - 21 Carlton st,M5B 1L3,0,43.6572,-79.3783
+400,Priceless Fashions,350 Queen St W,M5V 2A2,11,43.6404,-79.3995
+401,Made Clothing,145 Berkeley,M5G,0,43.6564,-79.38600000000002
+402,Clic Klak Accessories,427 Queen St W,M5V 2A5,11,43.6404,-79.3995
+403,H&amp;M Hennes Mauritz,427 Queen St W,M5V 2A5,11,43.6404,-79.3995
+404,H &amp; M,427 Queen St W,M5V 2A5,11,43.6404,-79.3995
+405,H&amp;M,427 Queen St W,M5V 2A5,11,43.6404,-79.3995
+406,Neo Look,444 Yonge St,M5B 2H4,0,43.6572,-79.3783
+407,MADE Clothing Co.,145 Berkeley St,M5A 2X1,0,43.6555,-79.3626
+408,Guess Store 5976,364 Queen St W,M5V 2A2,11,43.6404,-79.3995
+409,Mexx,364 Queen St W,M5V 2A2,11,43.6404,-79.3995
+410,June Fashion,422 Dundas St W,M5T 1G7,0,43.6541,-79.3978
+411,Bawa International,129 Spadina Av,M5V 2L3,11,43.6404,-79.3995
+412,JLQS Inc,433 Queen St W,M5V 2A5,11,43.6404,-79.3995
+413,"LuvTies, Inc.",118 Tower Hill Rd. PO Box 20045,L4E 0K6,9,43.9394,-79.4349
+414,Classy Collection,101 Spadina Av,M5V 2K2,11,43.6404,-79.3995
+415,Fair Lady Fashions,900 Dufferin,M5G,0,43.6564,-79.38600000000002
+416,ThizGuy Personalized T-Shirts,Adelaide Street East,M5A 2Y8,0,43.6555,-79.3626
+417,Le Chateau,900 Dufferin,M5G,0,43.6564,-79.38600000000002
+418,Cloud 9,372 Queen St W,M5V 2A2,11,43.6404,-79.3995
+419,Lorne's Coats,101 Spadina Ave,M5V 2K2,11,43.6404,-79.3995
+420,Cotton Ginny,419 King St W,M5V 1K2,11,43.6404,-79.3995
+421,Mark's Work Wearhouse,419 King St W,M5V 1K2,11,43.6404,-79.3995
+422,Lululemon Athleticca,147 Spadina Av,M5V 2L7,11,43.6404,-79.3995
+423,Winners 204,57 Spadina Ave,M5V 2J2,11,43.6404,-79.3995
+424,Branded Boutique  Designer Collections,161 Spadina Ave,M5V 2L6,11,43.6404,-79.3995
+425,City of Angels,439 Queen St W,M5V 2A5,11,43.6404,-79.3995
+426,Js Group,5555 Richmond W,M5V 3C2,11,43.6404,-79.3995
+427,Garage Clothing Co (The),419 King St W,L1H 2K5,5,43.9721,-78.8837
+428,Bluenotes,419 King St W,L1H 2K5,5,43.9721,-78.8837
+429,Le Chateau Store,419 King St W,L1H 2K5,5,43.9721,-78.8837
+430,Reitman's (Ont) Ltd,419 King St W,L1H 2K5,5,43.9721,-78.8837
+431,Contrasta Belts And Designs,87 Ave,M5G,0,43.6564,-79.38600000000002
+432,Reitmans Inc,Parkway Plaza,M5G,0,43.6564,-79.38600000000002
+433,She Boutique,4438 Sheppard E,M5G,0,43.6564,-79.38600000000002
+434,Avenue Couture,87 Ave,M5G,0,43.6564,-79.38600000000002
+435,New Fashion Centre,96 Spadina Ave,M5V 2J6,11,43.6404,-79.3995
+436,Winners Merchants Intl,Spadina,M5V 2J2,11,43.6404,-79.3995
+437,Interface Technologies,386 Dundas St E,M5A 2A5,0,43.6555,-79.3626
+438,Firm Foundation The,384 Queen St W,M5V 2A6,11,43.6404,-79.3995
+439,Sixty Canada Retail Inc,174 Spadina Ave,M5T 2C2,0,43.6541,-79.3978
+440,Best Clothing Design,431 Richmond St W,M5V 1X9,11,43.6404,-79.3995
+441,Total World Fashion,700 University Ave,M5G 1Z5,0,43.6564,-79.38600000000002
+442,Boutique Chez Tshianda,398 Dundas St E,M5A 2A5,0,43.6555,-79.3626
+443,Vapour Boutique,188 Spadina Ave,M5T 3A4,0,43.6541,-79.3978
+444,Marilyn's,200 Spadina Avenue,M5T 2C2,0,43.6541,-79.3978
+445,Robo Fashion Jewlery,459 Queen St W,M5V 2A9,11,43.6404,-79.3995
+446,Hells Belles Inc,463 Queen St W,M5V 2A9,11,43.6404,-79.3995
+447,Second Nature Boutique,514 Mt Pleasant,M5G,0,43.6564,-79.38600000000002
+448,S Spadina Fashion Inc.,253 Spadina Ave,M5T 2E3,0,43.6541,-79.3978
+449,Regen Int Inc,251 Spadina Ave,M5T 2E2,0,43.6541,-79.3978
+450,Nu Hoang,222 Av Spadina,M5T 2C2,0,43.6541,-79.3978
+451,Authentic Couture The Premier,222 Spadina Ave,M5T 3B3,0,43.6541,-79.3978
+452,Clover Fashion &amp; Accessories,222 Spadina Ave,M5T 3B3,0,43.6541,-79.3978
+453,AceTag,272 Parliament St,M5A 3A4,0,43.6555,-79.3626
+454,Urban Outfitters,477 Queen St W,M5V 2A9,11,43.6404,-79.3995
+455,P And H Fashion,222 Spadina Ave,M5T 3B3,0,43.6541,-79.3978
+456,Iq T-Shirts For Events,219-222 Spadina Ave,M5T 3B3,0,43.6541,-79.3978
+457,Boutique Lafricaine,432 Dundas St E,M5A 2A8,0,43.6555,-79.3626
+458,F As In Frank,418 Queen St W,M5V 2A7,11,43.6404,-79.3995
+459,Yasmin's Boutique,436 Dundas St E,M5A 2A8,0,43.6555,-79.3626
+460,Brava,483 Queen St W,M5V 2A9,11,43.6404,-79.3995
+461,Bang-On,489 Queen St W,M5V 2B4,11,43.6404,-79.3995
+462,J J's Boutique,280 Av Spadina,M5T 3A5,0,43.6541,-79.3978
+463,Si Qi Inc,280 Spadina Ave,M5T 3A5,0,43.6541,-79.3978
+464,TDOT Clothing,511 Yonge Street,M4Y 1Y3,0,43.6656,-79.383
+465,L A Boutique Fabrics,495 Queen St W,M5V 2B4,11,43.6404,-79.3995
+466,American Apparel,499 Queen St W,M5V 2B4,11,43.6404,-79.3995
+467,S T Electronics,495 King St W,M5V 1K4,11,43.6404,-79.3995
+468,Kind Exchange,512 Yonge St,M4Y 1X9,0,43.6656,-79.383
+469,Classic 2000,515 Yonge St,M4Y 1Y3,0,43.6656,-79.383
+470,Tim Hou Inc,280 Spadina,M5T 3A5,0,43.6541,-79.3978
+471,American Apparel,499 Queen Street West,M5V 2B4,11,43.6404,-79.3995
+472,Peach Beserk Cocktails,507 Queen St W,M5V 2B4,11,43.6404,-79.3995
+473,Broadway Fashions,518 Yonge St,M4Y 1X9,0,43.6656,-79.383
+474,FX Boutique,515 Queen St W,M5V 2B4,11,43.6404,-79.3995
+475,Yu Yun Company,526 Dundas St W,M5T 1H3,0,43.6541,-79.3978
+476,Distillery Clothing Inc,21 Trinity St,M5A 3T1,0,43.6555,-79.3626
+477,Samet Hoisery Inc.,333 Spadina Avenue,M5T 2E9,0,43.6541,-79.3978
+478,Willie Tsang,11 Brunel Crt,M5V 3Y3,11,43.6404,-79.3995
+479,Tm Corp,162 Huron St,M5T 2B4,0,43.6541,-79.3978
+480,Jessica Rose,17 Trinity St,M5A 3T1,0,43.6555,-79.3626
+481,Blooming,423 Queen St E,M5A 1T5,0,43.6555,-79.3626
+482,Warnaco Of Canada,539 King St W,M5V 1M1,11,43.6404,-79.3995
+483,Mama Loves You,541 Queen St W,M5V 2B6,11,43.6404,-79.3995
+484,Liliths Garden Ltd,541 Queen St W,M5V 2B6,11,43.6404,-79.3995
+485,Ironhead,555 Queen Street West,M5V 2B6,11,43.6404,-79.3995
+486,Grapes Boutique,572 King St W,M5V 1M3,11,43.6404,-79.3995
+487,The Fairies Pyjamas,29 Kensinton ave,M5T 2J8,0,43.6541,-79.3978
+488,TwyLite,4 KENSINGTON AVENUE,M5T 2J7,0,43.6541,-79.3978
+489,Flash Back,35 Kensington Ave,M5T 2J8,0,43.6541,-79.3978
+490,Alter Ego Inc,488 Wellington St W,M5V 1E3,11,43.6404,-79.3995
+491,Red Roses International Inc.,396 Spadina Ave,M5T 2G5,0,43.6541,-79.3978
+492,Exile,20 Kensington Ave,M5T 2J7,0,43.6541,-79.3978
+493,Boga Moda,10 Wellesley St W,M4Y 1E7,0,43.6656,-79.383
+494,Fashion Design Council Of Canada,30 Maud,M5G,0,43.6564,-79.38600000000002
+495,Clic Klak Fashion Studio,38 Av Kensington,M5T 2J9,0,43.6541,-79.3978
+496,Creative Apparel,390 Spadina Av,M5T 2G5,0,43.6541,-79.3978
+497,Elsa Fashion,404 Spadina Avenue,M5T 2G7,0,43.6541,-79.3978
+498,Tibetan Boutique,161 Baldwin St,M5T 1L9,0,43.6541,-79.3978
+499,Lumieres de Baia,486 Queen St W,M5V 2B3,11,43.6404,-79.3995
+500,Black Market Vintage Clothing,38 Kensington Ave,M5T 2J9,0,43.6541,-79.3978
+501,Dancing Days,17 Kensington Ave,M5T 2J8,0,43.6541,-79.3978
+502,Pacific Marketing Company,414-B Spadina Avenue,M5T 2G7,0,43.6541,-79.3978
+503,Lileo,55 Mill St,M5A 3C4,0,43.6555,-79.3626
+504,Roma Rush,504 Queen St W,M5V 2B3,11,43.6404,-79.3995
+505,Cotton Best,426 Spadina Ave,M5T 2G7,0,43.6541,-79.3978
+506,Cotton Best Inc,426 Spadina Ave,M5T 2G7,0,43.6541,-79.3978
+507,Cat's Cradle Clothing Boutique,596 Yonge St,M4Y 1Z3,0,43.6656,-79.383
+508,Axiom Ladies Boutique,592 Yonge St,M4Y 1Z3,0,43.6656,-79.383
+509,Vintage Depot,70 Kensington Ave,M5T 2K1,0,43.6541,-79.3978
+510,Importations Globe T-shirt ET.,413 Spadina Ave.,M5T 2G6,0,43.6541,-79.3978
+511,Winners,585 Queen St W,M5V 2B7,11,43.6404,-79.3995
+512,Cleopatra Fashion,459 Parliament St,M5A 3A3,0,43.6555,-79.3626
+513,Joe Fresh,589 Queen St W,M5V 2B7,11,43.6404,-79.3995
+514,Vixon,620 Yonge St,M4Y 1Z8,0,43.6656,-79.383
+515,Capers,530 Adelaide St W,M5V 1T5,11,43.6404,-79.3995
+516,Comrags,202-626 King St W,M5V 1M7,11,43.6404,-79.3995
+517,That's Badd,628 Yonge St,M4Y 1Z8,0,43.6656,-79.383
+518,Shoe La La,628 Yonge St,M4Y 1Z8,0,43.6656,-79.383
+519,Jessy's,599 Yonge St,M4Y 1Z4,0,43.6656,-79.383
+520,Ahha Apparel,636 King St W,M5V 1M7,11,43.6404,-79.3995
+521,Gold's Dry Goods,237 Augusta Ave,M5T 2L8,0,43.6541,-79.3978
+522,Fisher &amp; Company,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+523,Vickie Stein Sales,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+524,Marlene's Agency,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+525,V Fraas Manufacturing Inc,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+526,Exhibit 512,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+527,Modes Klaus Steilmann Inc Les,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+528,Sparkles,634 Yonge St,M4Y 1Z8,0,43.6656,-79.383
+529,Fashion Shop,634 Yonge St,M4Y 1Z8,0,43.6656,-79.383
+530,Frizzante Moda Inc,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+531,Linda Leigh Jackson Inc,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+532,Collection E G,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+533,Lacoste,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+534,Vicki Schofield Sales Agency Inc,555 Richmond St W,M5V 3B1,11,43.6404,-79.3995
+535,Second Thoughts Clothing,503 Parliament St,M4X 1P3,0,43.6684,-79.3689
+536,Sam's Vintage Clothing,206 Augusta Av,M5T 2L6,0,43.6541,-79.3978
+537,Shoji Clothing,222 Augusta Ave,M5T 2L6,0,43.6541,-79.3978
+538,Jessica Season Wear,259 Augusta Ave,M5T 2M1,0,43.6541,-79.3978
+539,Twice Is Nice,261 Augusta Ave,M5T 2M1,0,43.6541,-79.3978
+540,House Of Lorraine,648 Yonge St,M4Y 2A6,0,43.6656,-79.383
+541,Luma Fashions Inc,240 Augusta Ave,M5T 2L7,0,43.6541,-79.3978
+542,Stylekick Inc.,639 Queen St. West,M5V 2B5,11,43.6404,-79.3995
+543,Model Citizen,279 Agusta,M5G,0,43.6564,-79.38600000000002
+544,Jean Xchange,660 Yonge St,M4Y 2A6,0,43.6656,-79.383
+545,Mudo Clothing,660 Yonge St,M4Y 2A6,0,43.6656,-79.383
+546,Model Citizen,279 Augusta Ave,M5T 2M1,0,43.6541,-79.3978
+547,Dumo Clothing,668 Yonge St,M4Y 2A6,0,43.6656,-79.383
+548,Farley Chatto Designs,525 Adelaide St W,M5V 1T6,11,43.6404,-79.3995
+549,Playdead Inc,254 Augusta Ave,M5T 2L7,0,43.6541,-79.3978
+550,Shkank Inc,672 Yonge St,M4Y 2A6,0,43.6656,-79.383
+551,Riant Boutique,35 Bathurst St,M5V 2P2,11,43.6404,-79.3995
+552,Himalayan Hand Craft,674a Yonge St,M4Y 2A6,0,43.6656,-79.383
+553,Morning Star Trading Company,680 Yonge St,M4Y 2A6,0,43.6656,-79.383
+554,Chenson Industrial Inc,700 King St W,M5V 2Y6,11,43.6404,-79.3995
+555,Ross Mayer,74 Bathurst St,M5V 2P5,11,43.6404,-79.3995
+556,Snoopyz One Stop Shop,707 Dundas St west,M5T 2W6,0,43.6541,-79.3978
+557,Bedo,663 Yonge St,M4Y 1Z9,0,43.6656,-79.383
+558,Eza Wear,695 Queen St W,M6J 1E6,11,43.648,-79.4177
+559,Sport &amp; Street Clothing Co Ltd,665 Yonge St,M4Y 1Z9,0,43.6656,-79.383
+560,Sol'Exotica Tan,718 Yonge St,M4Y 2B3,0,43.6656,-79.383
+561,Fieerce Boutique,718 Yonge St,M4Y 2B3,0,43.6656,-79.383
+562,Tibet Arts &amp; Crafts,703 Queen St W,M6J 1E6,11,43.648,-79.4177
+563,Fashionable Yours,MAIN-632 Queen W,M5G,0,43.6564,-79.38600000000002
+564,Seveneighty,709 Queen St W,M6J 1E6,11,43.648,-79.4177
+565,Bully Garment,711 Queen St W,M6J 1E6,11,43.648,-79.4177
+566,Voluptuous,636 Queen St W,M6J 1E4,11,43.648,-79.4177
+567,Le Chateau,Upr Lev,M5S 2Z3,16,43.6629,-79.3987
+568,Eve Fashion,725 King St W,M5V 2W9,11,43.6404,-79.3995
+569,Little Black Dress Shop,135 Tecumseth St Unit 7,M6J 2H2,11,43.648,-79.4177
+570,Mia Fashions Ltd,21 Classic Ave,M5S 2Z3,16,43.6629,-79.3987
+571,Dress Code,548 Carlton,M5G,0,43.6564,-79.38600000000002
+572,New Fashion Shop,763 Dundas St W,M6J 1T9,11,43.648,-79.4177
+573,Comrags,654 Queen St W,M6J 1E5,11,43.648,-79.4177
+574,Yonge Sports,760 Yonge St,M4Y 2B6,0,43.6656,-79.383
+575,The Store On Queen,662 Queen St W,M6J 1E5,11,43.648,-79.4177
+576,Le Chateau,772 Yonge St,M4Y 2B6,0,43.6656,-79.383
+577,Le Chateau,772 Yonge St,M4Y 2B6,0,43.6656,-79.383
+578,Grace Clothing &amp; Linen Inc,565 Sherbourne St,M4X 1W7,0,43.6684,-79.3689
+579,Logan &amp;Finley,670 Queen St W,M6J 1E5,11,43.648,-79.4177
+580,Mudo Clothing,721 Yonge St,M4Y 2B5,0,43.6656,-79.383
+581,San Remo Boutique,23 St Thomas,M5G,0,43.6564,-79.38600000000002
+582,H&amp;M Hennes&amp;Maurtz,15 Bloor St W,M4W 1A3,12,43.6827,-79.373
+583,Preemala,803 Dundas St,M5G,0,43.6564,-79.38600000000002
+584,Petra Karthaus Austrian Look,55 Bloor St W,M4W 1A5,12,43.6827,-79.373
+585,French Connection Canada,11 Bloor St W,M4W 1A3,12,43.6827,-79.373
+586,Black Goat Cashmere (Ontario) Inc,131 Bloor St W,M5S 1R1,16,43.6629,-79.3987
+587,Lacoste Boutique,Bloor W,M5S 1R1,16,43.6629,-79.3987
+588,Guess Canada Retail Inc,77 Bloor St W,M5S 1M2,16,43.6629,-79.3987
+589,Response,690 Queen St W,M6J 1E7,11,43.648,-79.4177
+590,Dolce And Gabbana,111 Bloor St W,M5S 1P7,16,43.6629,-79.3987
+591,Champagne 8&lt; Cupcakes,690 Queen St W,M6J 1E7,11,43.648,-79.4177
+592,Giani Knitwear &amp; Fashions,60 Bloor St W,M4W 3B8,12,43.6827,-79.373
+593,Fresh Collective The,692 Queen St W,M6J 1E7,11,43.648,-79.4177
+594,Zara Canada Inc,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+595,Rw &amp; Co,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+596,Prada Usa Corp.,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+597,Zara Canada,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+598,Prada uSA Corp,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+599,Zena Woman,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+600,BCBG Max Azria Canada Inc,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+601,Aritzia,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+602,83 Bloor,83 Bloor St W,M5S 1M1,16,43.6629,-79.3987
+603,Benbloor Store Inc,102 Bloor St W,M5S 1M8,16,43.6629,-79.3987
+604,Benetton,102 Bloor St W,M5S 1M8,16,43.6629,-79.3987
+605,Talbots,2 Bloor St W,M4W 2G7,12,43.6827,-79.373
+606,HBO Toronto,2 Bloor St W,M4W 3E2,12,43.6827,-79.373
+607,Rosana's Boutique,2 Bloor St W,M4W 3E2,12,43.6827,-79.373
+608,Farouchi Fashion,2 Bloor St W,M4W 3E2,12,43.6827,-79.373
+609,Ixia Boutique,2 Bloor St W,M4W 3E2,12,43.6827,-79.373
+610,Bargain Joint,2 Bloor St W,M4W 3E2,12,43.6827,-79.373
+611,Options For Her,151 Bloor St W,M5S 1T5,16,43.6629,-79.3987
+612,Chanel Boutique,131 Bloor St W,M5S 1R1,16,43.6629,-79.3987
+613,Pho Pa,698 Queen St W,M6J 1E7,11,43.648,-79.4177
+614,Kamakazi Style Boutique,781 Queen St W,M6J 1G1,11,43.648,-79.4177
+615,Banana Republic,80 Bloor St W,M5S 2V1,16,43.6629,-79.3987
+616,Selin Fashions Limited,2 Bloor St E,M4W 1A8,12,43.6827,-79.373
+617,Bcbg Max Azria Canada Inc,2 Bloor St E,M4W 1A8,12,43.6827,-79.373
+618,Miori Boutique,2 Bloor St E,M4W 1A8,12,43.6827,-79.373
+619,Jean Machine,2 Bloor St E,M4W 1A8,12,43.6827,-79.373
+620,Club Monaco International,157 Bloor St W,M5S 1P7,16,43.6629,-79.3987
+621,Club Monaco - Yorkville,157 Bloor St W,M5S 1P7,16,43.6629,-79.3987
+622,Tax Boutique LTD,2 Bloor St W,M4W 3E2,12,43.6827,-79.373
+623,Magpie Design,702 Queen St W,M6J 1E6,11,43.648,-79.4177
+624,Phopa Inc,702 Queen St W,M6J 1E7,11,43.648,-79.4177
+625,Prada Canada Corp,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+626,Trelphii Interprises Inc,801 King St W,M5V 3C9,11,43.6404,-79.3995
+627,Shop Andrew,793 Queen St W,M6J 1G1,11,43.648,-79.4177
+628,Psyche,708 Queen St W,M6J 1E8,11,43.648,-79.4177
+629,Hermes,130 Bloor St W,M5S 1N5,16,43.6629,-79.3987
+630,Hermes,130 Bloor St W,M5S 1N6,16,43.6629,-79.3987
+631,Hyba,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+632,Holt Renfrew,100 Bloor St W,M5S 1M4,16,43.6629,-79.3987
+633,Mia Inc,20 Bloor St E,M4Y,0,43.6656,-79.383
+634,Brooks Brothers Canada Lt,110 Bloor St W,M5S 1M4,16,43.6629,-79.3987
+635,Escada Canada Inc,110 Bloor St W,M5S 2W7,16,43.6629,-79.3987
+636,C Boutique,809 Queen St W,M6J 1G1,11,43.648,-79.4177
+637,Quasar Mode French Imports,1240 Bay St,M5R 2A7,16,43.6736,-79.4035
+638,Elizabeth Kay,55 Bloor St W,M4W 1A5,12,43.6827,-79.373
+639,Body Blue,724 Queen St W,M6J 1E8,11,43.648,-79.4177
+640,Nicolas Women,153 Cumberland St,M5R 1A2,16,43.6736,-79.4035
+641,Swimsuit Essentials,114 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+642,Vineca Gray Couturière,670 Parliament Street,M4X 1R4,0,43.6684,-79.3689
+643,Motion Clothing CO Ltd,106 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+644,L'Elegante Ltd,132 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+645,Carry Maternity,110 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+646,Accessity,136 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+647,RAC Boutique,124 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+648,Hugo Boss Canada Inc,138 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+649,Giorgio Sport Inc,138 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+650,Anne Hung Boutique,829 Queen St W,M6J 1G1,11,43.648,-79.4177
+651,The Mothership,831 Queen St W,M6J 1G1,11,43.648,-79.4177
+652,Formes Maternity,128 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+653,Divine Decadence Originals Vintage Couture,128 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+654,Internal Design Canada,1235 Bay Street,M5R 3K4,16,43.6736,-79.4035
+655,M0851,1-38 Avenue Rd,M5R 2G2,16,43.6736,-79.4035
+656,Kate Spade,138 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+657,Options For Her,163 Cumberland St,M5R 1A2,16,43.6736,-79.4035
+658,Ca Va De Soi Tricots Inc.,138 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+659,Corbo Studio Inc,162 Cumberland St,M5R 3N5,16,43.6736,-79.4035
+660,Kumari's Ltd.,25 Bellair Street,M5R 3L3,16,43.6736,-79.4035
+661,Roxby Enterprises Inc,162 Cumberland St,M5R 1A8,16,43.6736,-79.4035
+662,Tanya Heath Paris (Canada),138 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+663,Menagerie De Nuit,858 King St W,M5V 1P1,11,43.6404,-79.3995
+664,Girl Friday,740 Queen St W,M6J 1E9,11,43.648,-79.4177
+665,Maxi Boutique,27 Bellair St,M5R 2C8,16,43.6736,-79.4035
+666,Kamakazi Kids,744 Queen St W,M6J 1E9,11,43.648,-79.4177
+667,Academy Of Learning Computer &amp; Business Career College,1255 Bay St,M5R 2A9,16,43.6736,-79.4035
+668,Unique Group Corporation,29 Bellair St,M5R 2C8,16,43.6736,-79.4035
+669,Nanni,101 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+670,Georges Rech,101 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+671,Lida Baday Ltd,70 Claremont St,M6J 2M5,11,43.648,-79.4177
+672,Lida Baday Ltd,70 Claremont St,M6J 2M5,11,43.648,-79.4177
+673,Ewanika,490 College St,M6G 1A4,16,43.6683,-79.4205
+674,Y5,5 Yorkville Ave,M4W 1L1,12,43.6827,-79.373
+675,Huh,847 Queen St W,M6J 1G4,11,43.648,-79.4177
+676,Fashion Avenue,83 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+677,Louis XIII Boutique,83 Yorkville Ave.,M5R 1C1,16,43.6736,-79.4035
+678,Milli Ltd,101 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+679,Over the Rainbow,101 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+680,cop.copine paris,101 Yorkville Avenue,M5R 1C1,16,43.6736,-79.4035
+681,Paris Samples,101 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+682,Boutique Hush,851 Queen St W,M6J 1G4,11,43.648,-79.4177
+683,Andytheanh,83 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+684,Bionic Clothing,758 Queen St W,M6J 1E9,11,43.648,-79.4177
+685,Fong Nancy,90 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+686,Dolce Boutique,86 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+687,Ziliotto Design,764 Queen St W,M6J 1E9,11,43.648,-79.4177
+688,Sandpipers Sports &amp; Funwear,87 Yorkville,M5R 1C1,16,43.6736,-79.4035
+689,French Accents,111 Yorkville Ave,M5R 1C1,16,43.6736,-79.4035
+690,119 Corbo,119 Yorkville Ave,M5R 1C4,16,43.6736,-79.4035
+691,Lole Yorkville,88 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+692,Craft And Guile,70 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+693,Kimina Fashion,112 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+694,Flavour Hall,500 College St,M6G 1A4,16,43.6683,-79.4205
+695,Vivian Shyu Boutique,104 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+696,Betsey Johnson,102 Yorkville Avenue,M5R 1B9,16,43.6736,-79.4035
+697,Meg,849 Queen St W,M6J 1G4,11,43.648,-79.4177
+698,Madame Moje,102 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+699,Anthropologie,78 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+700,La Cache,120 Yorkville Ave,M5R 1C2,16,43.6736,-79.4035
+701,Maria Helena Fashions,878 Dundas St W,M6J 1V7,11,43.648,-79.4177
+702,Marlowe,38 Avenue Rd,M5R 2G2,16,43.6736,-79.4035
+703,Tony Chaar Salon,11 Hazelton Ave,M5R 2E1,16,43.6736,-79.4035
+704,Roghani Couture,85 Scollard St,M5R 1G4,16,43.6736,-79.4035
+705,George C,21 Hazelton Ave,M5R 2E1,16,43.6736,-79.4035
+706,Demetrios High Fashion,92 Scollard St,M5R 1G2,16,43.6736,-79.4035
+707,Corby's Custom Clothier,719 Queen St E,M4M 1H1,19,43.6561,-79.3406
+708,Lefave Haute Couture,112 Scollard,M5G,0,43.6564,-79.38600000000002
+709,Di Uno,55 Avenue Rd,M5R 2G3,16,43.6736,-79.4035
+710,Marc Laurent,55 Avenue Rd,M5R 3L2,16,43.6736,-79.4035
+711,World Of Feng Shui,55 Avenue Rd,M5R 2G3,16,43.6736,-79.4035
+712,Sesso Boutique,55 Avenue Rd,M5R 3L2,16,43.6736,-79.4035
+713,Avenue Couture,55 Avenue Rd,M5R 2G3,16,43.6736,-79.4035
+714,Liloo Exotic Imports Ltd.,734 Queen St E,M4M 1H2,19,43.6561,-79.3406
+715,Andrew's,55 Avenue Rd,M5R 2G3,16,43.6736,-79.4035
+716,Heaven Cashmere,37 Hazelton Ave,M5R 2E3,16,43.6736,-79.4035
+717,Anne's On The Avenue Fashion Boutique,344 Manning Ave,M6J 2L1,11,43.648,-79.4177
+718,Highgate Casuals,King St W,M7A,0,43.6641,-79.3889
+719,W 10 Colours,87 Avenue Rd,M5R 3R9,16,43.6736,-79.4035
+720,Andrew's Warehouse,87 Avenue Rd,M5R 3R9,16,43.6736,-79.4035
+721,Tian Art,87 Avenue Rd,M5R 3R9,16,43.6736,-79.4035
+722,Pellini Milano Paris,87 Avenue Rd,M5R 3R9,16,43.6736,-79.4035
+723,T N T Man,87 Avenue Rd,M5R 3R9,16,43.6736,-79.4035
+724,Maxine's,87 Avenue Rd,M5R 3R9,16,43.6736,-79.4035
+725,Via Cavour,87 Avenue Rd,M5R 2G3,16,43.6736,-79.4035
+726,Dressy Boutique Ltd,579 College St,M6G 1B2,16,43.6683,-79.4205
+727,Here &amp;Now Clothing Co,770 Queen St E,M4M 1H4,19,43.6561,-79.3406
+728,Nue,374 Bloor St W,M5S 1X2,16,43.6629,-79.3987
+729,Risque Clothing &amp; Accessories,404 Bloor Street West,M5S 1X5,16,43.6629,-79.3987
+730,Bergstrom Originals,781 Queen St E,M4M 1H5,19,43.6561,-79.3406
+731,Sexyplus Clothing,901 Yonge St,M4W 2H2,12,43.6827,-79.373
+732,Brian Bailey,400 Eastern Ave,M4M 1B9,19,43.6561,-79.3406
+733,Eight 80 West,880 Queen St W,M6J 1G3,11,43.648,-79.4177
+734,FAWN BOUTIQUE S,955 Queen St W,M6J 3X5,11,43.648,-79.4177
+735,Common Sport,804 Queen St E,M4M 1H7,19,43.6561,-79.3406
+736,Piya's Boutique,422 Bloor Street West,M5S 1X5,16,43.6629,-79.3987
+737,Fair Trade Clothing Co-Op,509 Bloor St W,M5S 1Y2,16,43.6629,-79.3987
+738,Red Pegasus Ltd,628 College St,M6G 1B4,16,43.6683,-79.4205
+739,Kind Exchange,533 Bloor St W,M5S 1Y5,16,43.6629,-79.3987
+740,AEON Attire,65 Spadina Rd,M5R 2T1,16,43.6736,-79.4035
+741,Any Direct Flight,920 Queen St W,M6J 1E8,11,43.648,-79.4177
+742,Boutique Le Trou,940 Queen St W,M6J 1G8,11,43.648,-79.4177
+743,Bowman Pro Sports,560 Bloor St W # 8007,M6G 1K1,16,43.6683,-79.4205
+744,Nostro Moda,186 Davenport Rd,M5R 1J2,16,43.6736,-79.4035
+745,Jasmine Boutique,675 College St,M6G 1B9,16,43.6683,-79.4205
+746,Aria Boutique,686 College Street,M6G 1C1,16,43.6683,-79.4205
+747,Andrea Boyd Holdings Inc,1011 Yonge St,M4W 2K9,12,43.6827,-79.373
+748,Shop Nyla,1011 Yonge St,M4W 2K9,12,43.6827,-79.373
+749,Markus Fashions,592 Bloor St W,M6G 1K4,16,43.6683,-79.4205
+750,Roots Home Canada Limited,195 Avenue Rd,M5R 2J3,16,43.6736,-79.4035
+751,Silver Falls,15 Ossington Ave,M6J 2Y8,11,43.648,-79.4177
+752,J Fashion,633 Bloor St W,M6G 1K8,16,43.6683,-79.4205
+753,Yankee Stuff,624 Bloor St W,M6G 1K7,16,43.6683,-79.4205
+754,Myong Dong Fashion,632 Bloor St W,M6G 1K7,16,43.6683,-79.4205
+755,Studio Gang,112A Ossington Ave,M6J 2Z4,11,43.648,-79.4177
+756,Milli Ltd,231 Avenue Rd,M5R 2J3,16,43.6736,-79.4035
+757,Agency One,120 Ossington Ave,M6J 2Z5,11,43.648,-79.4177
+758,Virginia Johnson,970 College St,M6H 1A5,17,43.6655,-79.4378
+759,S K B International Ltd,653 Bloor St W,M6G 1L1,16,43.6683,-79.4205
+760,Gloria Fashion &amp; Gift,654 Bloor St W,M6G 1K9,16,43.6683,-79.4205
+761,Philip Sparks Tailored Goods,162 Ossington Ave,M6J 2Z7,11,43.648,-79.4177
+762,Risque Clothing,660 Bloor St W,M6G 1K9,16,43.6683,-79.4205
+763,TNT The New Trend Ltd,87 Avenue Rd,M5R 2G3,16,43.6736,-79.4035
+764,Naked Red,171 East Liberty St,M6K 3P6,11,43.6383,-79.4301
+765,Wayne Clark Design Inc,53 Colgate Ave,M4M 1N6,19,43.6561,-79.3406
+766,Jinx Senior Creations Inc,401 Logan Ave,M4M 2P2,19,43.6561,-79.3406
+767,Roots Canada LTD.,1073 Yonge Street,M4W 2L2,12,43.6827,-79.373
+768,Tizz,952 Queen St E,M4M 1J7,19,43.6561,-79.3406
+769,Bchini's Clothing Store,751 Broadview Ave,M4K 2P6,19,43.6803,-79.3538
+770,Tabula Rose,745 Broadview Ave,M4K 2P6,19,43.6803,-79.3538
+771,Cristal Shoe Boutique,1153 Dundas St W,M6J 1X3,11,43.648,-79.4177
+772,Bloor Meat and Grocery,676 Bloor St W,M6G 1L2,16,43.6683,-79.4205
+773,Vocado Inc,171 E Liberty St,M6K 3P6,11,43.6383,-79.4301
+774,Town Silver,1169 Dundas St W,M6J 1X3,11,43.648,-79.4177
+775,Luxe &amp; Found,1134 Yonge St,M4W 2L8,12,43.6827,-79.373
+776,Dollar Joint,1168A Dundas St W,M6J 1X4,11,43.648,-79.4177
+777,Ada's Fashion,711 Bloor St W,M6G 1L5,16,43.6683,-79.4205
+778,Catherine Curtis Design,940 Bathurst St,M5R 3G5,16,43.6736,-79.4035
+779,Catherine Curtis Design,940 Bathurst St,M5R 3G5,16,43.6736,-79.4035
+780,Flaunt Boutique,260 Carlaw 101B Ave,M4M 3L1,19,43.6561,-79.3406
+781,Cadeaux Boutique,37 Hanna Av,M6K 3E7,11,43.6383,-79.4301
+782,Portugal Mix,1191 Dundas St W,M6J 1X3,11,43.648,-79.4177
+783,Andria Boyd Holdings Ltd,235 Carlaw Ave,M4M 2S5,19,43.6561,-79.3406
+784,Reflections Vintage &amp; Antiques,839 Gerrard Street East,M4M 1Y8,19,43.6561,-79.3406
+785,Top Half,711 Bloor St W,M6G 1L5,16,43.6683,-79.4205
+786,Energia Athletics Inc,164 Danforth Ave,M4K 1N1,19,43.6803,-79.3538
+787,Body Blue,199 Danforth Ave,M4K 1N2,19,43.6803,-79.3538
+788,Charm Boutique &amp; Tailoring,274 Avenue Rd,M4V 2G7,16,43.6861,-79.4025
+789,Ani Wren Inc,1172 Yonge St,M4W 2L9,12,43.6827,-79.373
+790,Joeffer Caoc Inc,388 Carlaw Ave,M4M 2T4,19,43.6561,-79.3406
+791,Evymama Nursing And Maternity Boutique,230 Danforth Ave,M4K 1N4,19,43.6803,-79.3538
+792,Dagg and Stacey,202-60 Atlantic Ave,M6K 1X9,11,43.6383,-79.4301
+793,Vivian Shyu Boutique,322 Dupont St,M5R 1V9,16,43.6736,-79.4035
+794,Max Wholesalers,1044 Queen St E,M4M 1K4,19,43.6561,-79.3406
+795,Mai Aru Studio,51 Jefferson,M5G,0,43.6564,-79.38600000000002
+796,Incanto,275 Danforth Ave,M4K 1N2,19,43.6803,-79.3538
+797,Incanto,275 Danforth Ave,M4K 1N2,19,43.6803,-79.3538
+798,Nathalie-Roze Fischer,1015 Queen St E,M4M 1K3,19,43.6561,-79.3406
+799,323 Alchemy,323 Danforth Ave,M4K 1N7,19,43.6803,-79.3538
+800,Chin L,65 Eastmount Ave,M4K 1V2,19,43.6803,-79.3538
+801,Eriettas,320 Danforth Ave,M4K 1N8,19,43.6803,-79.3538
+802,Von Beck Alexia,1228 Yonge St,M4T 1W3,12,43.6899,-79.3853
+803,Esprit,135 Liberty St,M6K 1A7,11,43.6383,-79.4301
+804,Jexy &amp;Jax,375 Danforth Ave,M4K 1P1,19,43.6803,-79.3538
+805,Fils Patterns,8 Yarmouth Gdns,M6G 1W4,16,43.6683,-79.4205
+806,Curtis Catherine,1260 Yonge Street,M4T 1W5,12,43.6899,-79.3853
+807,Heaven Or Hell Clothing,147 Liberty Street,M6K 3G3,11,43.6383,-79.4301
+808,Toronto Fashion Incubator The,285 Manitoba Dr,M6K 3C3,11,43.6383,-79.4301
+809,Brazil's Quest,1371 Dundas St W,M6J 1Y3,11,43.648,-79.4177
+810,Fashions For You,1000 Gerrard St E,M4M 3G6,19,43.6561,-79.3406
+811,Winners Merchants Intl,1000 Gerrard St E,M4M 3G6,19,43.6561,-79.3406
+812,Into,1000 Gerrard St E,M4M 3G6,19,43.6561,-79.3406
+813,Fashion World,1000 Gerrard St E,M4M 3G6,19,43.6561,-79.3406
+814,Michi Design Inc,67 Mowat Av,M6K 3L5,11,43.6383,-79.4301
+815,Second Impressions,148 Peel Ave,M6J 1M3,11,43.648,-79.4177
+816,Room 507 Clothing,496 Danforth Ave,M4K 1P6,19,43.6803,-79.3538
+817,Zoetry,420 Summerhill Ave,M4W 2E4,12,43.6827,-79.373
+818,Lacci Co Inc,358 Dufferin St,M6K 1Z8,11,43.6383,-79.4301
+819,Of A Kind,1037 College St,M6H 1B1,17,43.6655,-79.4378
+820,Freedom Clothing Collective,939 Bloor St W,M6H 1L5,17,43.6655,-79.4378
+821,Studio Labiri Inc,548 Danforth Ave,M4K 1P8,19,43.6803,-79.3538
+822,Gracindea Boutique,1445 Dundas St W,M6J 1Y7,11,43.648,-79.4177
+823,Easy Tiger Goods Inc,1447 Dundas St W,M6J 1Y7,11,43.648,-79.4177
+824,Avec Plaisir Fine Lingerie,573 DANFORTH AVE,M4K 1P9,19,43.6803,-79.3538
+825,Maxi Boutique Ladies Fashions,575 Danforth Ave,M4K 1P7,19,43.6803,-79.3538
+826,Rosie The Rebel Inc,961 Bloor St W,M6H 1L7,17,43.6655,-79.4378
+827,Patricia Allen Shoppes Ltd,950 Bloor St W,M6H 1L6,17,43.6655,-79.4378
+828,Ziliotto Inc,592 Danforth Ave,M4K 1R1,19,43.6803,-79.3538
+829,All About Eve,602 Danforth Ave,M4K 1R1,19,43.6803,-79.3538
+830,Perfumania,602 Danforth Ave,M4K 1R1,19,43.6803,-79.3538
+831,Corner Kick,627a Dufferin St,M6K 2B2,11,43.6383,-79.4301
+832,DENIM FASHION,323 Rusholem,M6H 2Z2,17,43.6655,-79.4378
+833,Blue Button Shop,1499 Dundas St W,M6K 1T6,11,43.6383,-79.4301
+834,Designer Outlet,1375 Yonge St,M4T 1Y4,12,43.6899,-79.3853
+835,Gittas Stitches Inc,7 Pleasant Blvd,M4T 1K2,12,43.6899,-79.3853
+836,Community 54,1275 Queen St W,M6K 1L6,11,43.6383,-79.4301
+837,Shopgirls,1342 Queen St W,M6K 1L4,11,43.6383,-79.4301
+838,Elegant Wear,1024 Bloor St W,M6H 1M2,17,43.6655,-79.4378
+839,R &amp; L Sportswear,700 Danforth Ave,M4J 1L1,19,43.6872,-79.3368
+840,YWCA TORONTO,81 St Clair Av E,M4T 1L8,12,43.6899,-79.3853
+841,Aleeyah Apparel Inc,1 St Clair Ave E,M4T 2V7,12,43.6899,-79.3853
+842,Paris Fashion Gallary,763 Pape Ave,M4K 3T2,19,43.6803,-79.3538
+843,Into Ladies Fashion Inc,12 St Clair Ave E,M4T 1L7,12,43.6899,-79.3853
+844,Mode Sidonie Inc,12 St Clair Ave E,M4T 1L7,12,43.6899,-79.3853
+845,The Saddle Bag,1470 Yonge Street,M4T 1Z6,12,43.6899,-79.3853
+846,katherine duffin,149 Cowan Ave,M6K 1K6,11,43.6383,-79.4301
+847,The Avenue,155 St Clair Ave W,M4V 0A1,16,43.6861,-79.4025
+848,Gill Designs,1580 Dundas St W,M6K 1T8,11,43.6383,-79.4301
+849,Koinonia,2 St Clair Ave E,M4T 2T5,12,43.6899,-79.3853
+850,Periphery,128 Sheridan Ave Rear,M6K 2H4,11,43.6383,-79.4301
+851,Femme De Carriere,1 Eaton Ave,M4J 2Z4,19,43.6872,-79.3368
+852,Dynamite Group,900 Dufferin St,M6H 4B1,17,43.6655,-79.4378
+853,Dynamite Group,900 Dufferin St,M6H 4B1,17,43.6655,-79.4378
+854,K Squared,764 Danforth Ave,M4J 1L5,19,43.6872,-79.3368
+855,Birthia,1599 Dundas St W,M6K 1T9,11,43.6383,-79.4301
+856,Boutique Lavilla,766 Danforth Av,M4J 1L5,19,43.6872,-79.3368
+857,Fabric Town Inc,1388 Queen St W,M6K 1L7,11,43.6383,-79.4301
+858,Roots St Clair,1485 Yonge St,M4T 1Z2,12,43.6899,-79.3853
+859,Habibi Collections Inc,1084 Bloor St W,M6H 1M6,17,43.6655,-79.4378
+860,H&amp;M Hennes&amp;Mauritz,900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+861,Le S Fashion,1412 Queen St W,M6K 1L9,11,43.6383,-79.4301
+862,Athlete's World,900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+863,Voluptuous,900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+864,Anna Bella,900 Dufferin St,M6H 4B1,17,43.6655,-79.4378
+865,Garage Clothing Co (The),900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+866,At Eaze,Dufferin,M6H 4A9,17,43.6655,-79.4378
+867,Style 2,1560 Yonge St,M4T 2S9,12,43.6899,-79.3853
+868,Kianna Bags&amp;Accessories,876 Danforth Ave,M4J 1L7,19,43.6872,-79.3368
+869,At Eaze,900 Dufferin St,M6H 4B1,17,43.6655,-79.4378
+870,Lido Fashion Contracors,15 Minho Blvd,M6G 4B6,16,43.6683,-79.4205
+871,Armor Clothing Ltd,2 Sammon Ave,M4J 1Y6,19,43.6872,-79.3368
+872,Rainbow Fashions,1486 Queen St W,M6K 1M4,11,43.6383,-79.4301
+873,New Variety Plus,226 Greenwood Ave,M4L 2R2,19,43.6693,-79.3155
+874,Sarah Collins Image Consulting,73 Forest Hill Rd,M4V 2L6,16,43.6861,-79.4025
+875,Nitsas Hosiery Co,986 Pape Ave,M4K 3V7,19,43.6803,-79.3538
+876,H&amp;M Hennes &amp; Mauritz Inc,Dundas St W,M5G 1Z3,0,43.6564,-79.38600000000002
+877,Rk Spadina,394 Spadina Rd,M5P 2W2,16,43.6966,-79.41199999999998
+878,Eleven 11 Original Ontario,1024 Pape Ave,M4K 3V9,19,43.6803,-79.3538
+879,Bombay Fasions Plus,1026 Pape Ave,M4K 3V9,19,43.6803,-79.3538
+880,Kitsch Boutique,325 Lonsdale Rd,M4V 1X3,16,43.6861,-79.4025
+881,Trisha Paterson,325 Lonsdale Rd,M4V 1X3,16,43.6861,-79.4025
+882,One Girl Who,647 St Clair Ave W,M6C 1A7,17,43.6915,-79.4307
+883,In Vintage We Trust,1580 Queen Street West,M6C 1A8,17,43.6915,-79.4307
+884,Parpar Boutique,649 St Clair Ave W,M6C 1A7,17,43.6915,-79.4307
+885,Multi Safe Inc,837 Gladstone Ave,M6H 3J7,17,43.6655,-79.4378
+886,Morph Clothing,17 Sorauren Ave,M6R 2C6,17,43.6469,-79.4521
+887,3 Design Concepts,432 Margueretta St,M6H 3S5,17,43.6655,-79.4378
+888,Stefanie's,446 Spadina Rd,M5P 3M2,16,43.6966,-79.41199999999998
+889,Soudi Boutique,446 Spadina Rd,M5P 3M2,16,43.6966,-79.41199999999998
+890,Stefanie's Boutique,446 Spadina Road,M5P 3M2,16,43.6966,-79.41199999999998
+891,Mapa Sports,1394 Gerrard St E ,M4L 1Z4,19,43.6693,-79.3155
+892,Fashion Whore,1301 Bloor St W,M6H 1P1,17,43.6655,-79.4378
+893,Sonu Sarees,1420 Gerrard St E,M4L 1Z6,19,43.6693,-79.3155
+894,Mumbai Boutique,1421 Gerrard St East Unit 1,M4L 1Z7,19,43.6693,-79.3155
+895,Pooja Boutique,1424 Gerrard St E,M4L 1Z6,19,43.6693,-79.3155
+896,Aritizia,470 Spadina Rd,M5P 2W4,16,43.6966,-79.41199999999998
+897,Gypsy Found Objects,762 St Clair Ave W,M6C 1B5,17,43.6915,-79.4307
+898,Chandan Fashion Centre,1439 Gerrard St E,M4L 1Z7,19,43.6693,-79.3155
+899,Chandan Fashion,1439 Gerrard St E,M4L 1Z7,19,43.6693,-79.3155
+900,Eve Et Lui,223 Lonsmount Dr,M5P 2Y9,16,43.6966,-79.41199999999998
+901,Isman Best Prices,564 St Clarens Ave,M6H 3W7,17,43.6655,-79.4378
+902,North Standard Trading Post,1662 Queen St W,M6R 1B2,17,43.6469,-79.4521
+903,Aritizia,470 Spadina Rd,M5P 2W4,16,43.6966,-79.41199999999998
+904,Tama Designs Inc,23 Jenet Ave,M6H 1R5,17,43.6655,-79.4378
+905,Aphamea Inc,1245 Dupont St,M6H 2A6,17,43.6655,-79.4378
+906,Damas,1245 Dupont St,M6H 2A6,17,43.6655,-79.4378
+907,IUK International,1600 Gerrard St E,M4L 2A5,19,43.6693,-79.3155
+908,PD Designs Inc.,1475 Gerarrd Street,M4L 2A1,19,43.6693,-79.3155
+909,Amman's Jewellers Inc,1610 Gerrard St E,M4L 2A5,19,43.6693,-79.3155
+910,Vesh Clothiers Limited,1499 Gerrard St E,M4L 2A4,19,43.6693,-79.3155
+911,Rent Frock Repeat Inc,35 Golden Ave,M6R 2J5,17,43.6469,-79.4521
+912,Brand Name For Less,291 Coxwell Ave,M4L 3B5,19,43.6693,-79.3155
+913,Mrs H Ltd,28 Roncesvalles Ave,M6R 2K3,17,43.6469,-79.4521
+914,Goodwill Toronto,28 Roncesvalles,M5G,0,43.6564,-79.38600000000002
+915,All You Want Boutique,151A Roncesvalles Av,M6R 2L3,17,43.6469,-79.4521
+916,Dressers Clothing &amp; Gifts,307 Roncesvalles Ave,M6R 2M6,17,43.6469,-79.4521
+917,Wechsler Adele Designs Limited,58 Millwood Rd,M4S 1J7,12,43.702,-79.3853
+918,Lady Toronto Exclusive,373 Roncesvalles Ave,M6R 2M8,17,43.6469,-79.4521
+919,Fresh Collective,401 Roncesvalles Ave,M6R 2N1,17,43.6469,-79.4521
+920,Helga Boutique,387 Roncesvalles Ave,M6R 2N1,17,43.6469,-79.4521
+921,Belle Boutique Facial Rejuvenation By Tammy,514 Mount Pleasant Rd,M4S 2M2,12,43.702,-79.3853
+922,Rear End,1999 Yonge St,M4S 1Z8,12,43.702,-79.3853
+923,Brands of Toronto,2005 Yonge St,M4S 1Z8,12,43.702,-79.3853
+924,DoBamboo.com,698 coxwell ave,M4C 3B9,14,43.6913,-79.3116
+925,Mantra,2034 Yonge St,M4S 1Z9,12,43.702,-79.3853
+926,Emrooz,2027 Yonge St,M4S 2A2,12,43.702,-79.3853
+927,Tiffany's Bridal Fashions,1158 ST CLAIR AVE W,M6E 1B3,17,43.6889,-79.4507
+928,ID Accessories Corp,2055 Yonge St,M4S 2A2,12,43.702,-79.3853
+929,Susana Fashion,1 Wiltshire Ave,M6N 2V7,6,43.6748,-79.4839
+930,Kashmir Maple,2411 Dundas St. West,M6P 1X3,17,43.6605,-79.4633
+931,Poor Little Rich Girl,2094 Yonge Street,M4S 2A3,12,43.702,-79.3853
+932,higgins performance sail coats,kingston road,M4L 1T3,19,43.6693,-79.3155
+933,S &amp; S Fashions,1183 ST CLAIR AVE W,M6E 1B5,17,43.6889,-79.4507
+934,Jasmine Boutique,1189 St Clair Ave W,M6E 1B5,17,43.6889,-79.4507
+935,Path Fashion,1195 St Clair Ave W,M6E 1B5,17,43.6889,-79.4507
+936,Diva Boutique,1194 St Clair Ave W,M6E 1B4,17,43.6889,-79.4507
+937,Sweater World,1194 St Clair Ave W,M6E 1B4,17,43.6889,-79.4507
+938,Accessories Club,1209 Av St Clair O,M6E 1B5,17,43.6889,-79.4507
+939,be tween...,2097 Yonge St,M4S 2A4,12,43.702,-79.3853
+940,Snkr Box Inc,873 St Clair Ave W,M6C 1C4,17,43.6915,-79.4307
+941,Gente Boutique Ltd,1232 St Clair Ave W,M6E 1B7,17,43.6889,-79.4507
+942,Christian Boutique,1236 St Clair Ave W,M6E 1B7,17,43.6889,-79.4507
+943,Femistique,1817 Queen St E,M4L 3Z6,19,43.6693,-79.3155
+944,Threads Lifestyle,1852 Queen St E ,M4L 1H1,19,43.6693,-79.3155
+945,Red Apple Corp Clothing Co,1254 St Clair Ave W,M6E 1B7,17,43.6889,-79.4507
+946,Dew     (Day.Evening.Weekend),1553 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+947,Lucie &amp; Darci's Inc,1553 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+948,Carreira Casuals Inc,1563 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+949,Daniel's Boutique,1269 St Clair Ave W,M6E 1B8,17,43.6889,-79.4507
+950,Your Clothes Friend,1573 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+951,Carmen's Design For Children Inc,1274 St Clair Ave W,M6E 1B9,17,43.6889,-79.4507
+952,Must Boutique,1575 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+953,Must Boutique,1575 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+954,Modella Tovi Stores,1579 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+955,La Duchessa Boutique Inc,1285A St Clair Ave W,M6E 1B8,17,43.6889,-79.4507
+956,Cornflower Blue,1606 Bayview Ave,M4G 3B7,12,43.7124,-79.3644
+957,Adelles Boutique,1296 St Clair Ave W,M6E 1C1,17,43.6889,-79.4507
+958,Tts Apparel Corporation,1622 Bayview Ave,M4G 3B7,12,43.7124,-79.3644
+959,Trend Shoppe The,1622 Bayview Ave,M4G 3B7,12,43.7124,-79.3644
+960,Clothing &amp; Lingerie Outlet,1348 St Clair Ave W,M6E 1C4,17,43.6889,-79.4507
+961,Mode Suzan,1647 Bayview Ave,M4G 3C1,12,43.7124,-79.3644
+962,Villa Boutique,1902 Danforth Ave,M4C 1J4,14,43.6913,-79.3116
+963,Artka,Yonge,M4S 2B8,12,43.702,-79.3853
+964,Ixia Boutique,2200 Yonge St,M4S 2B8,12,43.702,-79.3853
+965,Aleeyah Apparel Inc,2200 Yonge St,M4S 2C7,12,43.702,-79.3853
+966,Mr. TeeDot,118 boon ave,M6E 3Z5,17,43.6889,-79.4507
+967,BRAND NAME WHOLESALE,1695 Bayview Avenue,M4S 1V4,12,43.702,-79.3853
+968,Otomic Contractors Ltd,10 Woodmount Ave,M4C 3X5,14,43.6913,-79.3116
+969,Ms Emma Designs,365 Eglinton Ave W,M5N 1A3,2,43.7113,-79.4195
+970,Revival Couture Inc,363 Eglinton Ave W,M5N 1A3,2,43.7113,-79.4195
+971,Better Styled Inc,150 Eglinton Ave E,M4P 1E8,12,43.7135,-79.3887
+972,TNT The New Trend Ltd,388 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+973,306,306 Eglinton Ave W,M4R 1B2,12,43.7143,-79.4065
+974,TNT The New Trend Ltd,390 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+975,TNT The New Trend Ltd,392 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+976,The Petite Alternative,463 Eglinton Ave W,M5N 1A7,2,43.7113,-79.4195
+977,Sandro,382 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+978,Tryst Lingerie,465 Eglinton Ave W,M5N 1A7,2,43.7113,-79.4195
+979,TNT The New Trend Ltd,388 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+980,Accessories By Eva,402 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+981,TNT The New Trend Ltd,398 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+982,Madelina's Fashion Inc,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+983,Happy 2 Buy,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+984,Urban Outfitters,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+985,Fairweather,2631 Yonge St &amp; Eglinton Centre,M4P 1E4,12,43.7135,-79.3887
+986,Liv By Au Lit,418 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+987,Gretchen &amp;Co,424 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+988,Sweet And Chic,424 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+989,Sense Of Independence,511 Eglinton Ave W,M5N 1B1,2,43.7113,-79.4195
+990,K Barketti,434 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+991,Le Chateau,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+992,Jacob Outlet,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+993,Tnt The New Trend Ltd,392 Eglinton Ave W,M5N 1A2,2,43.7113,-79.4195
+994,Mendocino Clothing Company Limited,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+995,Honey Eglinton,460 Eglinton Avenue West,M5N 1A5,2,43.7113,-79.4195
+996,Room 29,454 Eglinton Avenue West,M5N 1A5,2,43.7113,-79.4195
+997,Kick Maternity,454 Eglinton Ave W,M5N 1A5,2,43.7113,-79.4195
+998,Lucie's,508 Eglinton Ave W,M5N 1A5,2,43.7113,-79.4195
+999,Artka,2300 Yonge St,M4S 2B8,12,43.702,-79.3853
+1000,Reitmans,2300 Yonge St,M4P 2C6,12,43.7135,-79.3887
+1001,Fairweather,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+1002,Elegant Collections,2300 Yonge St,M4P 1E4,12,43.7135,-79.3887
+1003,Three 16,538 Eglinton Ave W,M5N 1B4,2,43.7113,-79.4195
+1004,What's In Fashion,1012 Coxwell Ave,M4C 3G5,14,43.6913,-79.3116
+1005,Alanna Banana Wear,377 Winnett Ave,M6C 3M2,17,43.6915,-79.4307
+1006,Winners Apparel Ltd,147 Laird Dr,M4G 4K1,12,43.7124,-79.3644
+1007,The Embellished Room,1978 Queen St E,M4L 1H8,19,43.6693,-79.3155
+1008,West 49,2576-2578 Yonge St (Yonge and Eglinton),M4P 2J3,12,43.7135,-79.3887
+1009,Legacy Clothiers,45 Overlea Blvd 2,M4H 1C3,19,43.7059,-79.3464
+1010,Reitmans,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1011,Cheri Fashion,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1012,Jason Jackson Clothing Co,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1013,Ardene,45 Overlea Boulevard,M4H 1C3,19,43.7059,-79.3464
+1014,Madelina's Fashion Inc,Bay,M3H 6A7,2,43.7535,-79.4472
+1015,Bottega Bertolucci,875 Eglinton W,M5G,0,43.6564,-79.38600000000002
+1016,Lebaas,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1017,Easyfit,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1018,Jakal Trading Company Ltd Oa Nifties Fashions,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1019,Reitmans Inc,East York Town Centre,M5G,0,43.6564,-79.38600000000002
+1020,Carl Anthony's Clothing,625 Vaughan Rd,M6C 2R4,17,43.6915,-79.4307
+1021,St Johns Compassionate Thrift Store,2155 Danforth Ave,M4C 1K2,14,43.6913,-79.3116
+1022,St Johns The Compassionate Mission,2155 Danforth Ave,M4C 1K2,14,43.6913,-79.3116
+1023,Dash Boutique,916 Eglinton Ave W,M6C 2C2,17,43.6915,-79.4307
+1024,Posh Clothing Ltd,2016 Queen St E,M4L 1J3,19,43.6693,-79.3155
+1025,Jj Urban Fashion,1663 St Clair Ave W,M6N 1H9,6,43.6748,-79.4839
+1026,2000 Stylez,1663 St Clair Ave W,M6N 1H9,6,43.6748,-79.4839
+1027,Leopardo Boutique,970 Eglinton Ave W,M6C 2C5,17,43.6915,-79.4307
+1028,Dicasa Design Group Inc,190 Broadway Ave,M4P 1V9,12,43.7135,-79.3887
+1029,Bag 2 School,34 Hillsview Ave,M6P 1J5,17,43.6605,-79.4633
+1030,Top Town Fashions &amp; Gifts,2 Thorncliffe Park Drive,M4H 1H2,19,43.7059,-79.3464
+1031,Icegear Fitness Boutique Corp,1048 Eglinton Ave W,M6C 2C5,17,43.6915,-79.4307
+1032,Angelo Rosso Custom Tailor,1064 Eglinton Ave W,M6C 2C5,17,43.6915,-79.4307
+1033,Working Woman,112 Binswood Ave,M4C 3N9,14,43.6913,-79.3116
+1034,Just For You Fashions,2441 Yonge St,M4P 2E7,12,43.7135,-79.3887
+1035,Northern Reflections,2064 Queen St E,M4L 1J3,19,43.6693,-79.3155
+1036,Foot Locker,2460 Yonge St,M4P 2H5,12,43.7135,-79.3887
+1037,Vu Ja De Designs,2845 Dundas St W,M6P 1Y6,17,43.6605,-79.4633
+1038,Tres Jolie Lingerie,2457 Yonge St,M4P 2H6,12,43.7135,-79.3887
+1039,Our Cottage,2199A Queen St E,M4E 2R4,14,43.6784,-79.2941
+1040,Tommy Bahama,2486 Yonge St,M4P 2H5,12,43.7135,-79.3887
+1041,Enjoy Fashion Company Inc,2503 Yonge St,M4P 2H6,12,43.7135,-79.3887
+1042,Simply Yours,2507 Yonge St,M4P 2H6,12,43.7135,-79.3887
+1043,Extoggery Stores,10 Brentcliffe Rd,M4G 3Y2,12,43.7124,-79.3644
+1044,Tzatz Collection Inc,2512 1/2 Yonge St,M4P 2H7,12,43.7135,-79.3887
+1045,Kaliyana Artwear,2516 Yonge St,M4P 2H7,12,43.7135,-79.3887
+1046,Cinnamon Sea,2525 Yonge St,M4P 2H9,12,43.7135,-79.3887
+1047,Karma Tsering,312 old weston rd.,M6N 3A4,6,43.6748,-79.4839
+1048,Mexx Yonge &amp; Eglinton,2529 Yonge St,M4P 2H9,12,43.7135,-79.3887
+1049,Cut Rate Clothing,2533 Yonge St,M4P 2H9,12,43.7135,-79.3887
+1050,House Of Fashion Inc,1475a Eglinton Ave W,M6E 2G6,17,43.6889,-79.4507
+1051,Fashion Euro,1491 Av Eglinton O,M6E 2G6,17,43.6889,-79.4507
+1052,Higher Ground Limited,2541 Yonge Street,M4P 2H9,12,43.7135,-79.3887
+1053,Yoka,2116 Queen St E,M4E 1E2,14,43.6784,-79.2941
+1054,Kaydee's Boutique Inc,1541 Eglinton Ave W,M6E 2G7,17,43.6889,-79.4507
+1055,Maadurga,404 Old Weston Rd,M6N 3B1,6,43.6748,-79.4839
+1056,Aada Afrik,1522 Eglinton Ave W,M6E 2G5,17,43.6889,-79.4507
+1057,Bottom Line Discount Fashion,1559A Eglinton Ave W,M6E 2G9,17,43.6889,-79.4507
+1058,Studio 786,2257 Queen St E,M4E 1G3,14,43.6784,-79.2941
+1059,TFR Productions,1546 Eglinton Ave W,M6E 2G8,17,43.6889,-79.4507
+1060,Overkill Beach and Volleywear,2130A Queen St E,M4E 1E3,14,43.6784,-79.2941
+1061,Izzy Camilleri Adaptive Clothing,2955 Dundas St W,M6P 1Z2,17,43.6605,-79.4633
+1062,Three Way Hustle Inc,2957 Dundas St W,M6P 1Z2,17,43.6605,-79.4633
+1063,Gapkids,2574 Yonge St,M4P 2J3,12,43.7135,-79.3887
+1064,Carbon,2581 Yonge St,M4P 2J1,12,43.7135,-79.3887
+1065,Kind Exchange,2583 Yonge St,M4P 2J1,12,43.7135,-79.3887
+1066,Excalibor Inc,2580 Yonge St,M4P 2J3,12,43.7135,-79.3887
+1067,David Findlay,2585 Yonge St,M4P 2J1,12,43.7135,-79.3887
+1068,Elisa's Fashions Ltd,1592 Eglinton Ave W,M6E 2G8,17,43.6889,-79.4507
+1069,Studio Biba,2583 Yonge St,M4P 2J1,12,43.7135,-79.3887
+1070,Junction Mode,390 Pacific Ave,M6P 2R1,17,43.6605,-79.4633
+1071,Derrick's Truly Classy Clothing,1625 Eglinton Ave W,M6E 2H1,17,43.6889,-79.4507
+1072,Dorothea Knitting Mills Ltd,51 Beth Nealson Dr,M4H 1P8,19,43.7059,-79.3464
+1073,Madison Boutique,1639 Eglinton Ave W,M6E 2H1,17,43.6889,-79.4507
+1074,Summerhill Floral Boutique,1057 Mount Pleasant Rd,M4P 2M5,12,43.7135,-79.3887
+1075,I C Company's Inc,2596 Yonge St,M4P 2J4,12,43.7135,-79.3887
+1076,Club Monaco-North Toronto,2610 Yonge St,M4P 2J4,12,43.7135,-79.3887
+1077,Jenny's Place,2616 Yonge St,M4P 2J4,12,43.7135,-79.3887
+1078,Gap Canada,2635 Yonge St,M4P 2J6,12,43.7135,-79.3887
+1079,Jaydees Connections,1712 Eglinton Ave W,M6E 2H5,17,43.6889,-79.4507
+1080,Mark's Work Wearhouse,590 Keele St,M6N 3E2,6,43.6748,-79.4839
+1081,Mendocino Clothing Company Limited,2647 Yonge St,M4P 2J6,12,43.7135,-79.3887
+1082,Nha Tien Kim Tien,1747 Eglinton Ave W,M6E 2H7,17,43.6889,-79.4507
+1083,Duke's Northshore,2656 Yonge St,M4P 2J5,12,43.7135,-79.3887
+1084,Sports Centre,2527 Av Danforth,M4C 1L1,14,43.6913,-79.3116
+1085,Roots Canada,2670 Yonge St,M4P 2J5,12,43.7135,-79.3887
+1086,Old Navy,30 Weston,M5G,0,43.6564,-79.38600000000002
+1087,Primavera Fashions,1879 Eglinton Ave W,M6E 2J5,17,43.6889,-79.4507
+1088,One Hot Tamale Activeware,2721 Yonge St,M4N 2H8,12,43.7301,-79.3935
+1089,Tabi International Inc,2198 Bloor St W,M6S 1N4,6,43.6512,-79.4828
+1090,Family Sportswear,1924 Eglinton Ave W,M6E 2J6,17,43.6889,-79.4507
+1091,RABIA HAMID ENTERPRISES,735-DONMILLS ROAD ,M3C 1T1,18,43.7334,-79.3329
+1092,Modi's Clothing Centre,1924 Eglinton Ave W,M6E 2J6,17,43.6889,-79.4507
+1093,Vie En Rose(La),1980 St Clair Ave W,M6N 1K1,6,43.6748,-79.4839
+1094,Addition-Elle,1980 St Clair Ave W,M6N 1K1,6,43.6748,-79.4839
+1095,Linen Chest,75 Gunns Rd,M6N 4X9,6,43.6748,-79.4839
+1096,Fancy Fashions Islamic European&amp;African Clothing,1968 Eglinton Ave W,M6E 2J9,17,43.6889,-79.4507
+1097,Zarhara Boutique Plus,2690 Danforth Ave,M4C 1L7,14,43.6913,-79.3116
+1098,Cora Couture,2236 Bloor St W,M6S 1N6,6,43.6512,-79.4828
+1099,Pretty Girl Fashion,2704 Av Danforth,M4C 1L7,14,43.6913,-79.3116
+1100,Simply Yours,2240 Bloor St W,M6S 1N6,6,43.6512,-79.4828
+1101,Eden Fashion Mews,2260 Bloor St W,M6S 1N9,6,43.6512,-79.4828
+1102,Northern Reflection,2198 Bloor St W,M6S 1N4,6,43.6512,-79.4828
+1103,Ipoko Com,2264 Bloor St W,M6S 1N9,6,43.6512,-79.4828
+1104,What's Nu,880 Kingston Rd,M4E 1S3,14,43.6784,-79.2941
+1105,HES Designs Atelier de Couture,171 Willow Ave,M4E 3K4,14,43.6784,-79.2941
+1106,MerryGoRound,2284 Bloor Street West,M6S 1N9,6,43.6512,-79.4828
+1107,Caleche Ladies Wear,2310 Bloor St W,M6S 1P2,6,43.6512,-79.4828
+1108,Subong Studio,925 Kingston Rd,M4E 1S6,14,43.6784,-79.2941
+1109,Trixie Inc,2313 Bloor St W,M6S 1P1,6,43.6512,-79.4828
+1110,Neo,933 Kingston Rd,M4E 1S6,14,43.6784,-79.2941
+1111,Everhart,2318 Bloor St West,M6S 1P2,6,43.6512,-79.4828
+1112,Mendocino Clothing Company Limited,496 Av Gilbert,M6E 4X5,17,43.6889,-79.4507
+1113,Denise &amp; Company,2338 Bloor St W,M6S 1P3,6,43.6512,-79.4828
+1114,Techno Economy,2918 Danforth Ave,M4C 1M1,14,43.6913,-79.3116
+1115,Madelen M Fashion and Accessories,2380 Bloor St West,M6S 1P5,6,43.6512,-79.4828
+1116,Fred's Here,505 Marlee Ave,M6B 3J3,2,43.7081,-79.4479
+1117,Now and Then Memories,992 Kingston Rd,M4E 1T2,14,43.6784,-79.2941
+1118,Fashionable the,2700 Dufferin St,M6B 4J3,2,43.7081,-79.4479
+1119,Fashionable Co,2700 Dufferin St,M6B 4J3,2,43.7081,-79.4479
+1120,Hutchinson Dean Design Inc,2700 Dufferin St,M6B 4J3,2,43.7081,-79.4479
+1121,Daywear Clothing,2700 Dufferin St,M6B 4J3,2,43.7081,-79.4479
+1122,Vikeda Industries Inc,Curity,M3H 6A7,2,43.7535,-79.4472
+1123,Ziliotto Design,Bloor W,M6S 1P5,6,43.6512,-79.4828
+1124,Amira Gabriel Fashion,Wingold,M6B 1P8,2,43.7081,-79.4479
+1125,Venus Fashion,6 Wingold Ave,M6B 1P5,2,43.7081,-79.4479
+1126,Frank Lyman Designs,8 Wingold Ave,M6B 1P5,2,43.7081,-79.4479
+1127,Reitmans,3003 Danforth Ave,M4C 1M7,14,43.6913,-79.3116
+1128,Steffyb,2772 Dufferin St,M6B 3R7,2,43.7081,-79.4479
+1129,Rosa Martins Agency,2770 Dufferin,M2N,2,43.7673,-79.4111
+1130,Ic Company's Canada Inc,2770 Dufferin St,M6B 3R7,2,43.7081,-79.4479
+1131,Brenda Beddome Designs,2770 Dufferin St,M6B 3R7,2,43.7081,-79.4479
+1132,Sally International Co,2774 Dufferin St,M6B 3R7,2,43.7081,-79.4479
+1133,Dish Jeans,2774 Dufferin St,M6B 3R7,2,43.7081,-79.4479
+1134,Pride Umer International Corporation,3000 Danforth Ave,M4C 1M7,14,43.6913,-79.3116
+1135,Groove Wear Inc,2782 Dufferin St,M6B 3R7,2,43.7081,-79.4479
+1136,J'Adore,3003 Danforth Ave,M4C 1M9,14,43.6913,-79.3116
+1137,Tatiana Fashion &amp; Alterations,2991 Bathurst St,M6B 3B3,2,43.7081,-79.4479
+1138,Les Modes How International,18 Wingold Ave,M6B 1P5,2,43.7081,-79.4479
+1139,Jacob,Bloor W,M3H 6A7,2,43.7535,-79.4472
+1140,C M Couture,51 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1141,Lesniak Sales,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1142,Anne Hall Agency Inc,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1143,Hagerty &amp; Le Messurier Sales,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1144,Francesca Sales Agency,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1145,Buffalo Show Room,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1146,JJ Clothing Inc,63 Wingold Ave,M6B 1P5,2,43.7081,-79.4479
+1147,The Agency,67 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1148,Kim Crawford Agency,107-71 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1149,Platinum Agency,71 Wingold Av,M6B 1P8,2,43.7081,-79.4479
+1150,Fraye Fashion Associates,71 Wingold Av,M6B 1P8,2,43.7081,-79.4479
+1151,Cheryl Taback Sales,71 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1152,Denise Kitchen Sales Agency,71 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1153,Jb Import Inc,70 Wingold Av,M6B 1P5,2,43.7081,-79.4479
+1154,App Group Canada,79 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1155,Cynthia Fashion,169 Jane St,M6S 3Y8,6,43.6512,-79.4828
+1156,Canadian International Inc,88 Wingold Ave,M6B 1P5,2,43.7081,-79.4479
+1157,Roots Canada Limited Head Office Distribution Ce,75 Tycos Dr,M6B 1W3,2,43.7081,-79.4479
+1158,J &amp; R Fashion Design,2532 Eglinton Ave W,M6M 1T1,6,43.6934,-79.4857
+1159,Evymama Maternity,266 Jane St,M6S 3Z2,6,43.6512,-79.4828
+1160,Notable Design,2535 Eglinton Ave W,M6M 1T2,6,43.6934,-79.4857
+1161,International Fashion Group Limited,89 Tycos Dr,M6B 1W3,2,43.7081,-79.4479
+1162,Coast To Coast Trading,91 Tycos Dr,M6B 1W3,2,43.7081,-79.4479
+1163,Chelsea International,91 Tycos Dr,M6B 1W3,2,43.7081,-79.4479
+1164,Susy's Fashions,84 Tycos Dr,M6B 1V9,2,43.7081,-79.4479
+1165,Nor Designs,91 Tycos Dr,M6B 1W3,2,43.7081,-79.4479
+1166,Substance,514 Lawrence Ave W,M6A 1A1,2,43.7223,-79.4504
+1167,Kid Smart,361 Jane St,M6S 3Z3,6,43.6512,-79.4828
+1168,Maple Leaf Wear,95,M6B 1W3,2,43.7081,-79.4479
+1169,Bluenotes,150 Ferrand Dr,M3C 3E5,18,43.7334,-79.3329
+1170,Bravado Designs,Hollinger,M4B 3G4,14,43.7063,-79.3094
+1171,Fashion Village,107 Tycos Dr,M6B 1W3,2,43.7081,-79.4479
+1172,RKO Fashion,2575 Eglinton Ave W,M6M 1T3,6,43.6934,-79.4857
+1173,Richard Han Boutique,2902 Dufferin St,M6B 3S8,2,43.7081,-79.4479
+1174,fashion plus productions,110 Tycos Dr Unit 2,M6B 1V9,2,43.7081,-79.4479
+1175,Chronic Clothing,1986,M5M 4A4,2,43.7335,-79.4177
+1176,Mokonzie Co-Operative Inc,2863 St Clair Ave E,M4B 1N4,14,43.7063,-79.3094
+1177,Crawford Boys Clothing,508-A Lawrence Avenue West,M6A 1A1,2,43.7223,-79.4504
+1178,Addition-Elle,518 Lawrence Ave W,M6A 1A1,2,43.7223,-79.4504
+1179,MR Headbands,1095 O'connor Dr,M4B 2T1,14,43.7063,-79.3094
+1180,Designer Outlet,526 Lawrence Ave W,M6A 1A1,2,43.7223,-79.4504
+1181,Juna Paul Holding Corp,136 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1182,Fine Imported Fashions,3227 Yonge St,M4N 2L3,12,43.7301,-79.3935
+1183,Sandy White,3229 Yonge St,M4N 2L3,12,43.7301,-79.3935
+1184,Colombia Fashion,2952 Dufferin St,M6B 3S9,2,43.7081,-79.4479
+1185,Hazellily Designer Consingment,3235 Yonge St,M4N 2L5,12,43.7301,-79.3935
+1186,Yoyo Fashion Beauty,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1187,Adam Slater Sales Ltd,2 160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1188,Abrams &amp; Schneer Agency Inc,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1189,Melanie Cupolo&amp;Sales,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1190,T &amp; Fg Fashions Canada,125-160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1191,Weft Agency,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1192,Fleisher Gerry &amp; Stephen Enterprises Inc,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1193,My Fashion House,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1194,Export Leather Garments,840 Caledonia,M5G,0,43.6564,-79.38600000000002
+1195,Lynn Boyer&amp;Associates,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1196,Blinn C M&amp;Associates,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1197,Executive Look,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1198,Venezia Fashion Inc,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1199,Cartise International,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1200,Lovely Girl Apparel Ltd,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1201,Ash Ree Designs,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1202,Fine Line Imports Inc,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1203,Simon Saks Sales Agency,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1204,Rendezvu Clothing,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1205,Alexis &amp; Company,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1206,Blue Skye Sales,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1207,Fuschia Sales Inc,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1208,Guess Canada Corp,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1209,Petite Repeats,1648 Avenue Rd,M5M 3Y1,2,43.7335,-79.4177
+1210,Jay Set Lawrence Square,700 Lawrence Ave W,M6A 1B4,2,43.7223,-79.4504
+1211,Wonderlane Fashions,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1212,Sidekicks Fashions,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1213,Ibiza Ltd,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1214,Hollywood Style,700 Av Lawrence O,M6A 3B4,2,43.7223,-79.4504
+1215,Empire City,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1216,Peplos By Designers,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1217,Impulse Clothing,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1218,Tilley Endurables Inc,900 Don Mills Rd,M3C 1V6,18,43.7334,-79.3329
+1219,Australia Hat&amp;Oilskin Coat Shop,374 Brookdale Ave,M5M 1R2,2,43.7335,-79.4177
+1220,Mr Kunz,50 Batavia Ave,M6N 4A2,6,43.6748,-79.4839
+1221,Diane Kroe,1693 Avenue Rd.,M5M 3Y3,2,43.7335,-79.4177
+1222,Avenue Rd Last Call,1724 Avenue Rd,M5M 3Y6,2,43.7335,-79.4177
+1223,Bluenotes,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1224,G Ratio,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1225,Repeats Resale Women's Boutique,3313 Yonge St,M4N 2L9,12,43.7301,-79.3935
+1226,Gazebo Fashions,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1227,Society Unit,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1228,Joy Cherry,3323 Yonge St,M4N 2L9,12,43.7301,-79.3935
+1229,Tashi Apparel Inc.,3331 Yonge St,M4N 2L9,12,43.7301,-79.3935
+1230,Mode Frizon,1716 Avenue Rd,M5M 3Y6,2,43.7335,-79.4177
+1231,Broadway Style Limited,920 Caledonia Rd,M6B 3Y1,2,43.7081,-79.4479
+1232,Tribute Homes Customer Care,1717 Avenue Rd,M5M 0A2,2,43.7335,-79.4177
+1233,Mimi And Sheryl's Boutique,1734 Avenue Rd,M5M 3Y6,2,43.7335,-79.4177
+1234,Paola Di Designs Inc,3357 Yonge St,M4N 2M6,12,43.7301,-79.3935
+1235,Jennifer's Boutique,1736 Avenue Rd,M5M 3Y6,2,43.7335,-79.4177
+1236,THE FASHION CENTRE,1250 Eglinton Avenue East Suite 211,M3C 1J3,18,43.7334,-79.3329
+1237,Out on a Limb,1755 Avenue Rd.,M5M 3Y8,2,43.7335,-79.4177
+1238,Loco Boutique,1757 Avenue Rd,M5M 3Y8,2,43.7335,-79.4177
+1239,Kathryn's Lingerie,1759 Avenue Rd.,M5M 3Y8,2,43.7335,-79.4177
+1240,Madeline's Bridal&amp;Eveningwear,1798 Avenue Rd,M5M 3Z1,2,43.7335,-79.4177
+1241,Coop Encore Ltd(The),3435 Yonge St,M4N 2N1,12,43.7301,-79.3935
+1242,Coop Encore Ltd (The),3435 Yonge St,M4N 2N1,12,43.7301,-79.3935
+1243,William Glen&amp;Son Canada Ltd,1825 Avenue Rd,M5M 3Z4,2,43.7335,-79.4177
+1244,Aritzia Shops At Don Mills,Lawrence E,M3C 1P8,18,43.7334,-79.3329
+1245,Sunny Choi Fashion House,1020 Lawrence Ave W,M6A 1C8,2,43.7223,-79.4504
+1246,Ona Boutique,1845 Avenue Rd,M5M 3Z4,2,43.7335,-79.4177
+1247,Vivace,1852 Avenue Rd,M5M 3Z5,2,43.7335,-79.4177
+1248,Beker Fashions,87 Colville Rd,M6M 2Y6,6,43.6934,-79.4857
+1249,Anthropologie,19 Clock Tower Rd,M3C 0E1,18,43.7334,-79.3329
+1250,Rodan Enterprises,161 Bartley Dr,M4A 1E6,18,43.7276,-79.3148
+1251,Alyssa Agency,83 Colville Rd,M6M 2Y6,6,43.6934,-79.4857
+1252,Morega Agency,85 Colville Rd,M6M 2Y6,6,43.6934,-79.4857
+1253,COCONUDA,1897 Avenue Road,M5M 3Z9,2,43.7335,-79.4177
+1254,JOVANI CANADA -  Gabig Enterprises,199 BROOKE Avenue,M5M 2K7,2,43.7335,-79.4177
+1255,Calvin Klein,15 Marie Labatte Rd,M3C 0J1,18,43.7334,-79.3329
+1256,Phillips Van Heusen Co808 Calvin Klein,15 Marie Labatte Rd,M3C 0J1,18,43.7334,-79.3329
+1257,Frumelas,3544 Bathurst St,M6A 2C6,2,43.7223,-79.4504
+1258,Casual Nonsense,170 The Donway W,M3C 2G3,18,43.7334,-79.3329
+1259,Tommy Hilfiger,Aggie Hogg Gdns,M3C 0G6,18,43.7334,-79.3329
+1260,Crisca,8A Aggie Hogg Gardens,M3C 0E7,18,43.7334,-79.3329
+1261,Marso Boutique,1912 Avenue Rd,M5M 4A1,2,43.7335,-79.4177
+1262,Olsen Europe,15 Aggie Hogg Gdns,M3C 0G5,18,43.7334,-79.3329
+1263,BCBG Max Azria,16 Aggie Hogg Gardens,M3C 0G7,18,43.7334,-79.3329
+1264,Bernard Athletic Knit,2 Scarlett Rd,M6N 4J6,6,43.6748,-79.4839
+1265,Cotton Ginny,40 Samor Rd,M6A 1J6,2,43.7223,-79.4504
+1266,Jasmine's Dressing You &amp; Your Home,1930 Avenue Rd,M5M 4A1,2,43.7335,-79.4177
+1267,Oak &amp; Fort,12 Karl Fraser Rd,M3C 0E8,18,43.7334,-79.3329
+1268,Denise &amp; Company,14 Karl Fraser Rd,M3C 0E8,18,43.7334,-79.3329
+1269,Tristan,17 Karl Fraser Rd,M3C 0E6,18,43.7334,-79.3329
+1270,Gymboree Inc,16 Karl Fraser Rd,M3C 0E8,18,43.7334,-79.3329
+1271,Banana Republic,19 Karl Fraser Rd,M3C 0E6,18,43.7334,-79.3329
+1272,V Fraas Manufacturing Inc,44 Samor Rd,M6A 1J6,2,43.7223,-79.4504
+1273,V Fraas Manufacturing Inc,44 Samor Rd,M6A 1J6,2,43.7223,-79.4504
+1274,Labels or Love,1956 Avenue Rd.,M5M 2H9,2,43.7335,-79.4177
+1275,Aladin Jeans,3240 Dufferin St,M6A 2T3,2,43.7223,-79.4504
+1276,Guess,28 Karl Fraser Rd,M3C 0E8,18,43.7334,-79.3329
+1277,In Style,3250 Dufferin St,M6A 2T3,2,43.7223,-79.4504
+1278,Haute Classics,1961 Avenue Rd,M5M 4A3,2,43.7335,-79.4177
+1279,Yourchoice,23 Karl Fraser Rd,M3C 0E6,18,43.7334,-79.3329
+1280,Speed Motorsport,3247 Dufferin St,M6A 2T2,2,43.7223,-79.4504
+1281,Strada Menswear,3250 Dufferin St,M6A 2T3,2,43.7223,-79.4504
+1282,Brown's Clothing,1975 Avenue Rd,M5M 4A3,2,43.7335,-79.4177
+1283,Studio 7,1977 Avenue Rd,M5M 4A3,2,43.7335,-79.4177
+1284,EddieBauer,32 Karl Frazer Rd,M3C 0E8,18,43.7334,-79.3329
+1285,Femme Actuelle Inc,36 Colville Rd,M6M 2Y4,6,43.6934,-79.4857
+1286,Spanner Ltd,35 Karl Fraser Rd,M3C 0E6,18,43.7334,-79.3329
+1287,Look Alike Shop,39 Orfus Road,M6A 1L7,2,43.7223,-79.4504
+1288,Eddie Bauer,1090 Don Mills Rd,M3C 3R6,18,43.7334,-79.3329
+1289,Emtiaz Hamad,1090 Don Mills Rd,M3C 3R6,18,43.7334,-79.3329
+1290,Haight And Ashbury,1090 Don Mills Rd,M3C 3R6,18,43.7334,-79.3329
+1291,Devanlay Canada,1 Yorkdale Rd,M6A 3A1,2,43.7223,-79.4504
+1292,Mexx Canada Retail Inc,1 Yorkdale Rd,M6A 3A1,2,43.7223,-79.4504
+1293,H&amp;M Hennes&amp;Mauritz,1 Yorkdale Rd,M6A 3A1,2,43.7223,-79.4504
+1294,PHD Design Inc,54 Kingsway Cres,M8X 2R6,6,43.6518,-79.5076
+1295,Tabi International,39 Orfus Rd,M6A 1L7,2,43.7223,-79.4504
+1296,Crisca,Shops at Don Mills 1090 Don Mills Road,M3C 3R6,18,43.7334,-79.3329
+1297,Sonita Fashions,1240 Weston Rd,M6M 4P8,6,43.6934,-79.4857
+1298,Emmanuel Bitini Fashion Outlet,49 Orfus RD,M6A 1L7,2,43.7223,-79.4504
+1299,Yaya &amp;Co,55 Orfus Rd,M6A 1L7,2,43.7223,-79.4504
+1300,Goodwill Toronto,3302 Dufferin St,M6A 2T6,2,43.7223,-79.4504
+1301,Suzy's Inc,100 Dufflaw Rd,M6A 2W1,2,43.7223,-79.4504
+1302,Roots Canada Limited,1162 Caledonia Rd,M6A 2W5,2,43.7223,-79.4504
+1303,Stitches Mega Store,71 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1304,Shoe Planet,71 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1305,Stitches,130 Neptune Dr,M6A 1X5,2,43.7223,-79.4504
+1306,Prada USA Corp,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1307,Holt Renfrew,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1308,Laura - Laura Petites - Laura Plus,Yorkdale Shopping Ctr,M6B 2G9,2,43.7081,-79.4479
+1309,Talbots (Canada) Inc,Yorkdale Shopping Centre,M5G,0,43.6564,-79.38600000000002
+1310,Stitches,92 Orfus Rd,M6A 1L9,2,43.7223,-79.4504
+1311,Juicy Couture,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1312,Versace Canada,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1313,RW&amp;Co,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1314,Cortina Ladies Wear,1381 Lawrence Ave W,M6L 1A4,2,43.7137,-79.4869
+1315,International Clothier,100 Orfus Rd,M6A 1L9,2,43.7223,-79.4504
+1316,Mendocino Clothing Co Ltd,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1317,Sport Chek,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1318,Tall Girl Shop Ltd,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1319,Guess Canada,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1320,Club Monaco Int,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1321,Tristan Yorkdale Shopping Centre,3401 Dufferin Street,M6A 2T9,2,43.7223,-79.4504
+1322,Esprit De Corp,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1323,Fossil,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1324,Dynamite Boutique,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1325,Roots Canada Ltd,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1326,White House Black Market,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1327,Zara Canada,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1328,Zara Canada,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1329,American Eagle,3401 Dufferin Street,M6A 2T9,2,43.7223,-79.4504
+1330,Honey,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1331,Ann Taylor Loft,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1332,Bcbg Max Azria Canada Inc,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1333,Tory Burch,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1334,Wallstreet,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1335,L'officiel,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1336,Eddie Bauer,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1337,Mango,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1338,Ivivva Athletica,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1339,Old Navy,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1340,Costa Blanca,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1341,Gap The,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1342,Urban Behavior,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1343,Coat Company The,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1344,Banana Republic,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1345,Sixty Canada Retail,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1346,Bluenotes Outlet,110 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1347,Randy River,109 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1348,Superb Fashions Ltd,89 Bentworth Ave,M6A 1P6,2,43.7223,-79.4504
+1349,A Wa Bath Boutique Wholesale Group LTD,89 Bentworth Ave,M6A 1P6,2,43.7223,-79.4504
+1350,Fairweather Ltd,111 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1351,Foot Locker Canada,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1352,Bluenotes Ltd,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1353,Chanel Boutique,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1354,Garage,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1355,Jack &amp;Jones,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1356,True Religion Apparel,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1357,Urban Outfitters,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1358,Oak +fort Yorkdale,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1359,Loft,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1360,Ted Baker Ltd,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1361,Devanlay Boutique,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1362,Anthropologic,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1363,Brandy Melville,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1364,True Religion Apparel,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1365,The Bay,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1366,West 49,116 Orfus Rd,M6A 1L9,2,43.7223,-79.4504
+1367,Sirens,110 Orfus Rd,M6A 1L9,2,43.7223,-79.4504
+1368,Saud Lodhi,1 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+1369,Fashionrama,1 Eglinton Square,M1L 2K1,14,43.7122,-79.2843
+1370,Zara,1 Yorkdale Rd,M6A 2T9,2,43.7223,-79.4504
+1371,Martoni Fashions Ltd,1194 Caledonia,M5G,0,43.6564,-79.38600000000002
+1372,West 49,3401 Dufferin St,M6A 3A1,2,43.7223,-79.4504
+1373,Forever 21,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1374,Bluenotes,1203 Caledonia Rd,M6A 2X3,2,43.7223,-79.4504
+1375,ACE Fashion,1 Yorkdale Rd,M6A 3A1,2,43.7223,-79.4504
+1376,Pari Mode Inc-Royal Lingerie,10 Tudor Gate,M2L 1N4,18,43.7547,-79.3764
+1377,American Apparel Canada,1 Yorkdale,M5G,0,43.6564,-79.38600000000002
+1378,American Eagle Outfitters,218 Yonge Blvd,M5M 3H8,2,43.7335,-79.4177
+1379,Aerie By American Eagle,218 Yonge Blvd,M5M 3H8,2,43.7335,-79.4177
+1380,Bebe,218 Yonge Blvd,M5M 3H8,2,43.7335,-79.4177
+1381,Bashment Boutique,1353 Weston Rd,M6M 4R9,6,43.6934,-79.4857
+1382,The Levi's Store,218 Yonge Blvd,M5M 3H8,2,43.7335,-79.4177
+1383,Urban Outfitters,235 Yonge Blvd,M5M 3J1,2,43.7335,-79.4177
+1384,Blonder Stan,153 Bridgeland Ave,M6A 2Y6,2,43.7223,-79.4504
+1385,Lisa Fashions Inc,247 Bridgeland Ave,M6A 1Y7,2,43.7223,-79.4504
+1386,Short Cuts,31 Railside Rd,M3A 1B2,18,43.7545,-79.33
+1387,J&amp;W Jobbers Ltd,300 Bridgeland Ave,M6A 1Z4,2,43.7223,-79.4504
+1388,Trio Fashions,1315 Lawrence Ave E,M3A 1C6,18,43.7545,-79.33
+1389,Hear Maxx,861 Jane Street,L6V 4G5,3,43.7059,-79.7626
+1390,Ports International,85 Scarsdale Rd,M3B 2R2,18,43.745,-79.359
+1391,Bravado Designs,60 Scarsdale Rd,M3B 2R7,18,43.745,-79.359
+1392,Blu Tailor Inc,1919 Lawrence Ave E,M9N 1G8,6,43.7068,-79.517
+1393,Accurate Clothing Care,808 York Mills Rd,M3B 1X9,18,43.745,-79.359
+1394,Glady's Variedades,1744 Jane St,M9N 2S9,6,43.7068,-79.517
+1395,Stein Ruth Fashions,1865 Leslie St,M3B 2M3,18,43.745,-79.359
+1396,Saint Honoré,808 York Mills Rd,M3B 1X8,18,43.745,-79.359
+1397,Calvin Henry,1816 Jane St,M9N 2T3,6,43.7068,-79.517
+1398,Jafar Global Fashion,1798 Weston Rd,M9N 1V8,6,43.7068,-79.517
+1399,Schindler Couture Inc,1987 Leslie St,M3B 2M3,18,43.745,-79.359
+1400,Flying Start Sports Uniforms &amp; Trophies,2089 Lawrence Ave W,M9N 1H8,6,43.7068,-79.517
+1401,Feeling Fine,1921 Weston Rd,M9N 1W7,6,43.7068,-79.517
+1402,Silk Thread,2086 Av Lawrence O,M9N 1J1,6,43.7068,-79.517
+1403,Agwu Stanley,3 John St,M9N 1J2,6,43.7068,-79.517
+1404,Versions,54 Queen'S Dr,M9N 2H4,6,43.7068,-79.517
+1405,Midas Safety,255 Duncan Mill Rd,M3B 3H9,18,43.745,-79.359
+1406,Iq Promotions,49 Fortrose Crescent,M3A 2H2,18,43.7545,-79.33
+1407,Mark's Work Wearhouse,2625D Weston Rd,M9N 3W2,6,43.7068,-79.517
+1408,Nygard Moderat Weston Rd,2625A Weston Rd,M9N 3V8,6,43.7068,-79.517
+1409,Olsen Collection Outlet,2625 Weston Rd,M9N 3X2,6,43.7068,-79.517
+1410,Greenshag,670 Queen St W,M6J 1E5,11,43.648,-79.4177
+1411,ZANE,753 Queen Street West.,M6J 1G1,11,43.648,-79.4177
+1412,Mulberry,131 Bloor St W,M5S 1R1,16,43.6629,-79.3987
+1413,Serpentine,18 Hazelton Ave,M5R 2E2,16,43.6736,-79.4035
+1414,Basia,161 Dupont St,M5R 1V5,16,43.6736,-79.4035
+1415,Envelop,311 Danforth Ave,M4K 1N7,19,43.6803,-79.3538
+1416,Beadle,1582 Dundas St W,M6K 1T8,11,43.6383,-79.4301
+1417,Acappella,0 752 St,M6C 1B5,17,43.6915,-79.4307
+1418,Gelaskins,2738 Dundas St W,M6P 1Y3,17,43.6605,-79.4633
+1419,Trove,2264 Bloor St. W,M6S 1N9,6,43.6512,-79.4828
+1420,Adamsco,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1421,Addosso,3381 Yonge St,M4N 2M7,12,43.7301,-79.3935
+1422,Barclays,808 York Mills Rd,M3B 1X8,18,43.745,-79.359
+1423,Harry Rosen Gentlemen's Apparel Central Office,11 Adelaide St W,M5H 1N1,0,43.6496,-79.3833
+1424,Justwhiteshirts.com,40 King St W,M5H 3Y2,0,43.6496,-79.3833
+1425,Moores FORMAL RENTALS,Toronto. Moores Clothing For Men. Shoppers World Danforth,M3H 6A7,2,43.7535,-79.4472
+1426,Tuor Networks Inc,2 Temperance St,M5C 1X6,0,43.6513,-79.3756
+1427,Pinstripe,111 Yonge,M5C 1W4,0,43.6513,-79.3756
+1428,Moores Clothing For Men,100 Yonge Street,M5C 2W1,0,43.6513,-79.3756
+1429,Tip Top Tailors,419 King St W,L1H 2K5,5,43.9721,-78.8837
+1430,Tello Clothiers Inc,100 King W,M5X 1K7,0,43.6492,-79.3823
+1431,Sartorial Fine Clothiers,37 King St E,M5C 1E9,0,43.6513,-79.3756
+1432,Pace Men's Collection,181 Bay St,M5J 2T3,11,43.62300000000001,-79.3936
+1433,Vassi Fine Menswear,100 King Street West,M5X 1K7,0,43.6492,-79.3823
+1434,Tip Top Tailors,100 King W,M5X 1K7,0,43.6492,-79.3823
+1435,Fresh &amp;Prestige,70 Adelaide St E,M5C 1J5,0,43.6513,-79.3756
+1436,Jones Robert Menswear Limited,Royal Bank Plaza 200 Bay St.,M5J 2J1,11,43.62300000000001,-79.3936
+1437,Kumar For Men,123 Queen St W,M5H 3M9,0,43.6496,-79.3833
+1438,Silka New York New York,123 Queen St W,M5H 3M9,0,43.6496,-79.3833
+1439,Harry Rosen Gentlemen's Apparel,218 Yonge St,M5B 2H6,0,43.6572,-79.3783
+1440,Banana Republic (Men's),218 Yonge Street,M5B 2H1,0,43.6572,-79.3783
+1441,West Coast Inc,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+1442,Stitches,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+1443,Grafton &amp; Company,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+1444,Stylexchange,220 Yonge,M5G,0,43.6564,-79.38600000000002
+1445,Jazz Urban Style Inc,3240 Dufferin,M5G,0,43.6564,-79.38600000000002
+1446,Pinstripe,900 Dufferin,M5G,0,43.6564,-79.38600000000002
+1447,International Clothiers,Scarborough Town Centre,M5G,0,43.6564,-79.38600000000002
+1448,Jcrew,220 Yonge,M5G,0,43.6564,-79.38600000000002
+1449,Grand National Trouser,100 Marmora,M5G,0,43.6564,-79.38600000000002
+1450,Boutique Surmesur Inc,108 Queen St E,M5C 1S6,0,43.6513,-79.3756
+1451,Marlon Durrant Custom Shirts,193 Church St,M5B 1Y7,0,43.6572,-79.3783
+1452,Mark's Work Wearhouse,65 Dundas St W,M5G 2C2,0,43.6564,-79.38600000000002
+1453,Alleyne &amp; Company,115 The Esplanade,M5E 1Y7,0,43.6456,-79.3754
+1454,Lee Baron Fashion Ltd,112 Elizabeth St,M5G 1P5,0,43.6564,-79.38600000000002
+1455,Fraser Steen 1996 Limited,100 Front W,M5A 1E1,0,43.6555,-79.3626
+1456,Berac Fashion Corp,560 20,M5G,0,43.6564,-79.38600000000002
+1457,Marlon Durrant Custom Shirt,193 Church,M5G,0,43.6564,-79.38600000000002
+1458,Uptown Inc,4 Edward St,M5G 1C9,0,43.6564,-79.38600000000002
+1459,Perry's Yorkville Ltd,Bay,M5R 2B1,16,43.6736,-79.4035
+1460,Faded Lifestyle,25 John St,M5V 3G6,11,43.6404,-79.3995
+1461,Aquarius Men's Wear,312 Adelaide St W,M5V 1R2,11,43.6404,-79.3995
+1462,Fat Bastard Burrito,187 College St,M5T 1P7,0,43.6541,-79.3978
+1463,Knidcer Boxer's 71 MC Caul,71 Mccaul St,M5T 2X1,0,43.6541,-79.3978
+1464,Kazuo Fashion,371 Queen St W,M5V 2A4,11,43.6404,-79.3995
+1465,Hugo Boss Canada Inc,138 Cumberland,M5G,0,43.6564,-79.38600000000002
+1466,Tie Rack (Canada) Ltd,Toronto Eaton Centre,M5G,0,43.6564,-79.38600000000002
+1467,Xtreme Clothing Ltd,777 Bay St,M5G 2C8,0,43.6564,-79.38600000000002
+1468,Marvellous Maxx,900 Dufferin,M5G,0,43.6564,-79.38600000000002
+1469,Jaytex Of Canada,87 Ave,M5G,0,43.6564,-79.38600000000002
+1470,Gilbert's Big&amp;Tall Men's Shop,439 King St W,M5V 1K4,11,43.6404,-79.3995
+1471,Jeans West,465 Queen St W,M5V 2A9,11,43.6404,-79.3995
+1472,Indochino Apparel Inc,King W,M5V 1K4,11,43.6404,-79.3995
+1473,Janet Collection,280 Spadina Ave,M5T 3A5,0,43.6541,-79.3978
+1474,Underground Clothing,511 Yonge St,M4Y 1Y3,0,43.6656,-79.383
+1475,Boyer Henri J,34 Maitland St,M4Y 1C5,0,43.6656,-79.383
+1476,Brown's Short Man,545 Queen St W,M5V 2B6,11,43.6404,-79.3995
+1477,Brown Clothing,545 Queen St W,M5V 2B6,11,43.6404,-79.3995
+1478,Klein Randy Office,517 Wellington W,M5V 1G1,11,43.6404,-79.3995
+1479,Proper Reserve,498 Queen St W,M5V 2B3,11,43.6404,-79.3995
+1480,Bottomsup Ca Inc,Sherbourne,M4X 1K2,0,43.6684,-79.3689
+1481,Empire Customs,116 Fort York Blvd,M5V 4A6,11,43.6404,-79.3995
+1482,Out On The Street Inc,551 Church St,M4Y 2E2,0,43.6656,-79.383
+1483,Zimmerman Discounts,210 Augusta Ave,M5T 2L6,0,43.6541,-79.3978
+1484,Mr Big and Tall,573 King St E,M5A 1M5,0,43.6555,-79.3626
+1485,Gotstyle The Mens Store,60 Bathurst St,M5V 2P4,11,43.6404,-79.3995
+1486,Cuffwear Inc,993 Queen St W,M6J 1H2,11,43.648,-79.4177
+1487,Urban Mode,620 Queen St W,M6J 1E4,11,43.648,-79.4177
+1488,Urban Mode,145 Tecumseth St,M6J 2H5,11,43.648,-79.4177
+1489,Beau Tie,280 Wellesley St.,M4X 1G7,0,43.6684,-79.3689
+1490,Harry Rosen Inc,1600 77 Bloor St W,M5S 1M2,16,43.6629,-79.3987
+1491,Yull's,50 Bloor St W,M4W 3L8,12,43.6827,-79.373
+1492,American Essentials,63 Polson St,M5A 1A4,0,43.6555,-79.3626
+1493,Harry Rosen Gentlemen's Apparel,82 Bloor St W,M5S 1L9,16,43.6629,-79.3987
+1494,Delphic Clothing,706 Queen St W,M6J 1E7,11,43.648,-79.4177
+1495,Studio Deluxe,793 Queen St W,M6J 1G1,11,43.648,-79.4177
+1496,J Crew,110 Bloor St W,M5S 2W7,16,43.6629,-79.3987
+1497,Andrew's Ties,2 Bloor St E,M4W 1A8,12,43.6827,-79.373
+1498,Salvati Men's Wear Inc,1240 Bay St,M5R 2A7,16,43.6736,-79.4035
+1499,Borgo Uomo,87 Cumberland St,M5R 3N7,16,43.6736,-79.4035
+1500,Atelier Leonidas,28 Cumberland St,M4W 1J5,12,43.6827,-79.373
+1501,Stavros Master Tailors &amp; Shirtmaker,93 Cumberland St,M5R 3N7,16,43.6736,-79.4035
+1502,The Brick Shirt House,112 Cumberland St,M5R 1A6,16,43.6736,-79.4035
+1503,Nicolas Men's Wear,153 Cumberland St,M5R 1A2,16,43.6736,-79.4035
+1504,Stolen Riches,734 Queen St W,M6J 1E9,11,43.648,-79.4177
+1505,Uncle Otis Clothing Inc,26 Bellair St,M5R 2C7,16,43.6736,-79.4035
+1506,Hugo Shop,18 Hazelton Ave,M5R 2E2,16,43.6736,-79.4035
+1507,Osafo Designs,851 Queen St W,M6J 1G4,11,43.648,-79.4177
+1508,Domo Co Limited,90 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+1509,Gabbana Boutique,86 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+1510,Gabbana Boutique,86 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+1511,Tarantino Marcello,17 Hazelton Ave,M5R 2E1,16,43.6736,-79.4035
+1512,V Hazelton Ltd,5 Hazelton Ave,M5R 1B9,16,43.6736,-79.4035
+1513,Klaxon Howl,877 Queen St W,M6J 1G5,11,43.648,-79.4177
+1514,Fashion Group Inquattro,33 Hazelton Ave,M5R 2E3,16,43.6736,-79.4035
+1515,Jordan Custom Tailors,729 Queen St E,M4M 1H1,19,43.6561,-79.3406
+1516,Theodore 1922,374 Bloor St W,M5S 1X7,16,43.6629,-79.3987
+1517,Grreat Stuff,870 Queen St W,M6J 1G3,11,43.648,-79.4177
+1518,Cuffwear Inc,993 Queen St W,M6J 1H2,11,43.648,-79.4177
+1519,Ermenegildo Zegna Canada,160 Pears,M5G,0,43.6564,-79.38600000000002
+1520,Casa Lanalgo,1166 Dundas St W,M6J 1X4,11,43.648,-79.4177
+1521,Fashion World,352 Pape ave,M4M 2X1,19,43.6561,-79.3406
+1522,Fairweather,1000 Gerrard St E,M4M 3G6,19,43.6561,-79.3406
+1523,Korry's Clothiers To Gentlemen,569 Danforth Ave,M4K 1P9,19,43.6803,-79.3538
+1524,Valentino's Mens Shop,978 Bloor St W,M6H 1L6,17,43.6655,-79.4378
+1525,M&amp;M J Ltd,640 Dufferin St,M6K 2B4,11,43.6383,-79.4301
+1526,Simon Carter,1493 Dundas St W,M6K 1T6,11,43.6383,-79.4301
+1527,My Taylor,1394 Yonge St,M4T 1Y5,12,43.6899,-79.3853
+1528,Rucci Shop For Men,1426 Yonge St,M4T 1Y5,12,43.6899,-79.3853
+1529,Studio We,1270 Queen St E,M4L 1C4,19,43.6693,-79.3155
+1530,Camel Creations Inc,127 Westmoreland Ave,M6H 3A1,17,43.6655,-79.4378
+1531,Signature Wear,1408 Queen St W,M6K 1L9,11,43.6383,-79.4301
+1532,Tip Top Tailors,900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+1533,The Source Clothing Co Inc,900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+1534,Mark's Work Wearhouse,900 Dufferin St,M6H 4A9,17,43.6655,-79.4378
+1535,Bogart Men s Wear,1560 Yonge St,M4T 2S9,12,43.6899,-79.3853
+1536,Tuxedo Junction,752 St Clair Ave W,M6C 1B5,17,43.6915,-79.4307
+1537,La Tunic,1245 Dupont St,M6H 2A6,17,43.6655,-79.4378
+1538,Out On the Street Inc,21 Whitewood Rd,M4S 2X8,12,43.702,-79.3853
+1539,McKnight's Men's Wear Limited,23 Whitewood Rd,M4S 2X8,12,43.702,-79.3853
+1540,Tuxedo One Inc,1497 Dupont Street,M6P 3S2,17,43.6605,-79.4633
+1541,Genesis Men's Wear,1188 St Clair Ave W,M6E 1B4,17,43.6889,-79.4507
+1542,Ok'D Moda Giovane,1233 St Clair Ave W,M6E 1B5,17,43.6889,-79.4507
+1543,The Source Mens Wear Inc,1567 Bayview Ave,M4G 3B5,12,43.7124,-79.3644
+1544,Kingsport Clothiers To Extra Tall Or Larger Gentlemen,313 Eglinton Ave West,M5N 1A1,2,43.7113,-79.4195
+1545,Bogarts,363 Eglinton Ave W,M5N 1A3,2,43.7113,-79.4195
+1546,Pony Club The Fashion For Men,1983 Queen St E,M4L 1J1,19,43.6693,-79.3155
+1547,International Clothiers,45 Overlea Blvd,M4H 1C3,19,43.7059,-79.3464
+1548,Off The Cuff,5 Broadway Ave,M4P 1T7,12,43.7135,-79.3887
+1549,Bellissimo Men's Clothier,882 Eglinton Ave W,M6C 2B6,17,43.6915,-79.4307
+1550,Jerome's,2480 Yonge Street,M4P 2H5,12,43.7135,-79.3887
+1551,Intuition Toronto,2487 Yonge St,M4P 2H6,12,43.7135,-79.3887
+1552,La Manna fashion For Men,2223 Queen St E,M4E 1E8,14,43.6784,-79.2941
+1553,BR Clothing International,1549 Eglinton Ave W,M6E 2G9,17,43.6889,-79.4507
+1554,Chocky's On Yonge,2584 Yonge St,M4P 2J3,12,43.7135,-79.3887
+1555,Unique Fashion,1613 Eglinton Ave W,M6E 2H1,17,43.6889,-79.4507
+1556,FREEMAN FORMAL WEAR,2480 Yonge - Eglinton. Jerome'S Gentlemens Apparel Inc.,M5M 3G6,2,43.7335,-79.4177
+1557,Fingerprint Design Inc,142 Hillhurst Blvd,M5N 1N8,2,43.7113,-79.4195
+1558,Roy's Fashion &amp; Enterprise,1753 Eglinton Ave W,M6E 2H7,17,43.6889,-79.4507
+1559,Testa Uomo,2719 Yonge Street,M4N 2H8,12,43.7301,-79.3935
+1560,House Of Moss Fashions Ltd,1904 Eglinton Ave W,M6E 2J6,17,43.6889,-79.4507
+1561,Cecil Ward &amp; Sons Men's Shop,2416 Bloor St West,M6S 1P9,6,43.6512,-79.4828
+1562,Allan Marks Agency,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1563,Bestseller Canada,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1564,Globe Trotter Fashion Gro,79 Wingold,M5G,0,43.6564,-79.38600000000002
+1565,Suits &amp;More By Syd Silver,79 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1566,Chabanel Mens Fashions,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1567,Ermanno Clothing For Men,3279 Yonge St,M4N 2L8,12,43.7301,-79.3935
+1568,Unique Fashion On The Avenue,1687 Avenue Rd,M5M 3Y3,2,43.7335,-79.4177
+1569,Xtreme Clothing Ltd,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1570,Kool Look,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1571,Moores Clothing For Men,3150 Dufferin St,M6A 2T1,2,43.7223,-79.4504
+1572,The Hague Neckwear,77 Sheffield St,M6M 3E9,6,43.6934,-79.4857
+1573,Braemore Neckwear,12 Densley Ave,M6M 2R1,6,43.6934,-79.4857
+1574,Canadian Suit Exchange,Dufferin,M6A 2T2,2,43.7223,-79.4504
+1575,MBA Suits Canada,3240 Dufferin St,M6A 2T3,2,43.7223,-79.4504
+1576,Western Corral Boots and Jeans,1982 Avenue Rd.,M5M 4A4,2,43.7335,-79.4177
+1577,West 49,71 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1578,Pinstripe,103 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1579,Harry Rosen Gentlemen's Apparel,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1580,AX Armani Exchange,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1581,JCrew,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1582,International Clothiers,109 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1583,International Clothiers,111 Orfus Rd,M6A 1M4,2,43.7223,-79.4504
+1584,Stockhomme,1 Yorkdale Rd,M6A 2T9,2,43.7223,-79.4504
+1585,Moores,1810 Eglinton avenue east,M4P 2Y1,12,43.7135,-79.3887
+1586,Winestock A Clothiers,30 Caravan Dr,M3B 1N2,18,43.745,-79.359
+1587,Jaks Inc,Bridgeland,M6A 2Y6,2,43.7223,-79.4504
+1588,Classica Imports,229 Bridgeland Ave,M6A 1Y7,2,43.7223,-79.4504
+1589,Heaven's Unisex Fashion Design,1676 Jane St,M9N 2S2,6,43.7068,-79.517
+1590,Mixed Styles,19 King St,M9N 1K8,6,43.7068,-79.517
+1591,Dietrick's,24 Cross St,M9N 2B9,6,43.7068,-79.517
+1592,Aldo Shoes,First Canadian Place,M5X 1K7,0,43.6492,-79.3823
+1593,Aldo Shoes,Toronto Eaton Centre,M5B 2H1,0,43.6572,-79.3783
+1594,Aldo Shoes,Toronto Eaton Centre,M5B 2H1,0,43.6572,-79.3783
+1595,Aldo Shoes,332 Yonge St,M5B 1R8,0,43.6572,-79.3783
+1596,Aldo Shoes,349 Queen Street West,M5V 2A5,11,43.6404,-79.3995
+1597,Aldo Shoes,Dufferin Mall,M6H 4B1,17,43.6655,-79.4378
+1598,Globo,900 Dufferin St,M6H 4B1,17,43.6655,-79.4378
+1599,Aldo Shoes,27 Karl Fraser Road,M3C 0E6,18,43.7334,-79.3329
+1600,Aldo Shoes,Yorkdale Shopping Centre,M6A 2T9,2,43.7223,-79.4504
+1601,The Art Of Shoe Repair,1 Eglinton Sq,M1L 2P4,14,43.7122,-79.2843
+1602,highfields  accessories,120 adelaide st w,M5H 1T1,0,43.6496,-79.3833
+1603,In Accessories,55 Queen St E,M5C 1R6,0,43.6513,-79.3756
+1604,Stage 2,150 King St W,M5H 1J9,0,43.6496,-79.3833
+1605,Joo Fashion,11 Glen Cameron Rd,M5G,0,,
+1606,Opus Elegance,220 Victoria St,M5B 2R6,0,43.6564,-79.38600000000002
+1607,Publicis Toronto,111 Queen St E,M5C 1S2,0,43.6572,-79.3783
+1608,Clara Obscura,295 Queen St E,M5A 1S7,0,43.6513,-79.3756
+1609,Urban Sassy,390 George Street,M5A 2N3,0,43.6555,-79.3626
+1610,Te Koop,421 Queen St W,M5V 2A5,11,43.6555,-79.3626
+1611,Basia Home,163 Dupont,M5G,0,43.6404,-79.3995
+1612,Designer Scarves,265 Berkeley St,M5A 2X3,0,43.6564,-79.38600000000002
+1613,trendy times,222 spadina Ave. unit253,M5T 2C2,0,43.6555,-79.3626
+1614,Runa Begum,423 Parliament St,M5A 3A1,0,43.6541,-79.3978
+1615,Trend Tique,496 Queen St W,M5V 2B3,11,43.6555,-79.3626
+1616,Sinate Creations,480 Parliament Street,M4X 1P2,0,43.6404,-79.3995
+1617,Ocean Drive,690 Yonge St,M4Y 2A6,0,43.6684,-79.3689
+1618,Capri Co,695 Queen St W,M6J 1E6,11,43.6656,-79.383
+1619,Fogal Canada,Bloor W,M5S 1R1,16,43.648,-79.4177
+1620,Porsche Design,77 Bloor St W,M5S 1M2,16,43.6629,-79.3987
+1621,Onirak Fashion,2 Bloor St W.,L4W 3E2,10,43.6629,-79.3987
+1622,Clandestino Boutique,249 Crawford St,M6J 2V7,11,43.6413,-79.6296
+1623,Elegant Collections,1345 Yonge St,M4T 1X9,12,43.648,-79.4177
+1624,D'Mode,780 St Clair Ave W,M6C 1B6,17,43.6899,-79.3853
+1625,Meo Club,1215 St Clair Ave W Ste 1B,M6E 1B5,17,43.6915,-79.4307
+1626,Match Designing,2200 Yonge St,M4S 2C6,12,43.6889,-79.4507
+1627,Fantasy Lingerie,1673 Bayview Ave,M4G 3C1,12,43.702,-79.3853
+1628,Novesa London,2300 Yonge St.,M4R 1K8,12,43.7124,-79.3644
+1629,Firchuk's,60 Mountview Ave,M6P 2L4,17,43.7143,-79.4065
+1630,Amazing Accessories,111 Pacific Ave,M6P 2P2,17,43.6605,-79.4633
+1631,give-itz,6226-2100 Bloor Street West,M6S 5A5,6,43.6605,-79.4633
+1632,Heidi-H02,2591 Yonge St,M4P 2J1,12,43.6512,-79.4828
+1633,Lamonica Fashion,2513 Danforth Ave,M4C 1L1,14,43.7135,-79.3887
+1634,ZIKS Intl.,63 Wingold Avenue,M6B 1P8,2,43.6913,-79.3116
+1635,Orits Fashions,1957,M5M 4A3,2,43.7081,-79.4479
+1636,Frick Frack,160 Tycos Dr,M6B 1W8,2,43.7335,-79.4177
+1637,Adams Agency,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1638,La Chuchi,700 Lawrence Ave W,M6A 3B4,2,43.7081,-79.4479
+1639,Rehanna Lingerie,700 Lawrence Ave W,M6A 3B4,2,43.7223,-79.4504
+1640,Asuna Trading,153 Bridgeland,M6A 1Y7,2,43.7223,-79.4504
+1641,Icing By Claires,419 King St W,L1H 2K5,5,43.7223,-79.4504
+1642,Mercury Accessories Ltd,1179A King W,M5G,0,43.9721,-78.8837
+1643,KIKI Stoney Designs,Front St W,M5J,11,43.6564,-79.38600000000002
+1644,Bijou Ladies Assessories,200 Wellington St W,M5v 3c7,11,43.62300000000001,-79.3936
+1645,Flash Jack Enterprises,363 Yonge St,M5B 1S1,0,43.6404,-79.3995
+1646,Fashion 22 Collections,20 Bay Street,M5J 2N8,11,43.6572,-79.3783
+1647,Cross Ocean Limited,Yonge,M5B 1S6,0,43.62300000000001,-79.3936
+1648,Romancing Your Brand,111 Peter St,M5V 2H1,11,43.6572,-79.3783
+1649,Everest Craft Inc,3-161 Baldwin St,M5T 1L9,0,43.6404,-79.3995
+1650,Pashmina Group Inc,222 Spadina Ave,M5T 2C2,0,43.6541,-79.3978
+1651,Anggona Fashion Plus,320A Parliament St,M5A 2Z7,0,43.6541,-79.3978
+1652,Lesley Shapero Agency,555 Richmond St W,M5V 3B1,11,43.6555,-79.3626
+1653,Propaganda Accessories Inc,686 Yonge Street,M4Y 2A6,0,43.6404,-79.3995
+1654,Oak &amp; Fort,737 Queen St E,M4M 1H1,19,43.6656,-79.383
+1655,Simple Fusion Wear,508 Bloor St W,M5S 1Y3,16,43.6561,-79.3406
+1656,Felicias Fashion Accessories,451 Danforth Ave,M4K 1P1,19,43.6629,-79.3987
+1657,Sophia's Lingerie,527 Danforth Ave,M4K 1P7,19,43.6803,-79.3538
+1658,Eleven Thirty Shop,1130 College St,M6H 1B6,17,43.6803,-79.3538
+1659,Vieta Trading Company,36 Pinewood Dr,M5G,0,43.6655,-79.4378
+1660,Van Dieten Marilyn,461C Roncesvalles Ave,M6R 2N4,17,43.6564,-79.38600000000002
+1661,Whatever Lola Wants,1625 Bayview Ave,M4G 3B5,12,43.6469,-79.4521
+1662,Handbags 'n More,1887 Queen St E,M4L 1H3,19,43.7124,-79.3644
+1663,Bronks Trading Canada,411 Duplex Ave,M4R 1V2,12,43.6693,-79.3155
+1664,Reece Rnterprise Shop,www.reeceenterpriseshop.com,M4H 1L4,19,43.7143,-79.4065
+1665,Karl Anthony Exchange,1550 Eglinton Ave W,M6E 2G8,17,43.7059,-79.3464
+1666,Fashion Discount Outlet,1862 Eglinton Ave W,M6E 2J4,17,43.6889,-79.4507
+1667,Designer Fashion Plus,1968 Eglinton Ave W,M6E 2J9,17,43.6889,-79.4507
+1668,My Bump Maternity,944 Kingston Rd,M4E 1S7,14,43.6889,-79.4507
+1669,Ideas In Style,35 Ravenal St,M6N 3Y6,6,43.6784,-79.2941
+1670,Kilrush Sales Inc,160 Tycos Dr,M6B 1W8,2,43.6748,-79.4839
+1671,Edith Anne Jewellery,489 Cranbrooke Ave,M5M 1N6,2,43.7081,-79.4479
+1672,Fua Fallon Accessories,3111 Dufferin St,M6A 2S7,2,43.7335,-79.4177
+1673,Lululemon Athletica York,218 Yonge Blvd,M5M 3H8,2,43.7223,-79.4504
+1674,Calderone Pam Agencies,801 York Mills Rd,M3B 1X7,18,43.7335,-79.4177
+1675,Lupo Fashion Accessories,247 Lesmill Rd,M3B 2V1,18,43.745,-79.359
+1676,Club Franco Fashion,1957 Weston Rd,M9N 1W8,6,43.745,-79.359
+1677,Once Upon A Child,1386 Bayview Ave,M4G 3A1,12,43.7068,-79.517
+1678,Veena's Silver Collection,55 Mccaul St,M5T 2W7,0,43.7124,-79.3644
+1679,Elsa Reia N Studio,174 Spadina Ave,M5T 2C2,0,43.6541,-79.3978
+1680,188 Salon And Spa,188 Spadina Ave,M5T 3A4,0,43.6541,-79.3978
+1681,Cy Fashion And Accecories,222 Spadina Ave,M5T 3B3,0,43.6541,-79.3978
+1682,Kelly Claman Company Inc.,548 King St W,M5V 1M3,11,43.6541,-79.3978
+1683,Don Bok Accents Inc,656 Yonge St,M4Y 2A6,0,43.6404,-79.3995
+1684,Avec Plaisir Fine Lingerie,136 Cumberland St,M5R 1A6,16,43.6656,-79.383
+1685,The Black Box Boutique,106 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+1686,Barbie's Basement Jewellery,401 Logan Ave,M4M 2P2,19,43.6736,-79.4035
+1687,Asiallery Studio Fashion Accessories,1069 Bathurst St,M5R 3G8,16,43.6561,-79.3406
+1688,Yukon Fur Co Limited,1667 Dundas Street West,M6K 1V2,11,43.6736,-79.4035
+1689,Spyder Digital Research Inc,213 Sterling Rd,M6R 2B2,17,43.6383,-79.4301
+1690,HIL-JAY Fashions Inc,63 Wingold Ave,M6B 1P8,2,43.6469,-79.4521
+1691,Juna Paul Holdings Corp,136 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1692,Joannejo Living Design Inc,160 Tycos Dr,M6B 1W8,2,43.7081,-79.4479
+1693,San Polo Fashion Inc,52 Orfus Rd,M6A 1L6,2,43.7081,-79.4479
+1694,Labour Of Love Boutique Inc,223 Carlton St,M5A 2L2,0,43.7223,-79.4504
+1695,Forever New Company Limited The,0 156 St,M4Y 1T0,0,43.6555,-79.3626
+1696,L L Ruifei Design Inc,1024 Bloor St W,M6H 1M2,17,43.6656,-79.383
+1697,Afficher by Allie and Andree,523 Gladstone Avenue,M6H 3J1,17,43.6655,-79.4378
+1698,Her's Fine Lingerie Shoppe,2250 Bloor Street West,M6S 1N6,6,43.6655,-79.4378
+1699,J R H Creative Concepts Corp,168 Owen Blvd,M2P 1G7,12,43.6512,-79.4828
+1700,La Senza,220 Yonge St,M5B 2H1,0,43.75,-79.3978
+1701,La Senza,900 Dufferin St,M6H 4B1,17,43.6572,-79.3783
+1702,La Senza,2300 Yonge St,M4P 1E2,12,43.6655,-79.4378
+1703,The Children's Place,900 Dufferin,M5G,0,43.7135,-79.3887
+1704,Claire's Boutique,419 King St W,L1H 2K5,5,43.6564,-79.38600000000002
+1705,Bitter Sweet,66 Wellington W,N0M 1S2,4,43.9721,-78.8837
+1706,Obsessions Fashions Accessories,66 Wellington W,M5K 1K2,0,43.2788,-81.5442
+1707,Vivah-Fashion Accessories &amp; Jewellery,220 Yonge St,M5B 2H1,0,43.6469,-79.3823
+1708,Aldo Accessories,Toronto Eaton Centre,M5B 2H1,0,43.6572,-79.3783
+1709,Soft Touch,3495 Lawrence E,M5G,0,43.6572,-79.3783
+1710,Elegant Fine Jewellery,200 Front St W,M5V 3K2,11,43.6564,-79.38600000000002
+1711,City Looks,700 University Ave,M5B 2A3,0,43.6404,-79.3995
+1712,Accessorize,320 Queen St W,M5V 2A2,11,43.6572,-79.3783
+1713,Yashraj Creations Inc,15 Stoneylake Av,M5G,0,43.6404,-79.3995
+1714,Ranae Boutique,561 Queen St W,M5V 2B6,11,43.6564,-79.38600000000002
+1715,Voluptuous,636 Queen St W,M6J 1E4,11,43.6404,-79.3995
+1716,Mercury Accessories Ltd,1179A King St W,M6K 3C5,11,43.648,-79.4177
+1717,Winners Merchants Intl,900 Dufferin St,M6H 4A9,17,43.6383,-79.4301
+1718,Aldo Accessories,Dufferin Mall,M6H 4B1,17,43.6655,-79.4378
+1719,D' Mode,780 St Clair Ave W,M6C 1B6,17,43.6655,-79.4378
+1720,Accessorize,2614 Yonge St,M4P 2J4,12,43.6915,-79.4307
+1721,Amazing Accessories,3095 Dundas St W,M6P 1Z9,17,43.7135,-79.3887
+1722,Aldo Accessories,Yorkdale Shopping Centre,M6A 2T9,2,43.6605,-79.4633
+1723,French Connection Canada,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1724,Pashmina Collection,1 Yorkdale,M5G,0,43.7223,-79.4504
+1725,Chantelle,Yonge,M3H 6A7,2,43.6564,-79.38600000000002
+1726,Thread Culture,40 King St W,M5H 3Y2,0,43.7535,-79.4472
+1727,REITMANS,199 Bay,M1W 3H3,18,43.6496,-79.3833
+1728,Tuxedo Royale,220 Yonge St,M5B 2H1,0,43.8016,-79.3216
+1729,Boutique La Vie En Rose,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+1730,Xcetera,220 Yonge St,M5B 2H1,0,43.6572,-79.3783
+1731,Aldo Shoes,Toronto Eaton Centre,M5B 2H1,0,43.6572,-79.3783
+1732,FINE CLOTHING GILANI,595 Bay St,M5G 2C2,0,43.6572,-79.3783
+1733,MARZENA BOUTIQUE,595 Bay St,M5G 2C2,0,43.6564,-79.38600000000002
+1734,Smart Set,200 Wellington St W,M5V 3C7,11,43.6564,-79.38600000000002
+1735,American Apparel Dundas,338 Yonge St,M5B 1R8,0,43.6404,-79.3995
+1736,Goodwill,231 Richmond St E,M5V 1W2,11,43.6572,-79.3783
+1737,Gully Klassics Inc.,1 Yonge St,M5E 1W7,0,43.6404,-79.3995
+1738,Joe Fresh,10 Lower Jarvis St,M5E 1Z2,0,43.6456,-79.3754
+1739,Tatyana Designs,324 Queen W,M5V 2A2,11,43.6456,-79.3754
+1740,Earth Collection The,207 Queens Quay W,M5J 1A7,11,43.6404,-79.3995
+1741,Urban Behavior,340 Queen W,M5V 2A2,11,43.62300000000001,-79.3936
+1742,French Connection Canada,360 Queen St W,M5V 2A2,11,43.6404,-79.3995
+1743,Sweater Place,175 Spadina Ave,M5T 2C3,0,43.6404,-79.3995
+1744,Want Passeport Retail Ltee Partnership,174 Spadina Ave,M5T 2C2,0,43.6541,-79.3978
+1745,I's Boutique,280 Spadina Ave,M5T 3A5,0,43.6541,-79.3978
+1746,Vincent Custom Tailoring,583 Church St,M4Y 2E4,0,43.6541,-79.3978
+1747,High Street Fashion Stores &amp; Co Ltd,711 Queen St W,M6J 1E6,11,43.6656,-79.383
+1748,Davido Afnani,766 King St W,M5V 1N6,11,43.648,-79.4177
+1749,Quattro Clothiers,55 Bloor St E,M4W 3W6,12,43.6404,-79.3995
+1750,DELUXE COLAB,781 Queen St W,M6J 1G1,11,43.6827,-79.373
+1751,American Apparel,50 Bloor St W,M4W 3L8,12,43.648,-79.4177
+1752,G BOUTIQUE,130 Bloor St W,M5S 1N5,16,43.6827,-79.373
+1753,Hermes,130 Bloor St W,M5S 1N6,16,43.6629,-79.3987
+1754,Wolford Boutique,126a-126 Cumberland St,M5R 1A6,16,43.6629,-79.3987
+1755,Gap Inc Canada Gap Gapkids Stores,Ave Rd,M5S,16,43.6736,-79.4035
+1756,Legs Beautiful,111 Yorkville Ave,M5R 1C1,16,43.6629,-79.3987
+1757,Contraband Clothing Company,104 Yorkville Ave,M5R 1B9,16,43.6736,-79.4035
+1758,BROOKS BROTHERS FLAT IRON SHOP,262 Bloor St W,M5S 1V8,16,43.6736,-79.4035
+1759,Welly,22 Scollard St,M5R 1E9,16,43.6629,-79.3987
+1760,LOVELESS BOUTIQUE,543 College St,M6G 1A9,16,43.6736,-79.4035
+1761,Mercy,913 Queen St W,M6J 1G5,11,43.6683,-79.4205
+1762,PARK AND PROVINCE CLOTHING INC,927 Queen St W,M6J 1G5,11,43.648,-79.4177
+1763,Trove,793 Bathurst St,M5S 1Z5,16,43.648,-79.4177
+1764,House Of Rinka,605 Bloor St W,M6G 1K6,16,43.6629,-79.3987
+1765,PREMIERE CLOTHING OF CANA,309 Danforth Ave E,M4K 1N7,19,43.6683,-79.4205
+1766,Trove Inc,393 Danforth Ave,M4K 1P1,19,43.6803,-79.3538
+1767,Doll Factory By Damzels,1122 Queen St E,M4M 1K8,19,43.6803,-79.3538
+1768,Tessi,956 College St,M6H 1A5,17,43.6561,-79.3406
+1769,Loblaws Inc,72 Fraser,M6K 3J7,11,43.6655,-79.4378
+1770,SUZY SHIER,1000 Gerrard St E,M4M 3G6,19,43.6383,-79.4301
+1771,ELLIE BOUTIQUE,251 Christie St,M6G 3B9,16,43.6561,-79.3406
+1772,Bogarts,1560 Yonge St,M4T 2S9,12,43.6683,-79.4205
+1773,Voluptuous,900 Dufferin St,M6H 4A9,17,43.6899,-79.3853
+1774,WARDROBE FOR MEN,948 Danforth Ave.,M4J 1L9,19,43.6655,-79.4378
+1775,Joe Fresh,396 St Clair Ave W,M5P 3N3,16,43.6872,-79.3368
+1776,Peek-A-Boo Kids Clothing,St Clair Ave W,M6C 1A3,17,43.6966,-79.41199999999998
+1777,One Girl Who,647A St Clair Ave W,M6C 1A7,17,43.6915,-79.4307
+1778,THE SPOT,1280 bloor street west,M6H 1N8,17,43.6915,-79.4307
+1779,Pinky Sughand Inc,1409 Gerrard St E,M4L 1Z5,19,43.6655,-79.4378
+1780,PARPAR BOUTIQUE,1656 Queen St W,M6R 1B2,17,43.6693,-79.3155
+1781,Aritizia,470 Spadina Rd,M5P 2W4,16,43.6469,-79.4521
+1782,Amman's Jewellers Inc,1610 Gerrard St E,M4L 2A5,19,43.6966,-79.41199999999998
+1783,BOUTIQUE LAMUSE,1592 Bayview Ave,M4G 3B7,12,43.6693,-79.3155
+1784,NATHANIELS BAKERY BOUTIQUE,1308 St Clair Ave W,M6E 1C1,17,43.7124,-79.3644
+1785,LOCKS BOUTIQUE INC,561 Eglinton Ave W,M5N 1B5,2,43.6889,-79.4507
+1786,TEN SPOT,2012 Queen St E,M4L 1J3,19,43.7113,-79.4195
+1787,Mendocino Clothing Outlet,2020 Queen St E,M4L 1J4,19,43.6693,-79.3155
+1788,American Apparel-Eglinton,2466 Yonge St,M4P 2H5,12,43.6693,-79.3155
+1789,GOODWILL TORONTO,60 Overlea Blvd E,M4H 1B6,19,43.7135,-79.3887
+1790,Goodwill Toronto,60 Overlea Blvd,M4H 1B6,19,43.7059,-79.3464
+1791,TEN SPOT,2507 Yonge St,M4P 2H6,12,43.7059,-79.3464
+1792,MERRY GO ROUND,2509 Yonge St,M4P 2H6,12,43.7135,-79.3887
+1793,MENDOCINO CLOTHING CO LTD,2526 Yonge St,M4P 2H7,12,43.7135,-79.3887
+1794,Boa Apparel Inc,2116 Queen E,M4E 1E2,14,43.7135,-79.3887
+1795,COMP SANDPIPERS,A-2580 Yonge St,M4P 2J3,12,43.6784,-79.2941
+1796,The Answer,2715 Yonge St,M4N 2H8,12,43.7135,-79.3887
+1797,MBUYI BOUTIQUE,2664 Danforth Ave,M4C 1L7,14,43.7301,-79.3935
+1798,New -Mark Save Money And Corp,1954 Eglinton Ave W,M6E 2J8,17,43.6913,-79.3116
+1799,MENDOCINO CLOTHING CO LTD,2302 Bloor St W,M6S 1P2,6,43.6889,-79.4507
+1800,SAB VI BOUTIQUE,2323 Bloor St W,M6S 4W1,6,43.6512,-79.4828
+1801,ALEKSANDRA BOUTIQUE,2322 Bloor St W,M6S 1P2,6,43.6512,-79.4828
+1802,Desire Fashion Inc,18 Wingold Ave,M6B 1P5,2,43.6512,-79.4828
+1803,Andres Fashion Agency,63 Wingold Ave,M6B 1P8,2,43.7081,-79.4479
+1804,Careta Imports Inc,84 Wingold Ave,M6B 1P5,2,43.7081,-79.4479
+1805,Catherine MacKay Fashions,10 Wynford Dr,M3C,18,43.7081,-79.4479
+1806,DESIRE FASHION HOLDINGS,108 Tycos Dr,M6B 1V9,2,43.7334,-79.3329
+1807,Camicie By Filip D,3194 Yonge St,M4N 2L1,12,43.7081,-79.4479
+1808,Rick Blaine Associates Inc,160 Tycos Dr,M6B 1W8,2,43.7301,-79.3935
+1809,NAMIA,3236 Yonge St,M4N 2L4,12,43.7081,-79.4479
+1810,Shenkinwest,1726 Ave Rd,M5M 3Y6,2,43.7301,-79.3935
+1811,TEN SPOT,12 Clock Tower Rd N,M3C 0G1,18,43.7335,-79.4177
+1812,BRAEMORE NECKWEAR,12 Densley Ave N,M6M 2R1,6,43.7334,-79.3329
+1813,MATTRESS BOUTIQUE &amp; UPHOLSTERY,1193 Lawrence Ave W,M6A 1E2,2,43.6934,-79.4857
+1814,MENDOCINO CLOTHING CO LTD,1090 Don Mills Rd N,M3C 3R6,18,43.7223,-79.4504
+1815,Titika Canada Inc,7 Karl Fraser Rd,M3C 0E7,18,43.7334,-79.3329
+1816,Suzy's Inc,50 Dufflaw Rd,M6A 2W1,2,43.7334,-79.3329
+1817,IN STYLE CLOTHING,3250 Dufferin,M6A 2T3,2,43.7223,-79.4504
+1818,Gap,1 Yorkdale Rd,M6A 3A1,2,43.7223,-79.4504
+1819,American Apparel Canada,1 Yorkdale,M6A 3A1,2,43.7223,-79.4504
+1820,TORY BURCH,1 Yorkdale,M6A 3A1,2,43.7223,-79.4504
+1821,H &amp; M,3401 Dufferin,M6A 2T9,2,43.7223,-79.4504
+1822,FOSSIL,3401 Dufferin,M6A 2T9,2,43.7223,-79.4504
+1823,Skechers,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1824,Legs Beautiful,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1825,Tuxedo Royale,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1826,Mothers Work Canada Inc,3401 Dufferin St,M6A 2T9,2,43.7223,-79.4504
+1827,Emporium Trading,89 Bentworth Ave,M6A 1P6,2,43.7223,-79.4504
+1828,JACOB WAREHOUSE,89 Bentworth Ave N,M6A 1P6,2,43.7223,-79.4504
+1829,MARKETING BOUTIQUE,52 Bamboo Grv N,M3B 2C7,18,43.7223,-79.4504
+1830,THE CLOTHING DRIVE,1682 Victoria Park Ave N,M1R 1P7,18,43.745,-79.359
+1831,Isha's Collection,1200 Yorkmills Rd Unit 200,M3A 1X8,18,43.7507,-79.3003
+1832,Reitmans,2625B Weston Rd,M9N 3W1,6,43.7545,-79.33
+1833,Joe Fresh,1 Bass Pro Mills Dr,L4K 5W4,15,43.7068,-79.517
+1834,Urban Kids,Bass Pro Mills Dr,L4K 5W4,15,43.8001,-79.4829
+1835,Siblings,1 Promenade Cir,L4J 4P8,15,43.8001,-79.4829
+1836,The Garage,1 Promenade Cir,L4J 4P8,15,43.8156,-79.4534
+1837,Forever Xxi,5000 Highway 7,L3R 4M9,9,43.8156,-79.4534
+1838,Laura- Laura Petites-Laura Plus,1 Promenade Cir,L4J 4P8,15,43.8479,-79.3288
+1839,Bcbg Max Azria,1 Bass Pro Mills Dr,L4K 5W4,15,43.8156,-79.4534
+1840,Buffalo Jeans,Bass Pro Mills Dr,L4K 5W4,15,43.8001,-79.4829
+1841,Andrews,2901 Bayview Ave,M2K 1E6,18,43.8001,-79.4829
+1842,Clothing And Accessories,3255 Highway 7,L3R 3P9,9,43.7797,-79.3813
+1843,Zacks,2900 Steeles Ave. E.,L3T 4X1,9,43.8479,-79.3288
+1844,National Sports Centre,1455 Mccowan Rd ,M1S 5K7,8,43.8227,-79.3946
+1845,Melanie Lyne Liquidation,2181 Steeles Ave W,M3J 3N2,15,43.7946,-79.2644
+1846,Steilmann,2901 Bayview Avenue,M2K 1E6,18,43.7694,-79.4921
+1847,Katie Fashion,1250 South Service Road,L5E 1V4,10,43.7797,-79.3813
+1848,Melanie Lyne Outlet,1 Bass Pro Mills Dr,L4K 5W4,15,43.5836,-79.561
+1849,Zara Canada,5000 7 Hwy E,L3R 4M9,9,43.8001,-79.4829
+1850,BCBG Max Azria Canada Inc,25 The West Mall,M9C 1B8,6,43.8479,-79.3288
+1851,Crystal Bead Shop,63 Silver Star Blvd,M1V 5E5,8,43.6437,-79.5767
+1852,Armani Exchange,100 City Centre Dr,L5B 2C9,10,43.8177,-79.2819
+1853,Tommy Bahama,2901 Bayview Ave,M2K 1E6,18,43.5771,-79.6306
+1854,Club Monaco,1 Promenade Cir,L4J 4P8,15,43.7797,-79.3813
+1855,Red,4300 Steeles Ave E,L3R 0Y5,9,43.8156,-79.4534
+1856,Ann Taylor,100 City Centre Dr,L5B 2C9,10,43.8479,-79.3288
+1857,Bedo,100 City Centre Dr,L5B 2C9,10,43.5771,-79.6306
+1858,Chantelle,Islington,M3H 6A7,2,43.5771,-79.6306
+1859,Tommy Hilfiger Outlet,1250 South Service Rd,L5E 1V4,10,43.7535,-79.4472
+1860,Carter's,1250 South Service Road,L5E 1V4,10,43.5836,-79.561
+1861,Hot Topic,300 Borough Dr,M1P 4P5,8,43.5836,-79.561
+1862,Tuxedo Royale,Bramalea City Ctr,L6P 0A1,7,43.7612,-79.2707
+1863,Bikini Bay,499 Main St S,L6Y 1N7,3,43.7942,-79.7021
+1864,Katie,6464 Yonge St.,M2M 3X7,9,43.6249,-79.7876
+1865,Jack Jones,300 Borough Dr,M1P 4P5,8,43.7915,-79.4103
+1866,VF Canada Inc,5955 Airport Rd,L4V 1R9,7,43.7612,-79.2707
+1867,BCBG Maxazria,9350 Yonge St,L4C 5G2,9,43.6935,-79.6069
+1868,Ed's Fine Imports,5000 7E Hwy,L3R 5R9,9,43.8669,-79.4414
+1869,Gazebo Fashions,2225 Erin Mills Pky,L5K 1T9,10,43.8479,-79.3288
+1870,Senza Girl (La),100 City Centre Dr,L5B 2C9,10,43.5272,-79.6617
+1871,River Island,1 Bass Pro Mills Dr,L4K 5W4,15,43.5771,-79.6306
+1872,Chelsea,22 Strathearn Ave,L6T 4S9,7,43.8001,-79.4829
+1873,Nappa,140 Midwest Rd,M1P 3A9,8,43.7196,-79.6854
+1874,Fashion World,1111 Finch Ave W - Unit 2,M3J 2E5,15,43.7612,-79.2707
+1875,Gilani,6464 Yonge St,M2M 3X4,9,43.7694,-79.4921
+1876,United Colors Of Benetton Vaughan Mills,1 Bass Pro Mills Dr,L4K 5W4,15,43.7915,-79.4103
+1877,The Next Level,25 Peel Centre Dr,L6T 3R5,7,43.8001,-79.4829
+1878,Active Green &amp; Ross Tire &amp; Auto Centre,5517 Dundas St W,M9B 1B8,6,43.7196,-79.6854
+1879,Garage The,100 City Centre Dr,L5B 2C9,10,43.6505,-79.5517
+1880,Le Garage,1 Bass Pro Mills Dr,L4K 5W4,15,43.5771,-79.6306
+1881,Claires Stores,5 Marine Parade Dr,M8V 4B4,6,43.8001,-79.4829
+1882,Lole,2901 Bayview Ave,M2K 1E6,18,43.6075,-79.5013
+1883,Goodwill Community Stores,2642 Eglinton Ave E,M1K 2S3,14,43.7797,-79.3813
+1884,Cazza Petites,250 The East Mall,M9B 3Y8,6,43.7298,-79.2639
+1885,Trendi 4 Men,3850 Sheppard Ave E,M1T 3L4,18,43.6505,-79.5517
+1886,Muse Boutique,80 Lakeshore Rd E,L5G 1E1,10,43.7812,-79.3036
+1887,Laura Canada,Square One Shopping Center,L5B 2C9,10,43.5647,-79.5852
+1888,Jacob Outlet,3215 7E Hwy,L3R,9,43.5771,-79.6306
+1889,Chicos,100 City Centre Dr,L5B 2C9,10,43.8479,-79.3288
+1890,Tory Burch,Dufferin,M6A 2T9,2,43.5771,-79.6306
+1891,Charming Charlie,1 Bass Pro Mills Dr,L4K 5W4,15,43.7223,-79.4504
+1892,Banana Republic Outlet,5950 Rodeo Dr,L5R 3V6,10,43.8001,-79.4829
+1893,Mexx Eglinton Town Center,6 Lebovic Ave,M1L 4V9,14,43.606,-79.6708
+1894,Edith's Fashions,245 Wilmington Ave,M3H 5J9,2,43.7122,-79.2843
+1895,Juicy Couture,25 The West Mall St,M9C 1B8,6,43.7535,-79.4472
+1896,Voluptuous,300 Borough Dr,M1P 4P5,8,43.6437,-79.5767
+1897,The Israeli Source,60 Av Doncaster,L3T 1L5,9,43.7612,-79.2707
+1898,Nygard International,239 Chrislea Rd,L4L 8N6,7,43.8227,-79.3946
+1899,Dreamland Home Furnishing,220 Humberline Dr,M9W 5Y4,7,43.8064,-79.5995
+1900,Oak + Fort,City Centre Dr,L5B 2C9,10,43.7144,-79.5909
+1901,Venus Fashion,70 East Beaver Creek Rd,L4B 3B2,9,43.5771,-79.6306
+1902,True Religion Apparel,1 Bass Pro Mills Dr,L4K 5W4,15,43.8582,-79.3985
+1903,Grafic For Men,Rutherford,L4L 1A6,7,43.8001,-79.4829
+1904,Haar Shingaar Boutique,8897 The Gore,L6P 2K9,7,43.8064,-79.5995
+1905,1A Lifesafer Canada Inc,Argentia,L5N 7X9,3,43.7942,-79.7021
+1906,B. Spoke,2901 Bayview Ave,M2K 1E6,18,43.5924,-79.7611
+1907,Garage.ca,Sheppard E,M2J 5A7,18,43.7797,-79.3813
+1908,L G Cashmere,1800 Sheppard Ave E,M2J 5A7,18,43.7801,-79.3479
+1909,Edith's Last Call Clearance Outlet,1115 Finch Ave W,M3J 2P7,15,43.7801,-79.3479
+1910,As Seen On TV Emporium,1911 Finch Ave. W. Jane Finch Mall,M3N 2V2,15,43.7694,-79.4921
+1911,Pooja's Fashion,2628A Islington Ave,M9V 2X3,7,43.7568,-79.521
+1912,Pphh Fashion House Trading,50 Silver Star Blvd,M1V 4A1,8,43.7432,-79.5876
+1913,Elegant,398 Ferrier St,L3R 2Z5,9,43.8177,-79.2819
+1914,Running Free,708 Denison St,L3R 1C1,9,43.8479,-79.3288
+1915,Auto Sports,4300 Steeles Ave E,L3R 0Y5,9,43.8479,-79.3288
+1916,Urban Express,5637 Finch Ave E,M1B 5K9,8,43.8479,-79.3288
+1917,New Flying Fashions,7071 Airport Rd,L4T 4J3,7,43.8113,-79.193
+1918,Marla's,Square One Shopping Centre,L5B 2C9,10,43.7139,-79.6434
+1919,Tristan America,100 City Centre Dr,L5B 2C9,10,43.5771,-79.6306
+1920,Parasuco-Square One Shopping Centre,100 City Centre Allee,L5B 3C6,10,43.5771,-79.6306
+1921,Dynamite Boutique,100 City Centre Dr,L5B 2C9,10,43.5771,-79.6306
+1922,Canadian Clothing International Inc,541 Conlins Rd,M1B 5S1,8,43.5771,-79.6306
+1923,Denim,9360 Bathurst St,L6A 4N9,15,43.8113,-79.193
+1924,Zeroedge Corp,3181 Wolfedale Rd,L5C 1V8,10,43.8501,-79.5163
+1925,Lux Fashion,7500 27 Hwy,L4H 0J2,15,43.5624,-79.6504
+1926,CocoRosie Boutique,3300 Rutherford Rd,L4K 5Z2,15,43.8432,-79.5644
+1927,J J Fashion,8360 Kennedy Rd,L3R 0W4,9,43.8001,-79.4829
+1928,Fashion Boutique,9441 Jane St,L6A 4H8,15,43.8479,-79.3288
+1929,Gagan Fashion And Fabrics Inc,351 Parkhurst Sq,L6T 0C2,7,43.8501,-79.5163
+1930,Fashion Warehouse,Main Street Unionville,L3R 2G8,9,43.7196,-79.6854
+1931,Dipas Creations Inc,Steeles E,L6T 5T1,7,43.8479,-79.3288
+1932,Aquapark,120 Newkirk Rd,L4C 9S7,9,43.7196,-79.6854
+1933,The Clothing Outlet,5762 Highway 7,L3P 1A8,8,43.8669,-79.4414
+1934,Vancouver Cloth House,4525 Ebenezer,L6P 2K8,7,43.8769,-79.2686
+1935,Bikini International,2655 Liruma Rd,L5K 1R5,10,43.7942,-79.7021
+1936,Bliss Day Spa,20 Maritime Ontario Blvd,L6S 0C2,7,43.5272,-79.6617
+1937,Sham Fashions,158 Kennedy Rd S unit 9,L6W 3G7,3,43.7379,-79.726
+1938,Twilight,25 Peel Centre Dr,L6T 3R5,7,43.68,-79.7273
+1939,Silks,25 Peel Centre Dr,L6T 3R5,7,43.7196,-79.6854
+1940,The Jump Off,SHOPPERS WORLD,L6Y 1N7,3,43.7196,-79.6854
+1941,Carriage Trade,2984 Bloor St W,M8X 1B9,6,43.6249,-79.7876
+1942,Sandy White,3008 Bloor St W,M8X 1C2,6,43.6518,-79.5076
+1943,Franco Mirabelli Design,2901 Bayview Ave,M2K 1E6,18,43.6518,-79.5076
+1944,Laurel,2901 Bayview Ave,M2K 1E6,18,43.7797,-79.3813
+1945,Ray,18 Ashwarren Rd,M3J 1Z5,15,43.7797,-79.3813
+1946,Journeys 5001 Gco Canada Inc,1800 Sheppard Ave E,M2J 5A7,18,43.7694,-79.4921
+1947,J Fashion Boutique,30 San Robertoway,M3L 2J5,2,43.7801,-79.3479
+1948,Fashion World Inc,1111 Finch Ave W,M3J 2E5,15,43.7334,-79.5116
+1949,Gap Canada,25 The West Mall,M9C 1B8,6,43.7694,-79.4921
+1950,Villa Mode,Goldenridge,L4X 2S3,10,43.6437,-79.5767
+1951,Eleventh Floor Apparel Ltd,100 Ronson Dr,M9W 1B6,7,43.6178,-79.5786
+1952,Judy S Creative Design Inc,2115 Midland Ave,M1P 4T3,8,43.7144,-79.5909
+1953,Angeles,3959 Jane St,M3N 2K1,15,43.7612,-79.2707
+1954,Ruby Fashion,1 York Gate Blvd,M3N 3A1,15,43.7568,-79.521
+1955,Urban Point,3850 Sheppard Ave E,M1T 3L4,18,43.7568,-79.521
+1956,Chic Couture Inc,6464 Yonge St,M2M 3X4,9,43.7812,-79.3036
+1957,Board Zone Inc,401 Magnetic Dr,M3J 3H9,15,43.7915,-79.4103
+1958,Strason Fashions,601 Magnetic Dr,M3J 3J2,15,43.7694,-79.4921
+1959,My Own Me,100 Steeles Ave W,L4J 7Y1,15,43.7694,-79.4921
+1960,Kamal Mount Inc,390 Progress Av,M1P 2Z6,8,43.8156,-79.4534
+1961,Pretty Women,100 Steeles Ave W,L4J 7Y1,15,43.7612,-79.2707
+1962,Queen Boutique,3495 Lawrence Ave E,M1H 1B2,8,43.8156,-79.4534
+1963,Idol Fashion,2900 Warden Ave,M1W 2S8,18,43.7686,-79.2389
+1964,Bottega 2000,1416 C,L3T,9,43.8016,-79.3216
+1965,Pandora Flagship,30-2900 Steeles Ave E,L3T 4X1,9,43.8227,-79.3946
+1966,Posh,1 Promenade Cir,L4J 4P8,15,43.8227,-79.3946
+1967,Ross Mayer,Prom Cir,L4J 4P8,15,43.8156,-79.4534
+1968,Baldani Inc,31 Disera Dr,L4J 0A1,15,43.8156,-79.4534
+1969,Boutique L'Atelier,4000 Steeles Ave W,L4L 4V9,7,43.8156,-79.4534
+1970,4 Men United,4040 Steeles Ave W,L4L 4Y5,7,43.8064,-79.5995
+1971,Estream Hiphop Clothing,1530 Albion Rd,M9V 1B4,7,43.8064,-79.5995
+1972,Mezzan Fashion,3700 Midland Ave,M1V 4V3,8,43.7432,-79.5876
+1973,Concept One Canada,N Rivermede No,L4K 3R5,15,43.8177,-79.2819
+1974,Mexx Colossus Centre,Colossus Dr,L4L 1A6,7,43.8001,-79.4829
+1975,Mr Big &amp; Tall Menswear,7601 Weston Rd,L4L 9J9,7,43.8064,-79.5995
+1976,Victoria Fashion,255 Morningside Ave,M1E 3E6,8,43.8064,-79.5995
+1977,Royal Touch,377 Burnhamthorpe Rd E,L5A 3Y1,10,43.7678,-79.1866
+1978,Jcrew,1 Bass Pro Mills Dr,L4K 5W4,15,43.5883,-79.6091
+1979,Baldani,7700 Pine Valley Dr,L4L 2X4,7,43.8001,-79.4829
+1980,Renee Couture,665 Millway,L3T,9,43.8064,-79.5995
+1981,The Incredible Clothing Company,1889 Albion Rd,M9W 5S8,7,43.8227,-79.3946
+1982,Sound Security Systems Inc,35 West Pearce St,L4B 3A9,9,43.7144,-79.5909
+1983,Barci Enterprise,209 Foxfield Cres,L4K 5K1,15,43.8582,-79.3985
+1984,Okaidi Canada Inc,100 City Centre Dr,L5B 2C9,10,43.8001,-79.4829
+1985,Spier &amp; Mackay,1535 Meyerside Drive,L5T 1M9,7,43.5771,-79.6306
+1986,Anna Bella,120 West Beaver Creek Rd,L4B 1L2,9,43.6683,-79.6182
+1987,Bikini island Inc,3650 Langstaff,L4L,7,43.8582,-79.3985
+1988,Lavial Company Ltd,3255 7 Hwy E,L3R 3P9,9,43.8064,-79.5995
+1989,RJ McCarthy Vaughan,80 Bass Pro Mills Dr,L4K 5W9,15,43.8479,-79.3288
+1990,Want Boutique,9301 Bathurst St,L4C 9S2,9,43.8001,-79.4829
+1991,Winsafe Corp,1 Valleywood Dr,L3R 5L9,9,43.8669,-79.4414
+1992,Marini Moda,100 Regina Rd,L4L 8M7,7,43.8479,-79.3288
+1993,Slg Fashions,Markham,M1X 0A6,8,43.8064,-79.5995
+1994,Juicy Couture Outlet,1 Bass Pro Mills Dr,L4K 5W4,15,43.834,-79.2069
+1995,Mexx Hillcrest Mall,9350 Yonge St,L4C 5G2,9,43.8001,-79.4829
+1996,The But Boutique,9350 Yonge St,L4C 5G2,9,43.8669,-79.4414
+1997,Mansa Boutique,7393 Markham Rd,L3S 0B5,8,43.8669,-79.4414
+1998,Magic Needle Fashion Inc,161 Main St,L3R 2G8,9,43.8486,-79.2617
+1999,Assunta Boutique Inc,1834 Lakeshore Rd W,L5J 1J7,10,43.8479,-79.3288
+2000,Whitfield's,5000 7 Hwy,L3R 5R9,9,43.5102,-79.6296
+2001,Fundamental Fashions,10200 Yonge St,L4C 3B6,9,43.8479,-79.3288
+2002,Serafina Boutique,10211 Keele,L6A,15,43.8669,-79.4414
+2003,Indian E Store Inc,2225 Erin Mills Pky,L5K 1T9,10,43.8501,-79.5163
+2004,Vanita Kollections,812 Britannia Rd W Unit 111,L5A 0A6,10,43.5272,-79.6617
+2005,Lana Fashion Boutique,27 Seachart Pl,L6Y,3,43.5883,-79.6091
+2006,Society Fashion,2150 Burnhamthorpe Rd W,L5L 5Z5,10,43.6249,-79.7876
+2007,Peppertree Klassics,137 Main St N,L3P 1Y2,8,43.5373,-79.6903
+2008,Savannah Rowe,264 Queen St S,L5M 1L8,10,43.8769,-79.2686
+2009,Auto Details Canada,2576 Dunwin Dr,L5L 5P6,10,43.5637,-79.7202
+2010,Cavery Collection Ltd,5100 Erin Mills Pky,L5M 4Z5,10,43.5373,-79.6903
+2011,Point Zero Bramalea,25 Peel Centre Dr,L6T 3R5,7,43.5637,-79.7202
+2012,Tex Atlantic Inc,46 Goldcrest Road,L6S 1G3,7,43.7196,-79.6854
+2013,Peplos By Designers,499 Main St S,L6Y 1N7,3,43.7379,-79.726
+2014,Orafol Reflective Solutions Canada Inc,6790 Kitimat,L5N 5L9,3,43.6249,-79.7876
+2015,Gogopak Inc,3170 Ridgeway Dr,L5L 5R4,10,43.5924,-79.7611
+2016,International Trading Company,73 Sunburst Crescent,L6E 1R3,8,43.5373,-79.6903
+2017,Nayhe Textiles,50 Kennedy Road S,L6W 3R7,3,43.9002,-79.2676
+2018,Winners 1700,1700 Wilson Ave,M3L 1B2,2,43.68,-79.7273
+2019,Winners 207,2450 Sheppard Ave E,M2J 4Z9,18,43.7334,-79.5116
+2020,Winners,1054 Centre St,L4J 3M8,15,43.7801,-79.3479
+2021,Winners,1 Bass Pro Mills Dr,L4K 5W4,15,43.8156,-79.4534
+2022,Claire's Stores,201a-5 Marine Parade Parade,M8V 4B4,6,43.8001,-79.4829
+2023,Status Fashion Ltd,1355 Kingston Rd,M1N 1R1,14,43.6075,-79.5013
+2024,Heretic,2368 lakeshore blv W,M8V 1B6,6,43.6952,-79.2646
+2025,The Clothing Recycler - Cash For Clothes,1-25 Portland Street,M8Y 1A6,6,43.6075,-79.5013
+2026,Casual Affairs Clothing,2873 Bloor St W,M8X 1B3,6,43.6325,-79.4939
+2027,Apolline Womens Wear&amp;Footloose Dance Wear,2892 Bloor St W,M8X 1B5,6,43.6518,-79.5076
+2028,Grenview's On Bloor,2893 Bloor St W,M8X 1B3,6,43.6518,-79.5076
+2029,Bargain Joint,386 Royal York Rd,M8Y 2R3,6,43.6518,-79.5076
+2030,Proud Nation Clothing &amp; Apparel,Milne Ave,M1L,14,43.6325,-79.4939
+2031,Tarn's Styling Studio,182 Royal York Rd.,M8V 2V6,6,43.7122,-79.2843
+2032,Laura's Shoppe Canada,70 Eglinton Sq,M1L 2K1,14,43.6075,-79.5013
+2033,Society,1 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2034,Kook Look,1 Eglinton Square,M1L 2K1,14,43.7122,-79.2843
+2035,Lindor Inc,67 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2036,Bluenotes,1 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2037,Tan Jay,1 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2038,Laura's Shoppe Canada,70 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2039,Le Var Fashions,70 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2040,Pockets,70 Eglinton Sq,M1L 2K1,14,43.7122,-79.2843
+2041,Pennington's Wearhouse Stores,773 The Queensway,M8Z 6A9,6,43.7122,-79.2843
+2042,Northern Reflections,1 Eglinton Sq,M1L 2K1,14,43.6256,-79.5231
+2043,Wearhouse by Silkeborg The,2989 Bloor St W,M8X 1C1,6,43.7122,-79.2843
+2044,JONES APPAREL GROUP CANADA INC,4195 Dundas St W,M8X 1Y4,6,43.6518,-79.5076
+2045,Joe Fresh,1880 Eglinton Ave E,M1L 2L1,14,43.6518,-79.5076
+2046,B &amp; B Childresn Clothing Outlet Ltd,725 Av Warden,M1L 4R7,14,43.7122,-79.2843
+2047,5 Axis Dental,465 Wilson Ave,M3H 1T9,2,43.7122,-79.2843
+2048,Fashion Go-Round The,6 Brentwood Rd S,M8Z 3N2,6,43.7535,-79.4472
+2049,Vesh &amp; Grand Palace,380 Birchmount Rd,M1K 1M6,14,43.6256,-79.5231
+2050,Colours Exchange,3 Brentwood Rd N,M8X 2B6,6,43.7298,-79.2639
+2051,Addition-Elle,6 Lebovic Ave,M1L 4V9,14,43.6518,-79.5076
+2052,Addition-Elle,6 Lebovic Ave,M1L 4V9,14,43.7122,-79.2843
+2053,Taissa Inc,3074 Bloor St W,M8X 1C8,6,43.7122,-79.2843
+2054,Winners 264,1900 Eglinton Ave E,M1L 2L9,14,43.6518,-79.5076
+2055,Roots Eglinton Power Center Outlet,1901 Eglinton Ave E,M1L 2L1,14,43.7122,-79.2843
+2056,Cleo,1900 Eglinton Ave E,M1L 2L9,14,43.7122,-79.2843
+2057,Reitmans,1900 Eglinton Ave E,M1L 2L8,14,43.7122,-79.2843
+2058,Château (Le),1900 Eglinton Ave E,M1L 2L9,14,43.7122,-79.2843
+2059,The Children's Place,1900 Eglinton Ave E,M1L 2L9,14,43.7122,-79.2843
+2060,Carter's OshKosh,1900 Eglinton Ave E,M1L 2L9,14,43.7122,-79.2843
+2061,Pennington's,800 Warden Ave,M1L 4T7,14,43.7122,-79.2843
+2062,Tristan &amp; America,6 Lebovic Ave,M1L 4V9,14,43.7122,-79.2843
+2063,Old Navy,6 Lebovic Ave,M1L 4V9,14,43.7122,-79.2843
+2064,Reitmans Canada Limited,814 Warden Ave,M1L 4W1,14,43.7122,-79.2843
+2065,Everbest Enterprizes Inc,630 Av Wilson,M3K 1E1,2,43.7122,-79.2843
+2066,Mark's Work Wearhouse,816 Warden Ave,M1L 4W1,14,43.739,-79.4692
+2067,West 49,816 Warden Ave,M1L 4W1,14,43.7122,-79.2843
+2068,Everbest Enterprises,630 Wilson Ave,M3K 1E1,2,43.7122,-79.2843
+2069,International Clothiers Inc,1920 Eglinton Ave E,M1L 2L9,14,43.739,-79.4692
+2070,Roman Men's Clothier,10 Regent Rd,M3K 1G9,2,43.7122,-79.2843
+2071,Fancy Boutique,2853 Lake Shore Blvd W,M8V 1H8,6,43.739,-79.4692
+2072,Maya's Secret,2867 Lake Shore Blvd W,M8V 1H8,6,43.6075,-79.5013
+2073,CPAP Direct Ltd,845 Wilson Ave,M3K 1E6,2,43.6075,-79.5013
+2074,Cottage On Humber,270 The Kingsway,M9A 3T7,6,43.739,-79.4692
+2075,Genesis Fashion &amp; Design,116 Manville Rd,M1L 4J5,14,43.6662,-79.5282
+2076,The Wearhouse,222 Islington Ave,M8V 3W7,6,43.7122,-79.2843
+2077,T.O. Wholesale Co.,288 Judson Street. Suite #14,M8Z 5T6,6,43.6075,-79.5013
+2078,Savic's Fashions,946 Wilson Ave,M3K 1E7,2,43.6256,-79.5231
+2079,Pape Enterprises Ltd,258 Raleigh Ave,M1K 1A8,14,43.739,-79.4692
+2080,Coats by Mary Ellen Leather Repairs Division,951 Wilson Ave ,M3K 2A7,2,43.7298,-79.2639
+2081,Soccer International J S Inc,221 Evans Ave,M8Z 1J5,6,43.739,-79.4692
+2082,Meta  Group International Design,173 Kennedy Rd,M1N 3P1,14,43.6256,-79.5231
+2083,G &amp; K SERVICES,940 Warden Ave,M1L 4C9,14,43.6952,-79.2646
+2084,A-1 Saftey Glasses,1017 Wilson Ave,M3K 1Z1,2,43.7122,-79.2843
+2085,Avda Limited,35 Jutland Rd,M8Z 2G6,6,43.739,-79.4692
+2086,Station Inc,337 Evans Ave,M8Z 1K2,6,43.6256,-79.5231
+2087,Mondiale Imports,30 Bertrand Ave,M1L 2P5,14,43.6256,-79.5231
+2088,Particle Control Inc,30 Bertrand Ave,M1L 2P5,14,43.7122,-79.2843
+2089,Mondiale Imports,30 Bertrand Ave,M1L 2P5,14,43.7122,-79.2843
+2090,Mariella's For Fashion,4943 Dundas St W,M9A 1B6,6,43.7122,-79.2843
+2091,Bila Me Corp,51 Harrison Garden Blvd,M2N 7G4,2,43.6662,-79.5282
+2092,Club Manato,1255 The Queensway,M8Z 1S1,6,43.7673,-79.4111
+2093,Danas Inc,28 Six Point Rd,M8Z 2W9,6,43.6256,-79.5231
+2094,Astro Screen Printing,22 Torlake Cres,M8Z 1B3,6,43.6256,-79.5231
+2095,Joy Fashions,1989 Lawrence Ave E,M1R 2Z2,18,43.6256,-79.5231
+2096,Fire Services Management,34 Torlake Cres,M8Z 1B3,6,43.7507,-79.3003
+2097,2413310 Ontario Ltd,102 Crockford Blvd,M1R 3C3,18,43.6256,-79.5231
+2098,Talent Map,45 Sheppard Ave E,M2N 5W9,2,43.7507,-79.3003
+2099,Rider Canada,1402-2560 KINGSTON ROAD,M1M 1L8,14,43.7673,-79.4111
+2100,SKT Jewellers&amp;Textiles,2062 Lawrence Ave E,M1R 2Z5,18,43.7247,-79.2312
+2101,Into Fashions,4841 Yonge St,M2N 5X2,2,43.7507,-79.3003
+2102,Reitmans 1020,4841 Yonge St,M2N 5X2,2,43.7673,-79.4111
+2103,The Fuller Woman Inc,5230 Dundas St W,M9B 1A8,6,43.7673,-79.4111
+2104,Ver Plus Size,2086 Lawrence Ave E,M1R 2Z5,18,43.6505,-79.5517
+2105,Isra Imports &amp; Exports,2088A Lawrence Ave E,M1R 2Z5,18,43.7507,-79.3003
+2106,Bayview Village Fashion Outlet,326 Sheppard Ave E,M2N 3B4,2,43.7507,-79.3003
+2107,Winners Apparel Ltd,4841 Yonge St,M2N 5X2,2,43.7673,-79.4111
+2108,Original Heck Clothing Co,4415 Bathurst St,M3H 3S1,2,43.7673,-79.4111
+2109,Garage Clothing Co The Holt Renfrew &amp; Co Limited,326 Sheppard Ave E,M2N 3B4,2,43.7535,-79.4472
+2110,Bayview Village Fashion Outlet,326 Sheppard Ave E,M2N 3B4,2,43.7673,-79.4111
+2111,Godsway Clothing Inc,2111 Jane St,M3M 1A2,2,43.7673,-79.4111
+2112,Rococo,22,M4T 2S3,12,43.7319,-79.4928
+2113,Fine Clothing Ltd,1470 The Queensway,M8Z 1T5,6,43.6899,-79.3853
